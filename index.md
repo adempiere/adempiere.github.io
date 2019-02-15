@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /home.png
-title: a
+title: ADempiere Documentation
 actionText: Get Started →
 actionLink: /functional-guide/
 ---
@@ -16,11 +16,11 @@ The collection includes a number of books covering the main topics of:
 
 **Generated automatically from ADempiere**
 
-* [Menu](/menu/)
-* [Window](/window/)
-* [Form](/form/)
-* [Smart Browsers](/smart-browse/)
-* [Process](/process/)
+* [Menu](functional-guide/menu/)
+* [Window](functional-guide/window/)
+* [Form](functional-guide/form/)
+* [Smart Browsers](functional-guide/smart-browse/)
+* [Process](functional-guide/process/)
 
 # More References
 - The official page is in: [http://www.adempiere.net](http://www.adempiere.net)
