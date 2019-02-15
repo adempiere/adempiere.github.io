@@ -16,11 +16,11 @@ The collection includes a number of books covering the main topics of:
 
 **Generated automatically from ADempiere**
 
-* [Menu](menu/)
-* [Window](window/)
-* [Form](form/)
-* [Smart Browsers](smart-browse/)
-* [Process](process/)
+* [Menu](/menu/)
+* [Window](/window/)
+* [Form](/form/)
+* [Smart Browsers](/smart-browse/)
+* [Process](/process/)
 
 # More References
 - The official page is in: [http://www.adempiere.net](http://www.adempiere.net)
