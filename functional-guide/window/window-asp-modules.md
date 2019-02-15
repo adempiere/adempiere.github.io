@@ -4,17 +4,17 @@ ASP Modules
 
 
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -24,10 +24,10 @@ Module
 ### Module
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -96,10 +96,10 @@ Level
 ### Level
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -176,9 +176,9 @@ Window
 ### Window
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -230,9 +230,9 @@ Tab
 ### Tab
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -292,9 +292,9 @@ Field
 ### Field
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -346,9 +346,9 @@ Process
 ### Process
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -400,9 +400,9 @@ Process Parameter
 ### Process Parameter
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -450,9 +450,9 @@ Form
 ### Form
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -504,9 +504,9 @@ Browse
 ### Browse
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -554,9 +554,9 @@ Task
 ### Task
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -608,9 +608,9 @@ Workflow
 ### Workflow
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

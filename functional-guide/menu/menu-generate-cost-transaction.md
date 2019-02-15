@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Cost Transaction](functional-guide/process/process-m_costdetail-generate-cost-transaction.md)
-:::
+```

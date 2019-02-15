@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [My Employee](functional-guide/window/window-my-employee.md)
-:::
+```

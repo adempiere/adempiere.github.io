@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Print & Release Order](functional-guide/process/process-pp_print--release-order.md)
-:::
+```

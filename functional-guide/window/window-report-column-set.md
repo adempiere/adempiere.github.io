@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Report Column Set
 **Help**
  *Column Sets are the combination of Columns to be included in a Financial Report*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -95,10 +95,10 @@ Sequence
 **Description**
  *Sequence of Column*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Report Column
 ### Report Column
 
@@ -107,9 +107,9 @@ Report Column
 **Help**
  *A column represents a column in a Financial Report*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -533,9 +533,9 @@ Report Source
 ### Report Source
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

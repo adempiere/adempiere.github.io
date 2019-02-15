@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Vehicle Type](functional-guide/window/window-vehicle-type.md)
-:::
+```

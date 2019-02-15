@@ -12,16 +12,16 @@ Payroll
 ### Payroll
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Payroll Process
 ### Payroll Process
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner Group
 ### Business Partner Group
 

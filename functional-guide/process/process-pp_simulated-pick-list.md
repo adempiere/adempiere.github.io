@@ -22,9 +22,9 @@ Product
 **Help**
  *Identifies an item which is either purchased or sold in this organization.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Warehouse
 ### Warehouse
 
@@ -33,9 +33,9 @@ Warehouse
 **Help**
  *The Warehouse identifies a unique Warehouse where products are stored or Services are provided.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Transaction Date
 ### Transaction Date
 
@@ -44,9 +44,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Qty Required
 ### Qty Required
 

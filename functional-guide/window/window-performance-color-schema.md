@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Color Schema
 **Help**
  *Visual representation of performance by color.  The Schema has often three levels (e.g. red-yellow-green).  Adempiere support two levels (e.g. red-green) or four levels (e.g. gray-bronce-silver-gold).  Note that Measures without a goal are represented white.  The percentages could be beween 0 and unlimited (i.e. above 100%).*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Project Member Type
 **Help**
  *Define the members type of a project member, The Project member type can be assigned to project member*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Update Accounting Balance](functional-guide/process/process-balance_update.md)
-:::
+```

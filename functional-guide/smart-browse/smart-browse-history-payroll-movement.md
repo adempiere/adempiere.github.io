@@ -5,9 +5,9 @@ History Payroll Movement
 
 This browser show the employee history movements for a payroll process  
 
-:::tip
+```
 [functional-guidewindowwindow-payroll-movement](functional-guidewindowwindow-payroll-movement.md)
-:::
+```
 
 Fields
 ## Fields

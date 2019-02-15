@@ -10,17 +10,17 @@ Help
 
 Attributes are specific to a Product Attribute Set (e.g. Size for T-Shirts: S,M,L). If you have multiple attributes and want to search under a common sttribute, you define a search sttribute. Example: have one Size search attribute combining the values of all different sizes (Size for Dress Shirt  XL,L,M,S,XS). The Attribute Search allows you to have all values available for selection.  This eases the maintenance of the individual product attribute.
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -34,9 +34,9 @@ Attribute Search
 **Help**
  *Attributes are specific to a Product Attribute Set (e.g. Size for T-Shirts: S,M,L). If you have multiple attributes and want to search under a common sttribute, you define a search sttribute. Example: have one Size search attribute combining the values of all different sizes (Size for Dress Shirt  XL,L,M,S,XS). The Attribute Search allows you to have all values available for selection.  This eases the maintenance of the individual product attribute.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -90,9 +90,9 @@ Assigned Attributes
 **Description**
  *Attributes assigned to this search attribute*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

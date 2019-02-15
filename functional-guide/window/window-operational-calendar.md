@@ -28,10 +28,10 @@ Calendar
 **Help**
  *With the goal of planning in mind, it is required a correct formation of periods groups, which needs to be measured, the operative calendars allows to set calendars with weekly and monthly periods.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -85,10 +85,10 @@ Period Definition
 **Description**
  *The period definition, allows to set a calendar year in order to multiple periods can be created.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -172,9 +172,9 @@ Periods
 **Help**
  *The periods are created based on period definition, each period has a name, period number, start date and end date, which set the date range for the specified period.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

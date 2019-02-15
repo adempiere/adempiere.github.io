@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Product Planning Data](functional-guide/window/window-product-planning-data.md)
-:::
+```

@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [C_Invoce Calculate Tax](functional-guide/process/process-c_invoce-calculate-tax.md)
-:::
+```

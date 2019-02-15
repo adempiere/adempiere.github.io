@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Processor](functional-guide/window/window-import-processor.md)
-:::
+```

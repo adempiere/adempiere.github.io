@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Context Info](functional-guide/window/window-context-info.md)
-:::
+```

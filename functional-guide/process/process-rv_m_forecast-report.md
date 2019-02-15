@@ -94,6 +94,6 @@ Date Promised
 **Help**
  *The Date Promised indicates the date, if any, that an Order was promised for.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

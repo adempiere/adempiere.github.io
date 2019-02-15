@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web Ad Management](functional-guide/window/window-web-ad-management.md)
-:::
+```

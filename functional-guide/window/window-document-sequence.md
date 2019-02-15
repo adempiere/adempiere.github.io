@@ -16,9 +16,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -32,10 +32,10 @@ Sequence
 **Help**
  *The Sequence Tab defines the numeric sequencing to use for documents.  These can also include a alpha suffix and / or prefix.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

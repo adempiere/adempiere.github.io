@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Distribution List
 **Help**
  *Distribution list contain business partners and a distribution quantity or ratio for creating Orders*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -106,9 +106,9 @@ Distribution Line
  *The distribution can be based on Ratio, fixed quantity or both.
 If the ratio and quantity is not 0, the quantity is calculated based on the ratio, but with the Quantity as a minimum.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

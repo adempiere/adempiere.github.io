@@ -20,9 +20,9 @@ Resource
 **Description**
  *Resource*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Schedule Type
 ### Schedule Type
 
@@ -31,6 +31,6 @@ Schedule Type
 **Help**
  *Define the method how the next occurrence is calculated*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

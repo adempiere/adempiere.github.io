@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Salary Structure](functional-guide/window/window-salary-structure.md)
-:::
+```

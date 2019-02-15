@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Reset Accounting](functional-guide/process/process-fact_acct_reset-delete.md)
-:::
+```

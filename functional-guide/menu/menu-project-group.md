@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Project Group](functional-guide/window/window-project-group.md)
-:::
+```

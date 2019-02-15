@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ All Employee
 **Help**
  *The Employee Tab defines Employee information.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -193,10 +193,10 @@ Personal Detail
 **Help**
  *The Personal Detail Tab  allows user to capture the personal information about the employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -562,9 +562,9 @@ Employee Attribute
 **Description**
  *Employee Attribute*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -712,9 +712,9 @@ Employee Weekly Off
 **Help**
  *The Employee Tab defines Employee information.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -789,9 +789,9 @@ Account Employee Detail
 **Help**
  *The Account Employee Detail Tab contains detail about employee's deduction and payment*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -838,10 +838,10 @@ Bank Detail
 **Help**
  *The Bank Detail Tab defines bank account  data of an employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1073,9 +1073,9 @@ Experience
 **Help**
  *The Experience Tab lists out all the prior experience of an employee*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1171,9 +1171,9 @@ Education
 **Help**
  *The Education Tab allows user to capture the educational information of an employee*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1265,9 +1265,9 @@ Dependents
 **Help**
  *The Dependents Tab allows user to capture the dependents of an employee.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1418,9 +1418,9 @@ Contact Detail
 **Help**
  *The Contact Detail Tab allows user to capture the contacts of an employee.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1528,10 +1528,10 @@ Insurance Detail
 **Help**
  *The Insurance Detail Tab allows user to capture the insurance information of an employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1689,9 +1689,9 @@ Leave Detail
 **Help**
  *The Leave Detail Tab show leave details of an employee*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1782,9 +1782,9 @@ Leave Credit History
 **Help**
  *The Leave Credit History Tab show leave balance of an employee*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

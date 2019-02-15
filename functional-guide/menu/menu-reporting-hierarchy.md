@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Reporting Hierarchy](functional-guide/window/window-reporting-hierarchy.md)
-:::
+```

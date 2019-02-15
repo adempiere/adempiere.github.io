@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Project
 **Help**
  *A web project is the meta definition which will contain later on all data within the Web Content Management Project.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -170,11 +170,11 @@ Container
 **Help**
  *View deployed Web Container Information.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 null
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -396,11 +396,11 @@ Container Translation
 **Help**
  *View deployed Web Container Translations*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -485,9 +485,9 @@ Container Element
 **Help**
  *View deployed Web Container Element*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -567,11 +567,11 @@ Container Element Translation
 **Help**
  *View deployed Web Container Element Translation*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -632,9 +632,9 @@ Container T.Table
 **Help**
  *Link to individual Record*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -730,11 +730,11 @@ Stage
 **Help**
  *Maintain Container Stage information.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -968,10 +968,10 @@ Stage Translation
 **Description**
  *Maintain Container Stage Translation*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 
@@ -1055,9 +1055,9 @@ Stage Element
 **Description**
  *Container Stage Element*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1136,10 +1136,10 @@ Stage Element Translation
 **Description**
  *Container Stage Element Translation*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 
@@ -1320,11 +1320,11 @@ Template
 **Help**
  *CM Project Template*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1467,9 +1467,9 @@ Template Table
 **Help**
  *Link a Template with a Table*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1557,9 +1557,9 @@ Template Ad Category
 **Help**
  *Link a Template with an Advertisement Category*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1629,11 +1629,11 @@ Media
 **Description**
  *Media Elements*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1738,10 +1738,10 @@ Domain
 **Help**
  *Link between the Web Project and the public URLs (Domains)*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1829,10 +1829,10 @@ Media Server
 **Help**
  *Media Server for the web project*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

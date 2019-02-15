@@ -10,9 +10,9 @@ Help
 
 The Period Spread Type window allows you to setup and review depreciation spread by period
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -27,9 +27,9 @@ Period Spread Type
 ### Period Spread Type
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

@@ -22,9 +22,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 No_Of_Periods
 ### No_Of_Periods
 
@@ -37,18 +37,18 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Batch Description
 ### Batch Description
 
 **Description**
  *Description of the Batch*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Accounting Schema
 ### Accounting Schema
 
@@ -57,9 +57,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delete old imported records
 ### Delete old imported records
 
@@ -74,6 +74,6 @@ Document Action
 **Help**
  *You find the current status in the Document Status field. The options are listed in a popup*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

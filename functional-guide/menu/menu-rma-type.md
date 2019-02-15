@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [RMA Type](functional-guide/window/window-rma-type.md)
-:::
+```

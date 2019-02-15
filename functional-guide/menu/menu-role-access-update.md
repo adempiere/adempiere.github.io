@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Role Access Update](functional-guide/process/process-ad_role_accessupdate.md)
-:::
+```

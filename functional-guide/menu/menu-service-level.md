@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Service Level](functional-guide/window/window-service-level.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Inbound/Outbound Strategy](functional-guide/window/window-inboundoutbound-strategy.md)
-:::
+```

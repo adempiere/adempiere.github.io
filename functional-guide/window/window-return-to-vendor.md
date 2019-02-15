@@ -28,10 +28,10 @@ Return to Vendor
 **Help**
  *The Return to Vendor Tab allows you to generate, maintain, enter and process Shipments to a Vendor because of a Return*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -427,9 +427,9 @@ Shipment Line
 **Help**
  *The Shipment Line Tab defines the individual items in a Shipment.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -634,9 +634,9 @@ Confirmations
 **Help**
  *The quantities are in the storage Unit of Measure!*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -727,10 +727,10 @@ Attributes
 **Description**
  *Product Instance Attribute Material Allocation*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

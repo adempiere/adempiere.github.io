@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Copy Price to Standard Cost](functional-guide/process/process-pp_copy-price-to-standard-cost.md)
-:::
+```

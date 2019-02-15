@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Text Search Log](functional-guide/window/window-text-search-log.md)
-:::
+```

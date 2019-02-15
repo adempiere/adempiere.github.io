@@ -15,9 +15,9 @@ Window Type
 
 **Transaction**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Request
 **Help**
  *The Request Tab defines any Request submitted by a Business Partner or internally.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -695,9 +695,9 @@ History
 **Help**
  *The History Tab displays changes of a Request. The data displayed are the OLD (changed from) values. The new data is in the request.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -960,9 +960,9 @@ Update Notification
 **Description**
  *List Recipients for to receive Request Updates*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1028,9 +1028,9 @@ Update Recipients
 Direct: Sales Rep, User and direct subscribers
 Indirect: Users with Role, Subscribers of updates for Request Category, Type, Group)*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

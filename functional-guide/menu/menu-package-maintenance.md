@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Package Maintenance](functional-guide/window/window-package-maintenance.md)
-:::
+```

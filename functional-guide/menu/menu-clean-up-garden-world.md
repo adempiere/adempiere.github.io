@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Clean Up Garden World](functional-guide/process/process-cleanupgardenworld.md)
-:::
+```

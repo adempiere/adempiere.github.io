@@ -17,10 +17,10 @@ Menu Type
 
 **Process**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Reset Allocation](functional-guide/process/process-c_allocation_reset.md)
-:::
+```

@@ -10,9 +10,9 @@ Help
 
 Send Mail to customers and attach new delivery (optional).
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Parameters
 ## Parameters
 
@@ -57,9 +57,9 @@ Guarantee Date
 **Help**
  *Date when the normal guarantee or availability expires*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Expired Guarantee Mail
 ### Expired Guarantee Mail
 

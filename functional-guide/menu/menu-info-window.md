@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Info Window](functional-guide/window/window-info-window.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [App Registration](functional-guide/window/window-app-registration.md)
-:::
+```

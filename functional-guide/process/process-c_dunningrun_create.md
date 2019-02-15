@@ -17,9 +17,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Include Disputed
 ### Include Disputed
 
@@ -38,27 +38,27 @@ Default Sales Rep
 **Description**
  *If not defined on Business Partner Level*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Dunning Currency
 ### Dunning Currency
 
 **Description**
  *Currency to create Dunning Letters*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Include All Currencies
 ### Include All Currencies
 
 **Description**
  *Report not just foreign currency Invoices*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner
 ### Business Partner
 

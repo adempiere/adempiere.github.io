@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Contact](functional-guide/window/window-contact.md)
-:::
+```

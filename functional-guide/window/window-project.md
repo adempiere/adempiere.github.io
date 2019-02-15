@@ -28,10 +28,10 @@ Project
 **Help**
  *The Project Tab is used to define the Value, Name and Description for each project.  It also is defines the tracks the amounts assigned to, committed to and used for this project. Note that when the project Type is changed, the Phases and Tasks are re-created.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -462,9 +462,9 @@ Project Line
 **Help**
  *Maintain Project Level Lines*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -698,9 +698,9 @@ Members
 **Help**
  *Maintenance Project Member*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -766,9 +766,9 @@ Phase
 **Help**
  *Actual Phase of the Project with Status information - generated from Phase of Project Type.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1178,9 +1178,9 @@ Phase Line
 **Help**
  *Maintain Project Lines on Phase Level*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1412,9 +1412,9 @@ Task
 **Help**
  *A Project Task in a Project Phase represents the actual work.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1826,9 +1826,9 @@ Task Request
 **Help**
  *Requests assigned this task*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -2421,9 +2421,9 @@ Task Line
 **Help**
  *Maintain Project Lines of Tasks*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -2657,10 +2657,10 @@ Accounting
 **Help**
  *The Accounting Tab is used to define the Asset Account to use when a project is completed and the associated asset realized.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
-:::
+```
 Fields
 ## Fields
 

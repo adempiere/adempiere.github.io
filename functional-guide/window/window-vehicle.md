@@ -34,10 +34,10 @@ Vehicle
 **Description**
  *Vehicle*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -245,9 +245,9 @@ Vehicle Asset
 **Description**
  *Vehicle Asset*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -536,9 +536,9 @@ Product
 **Help**
  *The Product Tab defines each product and identifies it for use in price lists and orders. The Location is the default location when receiving the stored product.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -756,9 +756,9 @@ Driver Assignment
 ### Driver Assignment
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -812,9 +812,9 @@ Transport Assignment
 **Description**
  *Transport Assignment*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -868,9 +868,9 @@ License Assignment
 **Description**
  *License Assignment*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -924,9 +924,9 @@ Requirement Assignment
 **Description**
  *Requirement Assignment*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

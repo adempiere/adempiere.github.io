@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Interest Area
 **Help**
  *Interest Areas reflect interest in a topic by a contact. Interest areas can be used for marketing campaigns. If a list is not "Self Service", it is not visible for users via the web.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -104,9 +104,9 @@ Subscriptions
 **Description**
  *User Subscriptions*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -176,10 +176,10 @@ LDAP Access
 **Description**
  *User Access via LDAP*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

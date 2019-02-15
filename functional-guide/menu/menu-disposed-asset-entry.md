@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Disposed Asset Entry](functional-guide/window/window-disposed-asset-entry.md)
-:::
+```

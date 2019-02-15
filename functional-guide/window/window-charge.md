@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -32,10 +32,10 @@ Charge
  *The Charge Tab defines the unique charges that may be associated with a document.
 The optional Business Partner allows to create Purchase Orders from Requisitions.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -141,10 +141,10 @@ Translation
 **Help**
  *The Translation Tab defines a Document Type in an alternate language.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 
@@ -224,11 +224,11 @@ Accounting
 **Help**
  *The Accounting Tab defines the accounting parameters used for transactions including a charge or charges.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

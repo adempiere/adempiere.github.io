@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Interest Area](functional-guide/window/window-interest-area.md)
-:::
+```

@@ -68,9 +68,9 @@ Product Class
 **Help**
  *Identifies the Class which this product belongs to*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product Classification
 ### Product Classification
 

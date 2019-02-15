@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Replication Strategy
 **Help**
  *The Data Replication Strategy determines which tables and how they are replicated. Note that the migration does not syncronize Application Dictionary items.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -120,9 +120,9 @@ Replication Table
 **Help**
  *Determines how the table is replicated. You have full access to Local tables, Reference tables are on Remote systems and are read-only. The data of Merge tables on Remote systems is copied to the central system.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -207,9 +207,9 @@ Replication Document
 **Help**
  *Determines how the document is replicated. You have full access to document, Reference document are on Remote systems and are read-only. The data of Merge document on Remote systems is copied to the central system.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -292,9 +292,9 @@ Organization Access
 **Help**
  *Organizations Access for Replication Strategy*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -342,9 +342,9 @@ Role Access
 **Help**
  *Role Access for Replication Strategy*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

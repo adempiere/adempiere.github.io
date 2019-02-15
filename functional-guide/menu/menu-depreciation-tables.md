@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Depreciation Tables](functional-guide/window/window-depreciation-tables.md)
-:::
+```

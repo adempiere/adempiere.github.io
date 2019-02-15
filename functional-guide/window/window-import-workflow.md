@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Import Workflow
 **Help**
  *Before importing, Adempiere checks the IDs,  Adempiere tries to map to existing Workflow. If the imported record could be matched, Workflow field values will only be overwritten, if the corresponding  Import field is explicitly.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

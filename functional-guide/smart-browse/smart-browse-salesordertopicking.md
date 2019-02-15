@@ -5,18 +5,18 @@ Salas Order to Picking
 
 This Smart Browse allow select the Sales Order to generate an Outbound Order.
 
-:::tip
+```
 [functional-guidewindowwindow-sales-order](functional-guidewindowwindow-sales-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-wm_inoutbound-generate](functional-guide/process/process-wm_inoutbound-generate.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

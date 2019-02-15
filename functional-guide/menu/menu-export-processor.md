@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Export Processor](functional-guide/window/window-export-processor.md)
-:::
+```

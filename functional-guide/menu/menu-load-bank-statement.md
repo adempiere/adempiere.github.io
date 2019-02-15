@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Load Bank Statement](functional-guide/process/process-load_bankstatement.md)
-:::
+```

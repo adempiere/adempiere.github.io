@@ -17,9 +17,9 @@ Product
 **Help**
  *Identifies an item which is either purchased or sold in this organization.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Substitute
 ### Substitute
 
@@ -28,6 +28,6 @@ Substitute
 **Help**
  *The Substitute identifies the entity to be used as a substitute for this entity.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

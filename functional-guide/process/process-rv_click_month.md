@@ -22,9 +22,9 @@ Created
 **Help**
  *The Created field indicates the date that this record was created.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Business Partner
 ### Business Partner
 

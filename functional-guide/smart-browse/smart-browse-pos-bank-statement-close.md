@@ -5,17 +5,17 @@ POS Bank Statement Close
 
 This Smart Browser allows to close the statement for POS Terminal
 
-:::tip
+```
 [functional-guidewindowwindow-payment](functional-guidewindowwindow-payment.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-c_pos-bank-statement-close](functional-guide/process/process-c_pos-bank-statement-close.md)
-:::
+```
 
-:::tip
+```
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

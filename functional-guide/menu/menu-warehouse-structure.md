@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Warehouse Structure](functional-guide/window/window-warehouse-structure.md)
-:::
+```

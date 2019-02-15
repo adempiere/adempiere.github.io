@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Media Item](functional-guide/window/window-media-item.md)
-:::
+```

@@ -25,6 +25,6 @@ Expense Date
 **Help**
  *Date of expense*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

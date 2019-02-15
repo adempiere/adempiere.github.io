@@ -12,16 +12,16 @@ Bank Account From
 ### Bank Account From
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Bank Account To
 ### Bank Account To
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Amount
 ### Amount
 
@@ -30,9 +30,9 @@ Amount
 **Help**
  *The Amount indicates the amount for this document line.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Cash Book
 ### Cash Book
 
@@ -41,9 +41,9 @@ Cash Book
 **Help**
  *The Cash Book identifies a unique cash book.  The cash book is used to record cash transactions.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Name
 ### Name
 
@@ -52,9 +52,9 @@ Name
 **Help**
  *The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Description
 ### Description
 
@@ -71,9 +71,9 @@ Statement date
 **Help**
  *The Statement Date field defines the date of the statement.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Account Date
 ### Account Date
 
@@ -82,6 +82,6 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

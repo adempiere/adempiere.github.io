@@ -30,9 +30,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Warehouse
 ### Warehouse
 
@@ -49,9 +49,9 @@ Cost Type
 **Help**
  *You can define multiple cost types. A cost type selected in an Accounting Schema is used for accounting.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Costing Method
 ### Costing Method
 
@@ -60,9 +60,9 @@ Costing Method
 **Help**
  *The Costing Method indicates how costs will be calculated (Standard, Average, Lifo, FiFo).  The default costing method is defined on accounting schema level and can be optionally overwritten in the product category.  The costing method cannot conflict with the Material Movement Policy (defined on Product Category).*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product
 ### Product
 
@@ -71,6 +71,6 @@ Product
 **Help**
  *Identifies an item which is either purchased or sold in this organization.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

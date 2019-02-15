@@ -10,13 +10,13 @@ Help
 
 In this Smart Browser, it is possible to review the status of a Fixed Assets
 
-:::tip
+```
 [functional-guidewindowwindow-asset](functional-guidewindowwindow-asset.md)
-:::
+```
 
-:::tip
+```
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

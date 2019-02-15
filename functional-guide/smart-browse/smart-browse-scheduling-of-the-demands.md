@@ -10,13 +10,13 @@ Help
 
 This browser allows to display demands to schedule
 
-:::tip
+```
 [functional-guidewindowwindow-mrp-demands-view](functional-guidewindowwindow-mrp-demands-view.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-mrp_schedule](functional-guide/process/process-mrp_schedule.md)
-:::
+```
 
 Fields
 ## Fields

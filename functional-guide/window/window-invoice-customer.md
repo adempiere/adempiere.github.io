@@ -15,9 +15,9 @@ Window Type
 
 **Transaction**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Invoice
 **Help**
  *The Invoice Tab defines the parameters of an Invoice generated for a Business Partner.  It constitutes an accounts receivable.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -385,10 +385,10 @@ Invoice Line
 **Help**
  *The Invoice Line Tab defines the individual items or charges on an Invoice.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -645,9 +645,9 @@ Invoice Tax
 **Help**
  *The Invoice Tax Tab displays the total tax due based on the Invoice Lines.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -714,10 +714,10 @@ Payment Schedule
 **Description**
  *Invoice Payment Schedule*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -817,10 +817,10 @@ Allocation
 **Description**
  *Allocation of the Invoice to Payments or Cash*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

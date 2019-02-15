@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web Project](functional-guide/window/window-web-project.md)
-:::
+```

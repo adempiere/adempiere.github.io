@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Budget](functional-guide/window/window-import-budget.md)
-:::
+```

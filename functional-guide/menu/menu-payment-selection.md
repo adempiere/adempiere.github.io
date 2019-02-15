@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payment Selection](functional-guide/window/window-payment-selection.md)
-:::
+```

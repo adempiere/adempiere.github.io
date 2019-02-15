@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Commission Run](functional-guide/window/window-commission-run.md)
-:::
+```

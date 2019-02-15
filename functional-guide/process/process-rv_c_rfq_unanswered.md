@@ -38,6 +38,6 @@ Response Date
 **Help**
  *Date of the Response*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

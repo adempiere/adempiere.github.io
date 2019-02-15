@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Request EMail Processor](functional-guide/process/process-request-email-processor.md)
-:::
+```

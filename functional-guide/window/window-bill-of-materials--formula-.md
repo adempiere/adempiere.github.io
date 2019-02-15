@@ -29,10 +29,10 @@ Parent Product
 **Help**
  *Define the Parent Product to this BOM & Formula*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -191,10 +191,10 @@ Parent Product Translation
 ### Parent Product Translation
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 
@@ -280,9 +280,9 @@ Components of the BOM & Formula
 **Help**
  *The information relative to every component that will be used in the BOM & Formula of the finished product.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -513,9 +513,9 @@ Components Translation
 **Description**
  *BOM & Formula Line Translation*
 
-:::tip
+```
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 

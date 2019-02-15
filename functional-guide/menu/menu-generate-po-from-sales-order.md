@@ -17,10 +17,10 @@ Menu Type
 
 **Process**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Generate PO from Sales Order](functional-guide/process/process-c_order-po_create.md)
-:::
+```

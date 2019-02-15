@@ -10,17 +10,17 @@ Help
 
 Service Levels are generated when an invoice with products based on revenue recognition rules are generated.  You need to update the actual service level by adding an additional line.
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -34,9 +34,9 @@ Service Level
 **Help**
  *The service level is automatically created when creating an invoice with products using revenue recognition based on service levels.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -120,9 +120,9 @@ Service Level Line
 **Help**
  *Add new service level lines to change the recognized amount*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

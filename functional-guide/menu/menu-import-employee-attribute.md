@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Employee Attribute](functional-guide/window/window-import-employee-attribute.md)
-:::
+```

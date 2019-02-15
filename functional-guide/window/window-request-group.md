@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -32,9 +32,9 @@ Request Group
  *Group of requests (e.g. version numbers, responsibility, ...). 
 If a BOM is referenced  and enabled in Request Type, a BOM Change Request is automatically created.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -108,9 +108,9 @@ Request Updates
 **Description**
  *List Recipients for to receive Request Updates*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

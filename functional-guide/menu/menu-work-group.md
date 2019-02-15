@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Work Group](functional-guide/window/window-work-group.md)
-:::
+```

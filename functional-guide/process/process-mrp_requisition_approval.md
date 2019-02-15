@@ -27,9 +27,9 @@ Order Type
 **Description**
  *Type of Order: MRP records grouped by source (Sales Order, Purchase Order, Distribution Order, Requisition)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Priority
 ### Priority
 

@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [GL Distribution](functional-guide/window/window-gl-distribution.md)
-:::
+```

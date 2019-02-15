@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Replenish Plan Report](functional-guide/process/process-replenishplan.md)
-:::
+```

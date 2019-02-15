@@ -28,9 +28,9 @@ Price List Schema
 **Help**
  *Price List schema defines calculation rules for price lists*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -126,9 +126,9 @@ if MaxMargin <> 0 then NewPrice = Min (NewPrice, Convert(OrigLimitPrice) + MaxMa
 Original Prices:  List=300, Standard=250, Limit=200;
 New List Price: Base=List, Surcharge=0, Discount=0, Round*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

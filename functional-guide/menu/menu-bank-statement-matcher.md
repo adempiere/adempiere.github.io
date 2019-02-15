@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Bank Statement Matcher](functional-guide/window/window-bank-statement-matcher.md)
-:::
+```

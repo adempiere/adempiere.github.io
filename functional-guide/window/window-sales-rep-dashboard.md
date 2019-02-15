@@ -5,17 +5,17 @@ Sales Rep Dashboard
 
 The Sales Rep Dashboard provides a single location for managing sales opportunities
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -27,11 +27,11 @@ Dashboard
 **Description**
  *Sales Rep dashboard*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -62,9 +62,9 @@ Leads
 **Description**
  *Leads assigned to Sales Rep*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -260,9 +260,9 @@ Opportunities
 **Description**
  *Opportunities assigned to Sales Rep*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -409,9 +409,9 @@ Activities
 **Description**
  *Sales Rep Activities*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

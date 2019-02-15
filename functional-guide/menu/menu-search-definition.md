@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Search Definition](functional-guide/window/window-search-definition.md)
-:::
+```

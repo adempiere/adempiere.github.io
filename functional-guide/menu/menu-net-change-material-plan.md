@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Net Change Material Plan](functional-guide/process/process-mrp_net_change-material-plan.md)
-:::
+```

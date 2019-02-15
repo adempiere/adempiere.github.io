@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Auction Buyer](functional-guide/window/window-auction-buyer.md)
-:::
+```

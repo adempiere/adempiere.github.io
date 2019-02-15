@@ -15,9 +15,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -29,10 +29,10 @@ Daily Balances
 **Description**
  *View daily accounting balances*
 
-:::tip
+```
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

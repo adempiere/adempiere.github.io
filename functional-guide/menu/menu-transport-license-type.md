@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Transport License Type](functional-guide/window/window-transport-license-type.md)
-:::
+```

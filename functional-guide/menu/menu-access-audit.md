@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Access Audit](functional-guide/window/window-access-audit.md)
-:::
+```

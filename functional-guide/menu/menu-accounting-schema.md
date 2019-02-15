@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Accounting Schema](functional-guide/window/window-accounting-schema.md)
-:::
+```

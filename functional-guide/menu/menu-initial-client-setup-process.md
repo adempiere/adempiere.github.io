@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Initial Client Setup Process](functional-guide/process/process-initialclientsetup.md)
-:::
+```

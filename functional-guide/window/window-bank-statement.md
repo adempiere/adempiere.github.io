@@ -15,9 +15,9 @@ Window Type
 
 **Transaction**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Bank Statement
 **Help**
  *The Bank Statement Tab defines the Bank Statement to be reconciled.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -215,10 +215,10 @@ Statement Line
  *The Statement Line Tab defines the individual line items on the Bank Statement.  They can be entered manually or generated from payments entered.
 * For Posting, the bank account organization is used, if it is not a charge.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Leave Type](functional-guide/window/window-leave-type.md)
-:::
+```

@@ -17,9 +17,9 @@ POS Terminal
 **Help**
  *The POS Terminal defines the defaults and functions available for the POS Form*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner
 ### Business Partner
 
@@ -28,9 +28,9 @@ Business Partner
 **Help**
  *A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document No
 ### Document No
 
@@ -57,9 +57,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Account Date
 ### Account Date
 
@@ -68,9 +68,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Bank Account
 ### Bank Account
 
@@ -79,18 +79,18 @@ Bank Account
 **Help**
  *The Bank Account identifies an account at this Bank.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Transfer Cash trx to
 ### Transfer Cash trx to
 
 **Description**
  *Bank Account on which to transfer all Cash transactions*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Type
 ### Document Type
 
@@ -115,9 +115,9 @@ Charge
 **Help**
  *The Charge indicates a type of Charge (Handling, Shipping, Restocking)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Currency
 ### Currency
 
@@ -126,6 +126,6 @@ Currency
 **Help**
  *Indicates the Currency to be used when processing or reporting on this record*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

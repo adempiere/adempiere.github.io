@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Job Education](functional-guide/window/window-job-education.md)
-:::
+```

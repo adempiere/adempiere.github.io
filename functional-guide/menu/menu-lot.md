@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Lot](functional-guide/window/window-lot.md)
-:::
+```

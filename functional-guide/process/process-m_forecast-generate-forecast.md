@@ -47,9 +47,9 @@ Forecast Run
 **Description**
  *Create the forecast simulation based on the forecast definition*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Forecast
 ### Forecast
 
@@ -58,9 +58,9 @@ Forecast
 **Help**
  *Material Forecast*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Date Promised
 ### Date Promised
 
@@ -69,28 +69,28 @@ Date Promised
 **Help**
  *The Date Promised indicates the date, if any, that an Order was promised for.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Forecast Action Type
 ### Forecast Action Type
 
 **Description**
  *Forecast is replaced or combined*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Forecast Load Type
 ### Forecast Load Type
 
 **Description**
  *Load Type indicated that period date is use to create the forecast line.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Days after due date
 ### Days after due date
 

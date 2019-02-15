@@ -17,9 +17,9 @@ Currency
 **Help**
  *Indicates the Currency to be used when processing or reporting on this record*
 
-:::tip
+```
 null
-:::
+```
 Target Document Type
 ### Target Document Type
 
@@ -36,9 +36,9 @@ Document Date
 **Help**
  *The Document Date indicates the date the document was generated.  It may or may not be the same as the accounting date.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Bank Account
 ### Bank Account
 
@@ -47,9 +47,9 @@ Bank Account
 **Help**
  *The Bank Account identifies an account at this Bank.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Payment date
 ### Payment date
 
@@ -58,9 +58,9 @@ Payment date
 **Help**
  *The Payment Date indicates the date the payment was made.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Tender type
 ### Tender type
 
@@ -69,9 +69,9 @@ Tender type
 **Help**
  *The Tender Type indicates the method of payment (ACH or Direct Deposit, Credit Card, Check, Direct Debit)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Payment amount
 ### Payment amount
 

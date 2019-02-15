@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Component Check](functional-guide/process/process-pp_component-check.md)
-:::
+```

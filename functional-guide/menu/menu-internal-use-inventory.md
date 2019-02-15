@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Internal Use Inventory](functional-guide/window/window-internal-use-inventory.md)
-:::
+```

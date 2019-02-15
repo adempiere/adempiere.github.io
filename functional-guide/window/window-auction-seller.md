@@ -10,9 +10,9 @@ Help
 
 A seller is a User in the system participating in Auctions
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -31,9 +31,9 @@ Seller
 **Help**
  *Information about a participant in an Auction as a Seller*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -111,9 +111,9 @@ Funds
 **Help**
  *Available Funds (for Payments) and Committed or Uncommited funds from Offers*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -191,9 +191,9 @@ Offer
 **Help**
  *You can create an offer for a topic.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

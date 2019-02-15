@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Calculate Distribution Plan](functional-guide/process/process-drp_calculate-distribution-plan.md)
-:::
+```

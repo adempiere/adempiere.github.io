@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Part Type](functional-guide/window/window-part-type.md)
-:::
+```

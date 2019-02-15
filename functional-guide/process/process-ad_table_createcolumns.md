@@ -24,15 +24,15 @@ Entity Type
 
 For customizations, copy the entity and select "User"!*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Check all DB Tables
 ### Check all DB Tables
 
 **Description**
  *Check not just this table*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [FA_ProjectCreateAsset](functional-guide/process/process-fa_projectcreateasset.md)
-:::
+```

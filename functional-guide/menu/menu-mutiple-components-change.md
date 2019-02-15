@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Mutiple Components Change](functional-guide/process/process-pp_mutiple-components-change.md)
-:::
+```

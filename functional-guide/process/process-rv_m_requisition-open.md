@@ -39,6 +39,6 @@ Date Required
 **Description**
  *Date when required*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

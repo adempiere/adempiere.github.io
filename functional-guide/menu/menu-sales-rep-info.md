@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Sales Rep Info](functional-guide/window/window-sales-rep-info.md)
-:::
+```

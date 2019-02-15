@@ -10,9 +10,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -26,10 +26,10 @@ Payroll Report
 **Help**
  *Payroll Report Definition*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -127,10 +127,10 @@ Report Line Sequence
 **Help**
  *Sequence*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Payroll Report Line
 ### Payroll Report Line
 
@@ -139,9 +139,9 @@ Payroll Report Line
 **Help**
  *Payroll Report Line Definition*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -231,10 +231,10 @@ Report Source Sequence
 **Help**
  *Report Source Sequence*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Payroll Report Source
 ### Payroll Report Source
 
@@ -243,9 +243,9 @@ Payroll Report Source
 **Help**
  *Payroll Report Source Definition*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -329,9 +329,9 @@ Payroll Report Template
 **Description**
  *Payroll Report Template from Print Format*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -397,9 +397,9 @@ Allocated Payroll
 **Description**
  *Allocated Payroll*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

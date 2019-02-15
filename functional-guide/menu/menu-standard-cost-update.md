@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Standard Cost Update](functional-guide/process/process-m_cost_update.md)
-:::
+```

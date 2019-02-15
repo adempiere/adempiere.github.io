@@ -10,6 +10,6 @@ Help
 
 This process only need run one time by client
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```

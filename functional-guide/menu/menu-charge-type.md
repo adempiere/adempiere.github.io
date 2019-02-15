@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Charge Type](functional-guide/window/window-charge-type.md)
-:::
+```

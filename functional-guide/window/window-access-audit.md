@@ -15,9 +15,9 @@ Window Type
 
 **Query Only**
 
-::: tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Access Audit
 **Help**
  *Logging needs to be explicitly enabled / written.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -128,10 +128,10 @@ Access Audit
 **Help**
  *Logging needs to be explicitly enabled / written.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

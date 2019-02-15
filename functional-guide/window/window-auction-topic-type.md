@@ -10,17 +10,17 @@ Help
 
 The Auction Topic Type determines what kind of auction is used for a particular area
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -34,9 +34,9 @@ Topic Type
 **Help**
  *The Auction Topic Type determines what kind of auction is used for a particular area*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -128,9 +128,9 @@ Type Category
 **Help**
  *For an Auction Topic Type, define the different Categories used.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

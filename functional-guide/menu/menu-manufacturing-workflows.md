@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Manufacturing Workflows](functional-guide/window/window-manufacturing-workflows.md)
-:::
+```

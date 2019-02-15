@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Document Status Indicator](functional-guide/window/window-document-status-indicator.md)
-:::
+```

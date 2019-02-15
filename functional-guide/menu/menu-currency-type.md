@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Currency Type](functional-guide/window/window-currency-type.md)
-:::
+```

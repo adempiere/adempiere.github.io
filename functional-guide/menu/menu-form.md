@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Form](functional-guide/window/window-form.md)
-:::
+```

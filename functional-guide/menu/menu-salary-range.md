@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Salary Range](functional-guide/window/window-salary-range.md)
-:::
+```

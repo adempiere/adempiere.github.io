@@ -10,18 +10,18 @@ Help
 
 For a deposit can be created is need a bank statement in cash
 
-:::tip
+```
 [functional-guidewindowwindow-cash](functional-guidewindowwindow-cash.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbpdepositfromcash](functional-guide/process/process-sbpdepositfromcash.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

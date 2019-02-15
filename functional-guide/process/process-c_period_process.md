@@ -17,6 +17,6 @@ Period Action
 **Help**
  *The Period Action indicates the action to be taken for this period.  For example 'Close Period' or 'Open Period'.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

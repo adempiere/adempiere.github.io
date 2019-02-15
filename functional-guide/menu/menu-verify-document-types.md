@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Verify Document Types](functional-guide/process/process-c_documenttype-verify.md)
-:::
+```

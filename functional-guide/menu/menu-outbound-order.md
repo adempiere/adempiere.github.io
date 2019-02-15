@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Outbound Order](functional-guide/window/window-outbound-order.md)
-:::
+```

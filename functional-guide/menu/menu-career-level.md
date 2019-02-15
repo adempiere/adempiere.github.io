@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Career Level](functional-guide/window/window-career-level.md)
-:::
+```

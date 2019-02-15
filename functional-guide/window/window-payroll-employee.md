@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Business Partner
 **Help**
  *The Payroll Employee Window is used to define the Jobs into the Organizational Structure for a Company*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -193,10 +193,10 @@ Employee
 **Help**
  *The Business Partner Tab defines any Entity with whom an organization transacts.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -564,10 +564,10 @@ Employee Accounting
 **Help**
  *The Employee Accounting Tab defines the default accounts to use when this business partner is referenced on a expense reimbursement.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
-:::
+```
 Fields
 ## Fields
 
@@ -639,10 +639,10 @@ Attribute
 **Help**
  *The Business Partner Tab defines any Entity with whom an organization transacts.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -790,10 +790,10 @@ Bank Account
 **Help**
  *The Define Bank Account Tab defines the banking information for this business partner.  This data is used for processing payments and remittances.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1025,10 +1025,10 @@ Location
 **Help**
  *The Location Tab defines the physical location of a business partner.  A business partner may have multiple location records.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1116,10 +1116,10 @@ Contact (User)
 **Help**
  *The User identifies a unique user in the system. This could be an internal user or a business partner contact*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -1229,9 +1229,9 @@ Interest Area
 **Help**
  *Interest Area can be used for Marketing Campaigns*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

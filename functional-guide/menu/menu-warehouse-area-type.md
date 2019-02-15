@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Warehouse Area Type](functional-guide/window/window-warehouse-area-type.md)
-:::
+```

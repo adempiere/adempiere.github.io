@@ -22,6 +22,6 @@ Business Partner
 **Help**
  *A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

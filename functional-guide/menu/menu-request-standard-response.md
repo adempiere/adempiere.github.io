@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Request Standard Response](functional-guide/window/window-request-standard-response.md)
-:::
+```

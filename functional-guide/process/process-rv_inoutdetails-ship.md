@@ -38,9 +38,9 @@ Movement Date
 **Help**
  *The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Locator Key
 ### Locator Key
 

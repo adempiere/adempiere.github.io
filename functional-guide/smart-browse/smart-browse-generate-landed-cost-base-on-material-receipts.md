@@ -10,18 +10,18 @@ Help
 
 This browser allows to display receipts
 
-:::tip
+```
 [functional-guidewindowwindow-material-receipt](functional-guidewindowwindow-material-receipt.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-c_landedcost-receipts](functional-guide/process/process-c_landedcost-receipts.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

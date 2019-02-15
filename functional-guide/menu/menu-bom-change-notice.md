@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [BOM Change Notice](functional-guide/window/window-bom-change-notice.md)
-:::
+```

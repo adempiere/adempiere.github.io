@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Recompile DB Objects](functional-guide/process/process-dba_recompile.md)
-:::
+```

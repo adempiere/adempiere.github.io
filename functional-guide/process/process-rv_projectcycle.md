@@ -23,6 +23,6 @@ Project Cycle
 **Help**
  *Identifies a Project Cycle which can be made up of one or more cycle steps and cycle phases.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

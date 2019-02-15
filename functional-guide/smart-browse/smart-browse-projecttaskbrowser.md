@@ -10,17 +10,17 @@ Help
 
 In this Smart Browser, it is possible to update the status of a phase or tasks, updating progress or deadline of the task.
 
-:::tip
+```
 [functional-guidewindowwindow-project](functional-guidewindowwindow-project.md)
-:::
+```
 
-:::tip
+```
 The Updatable checkbox indicates if a field can be updated by the user.
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

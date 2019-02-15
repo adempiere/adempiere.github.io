@@ -74,9 +74,9 @@ Start Date
 **Help**
  *The Start Date indicates the first or starting date*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 End Date
 ### End Date
 
@@ -85,18 +85,18 @@ End Date
 **Help**
  *The End Date indicates the last date in this range.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Daily Salary
 ### Daily Salary
 
 **Description**
  *Daily Salary*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Monthly Salary
 ### Monthly Salary
 
@@ -105,9 +105,9 @@ Monthly Salary
 **Help**
  *The Monthly Salary of an Employee*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Valid from
 ### Valid from
 
@@ -116,6 +116,6 @@ Valid from
 **Help**
  *The Valid From date indicates the first day of a date range*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

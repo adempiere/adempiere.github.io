@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cashbook](functional-guide/window/window-cashbook.md)
-:::
+```

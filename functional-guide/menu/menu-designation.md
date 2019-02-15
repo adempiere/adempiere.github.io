@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Designation](functional-guide/window/window-designation.md)
-:::
+```

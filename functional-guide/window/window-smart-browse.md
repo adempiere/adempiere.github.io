@@ -28,10 +28,10 @@ Smart Browse
 **Help**
  *The Smart Browse  is used to search and select records as well as display information relevant to the selection.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -230,9 +230,9 @@ Access
 **Help**
  *The Smart Browse Access Tab defines the Roles which have access to this Smart Browse.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -288,11 +288,11 @@ Smart Browse Translation
 ### Smart Browse Translation
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -376,9 +376,9 @@ Browse Field
 **Help**
  *You can define for each field will be displayed as the reference , system element , also you can define if the field is used as query criteria and if this is a range of information.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -727,10 +727,10 @@ Browse Fields Tranlation
 ### Browse Fields Tranlation
 
 
-:::tip
+```
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -814,10 +814,10 @@ Browse Fields Sequence
 **Help**
  *The tab field sequence allows you to define fields that will be displayed in Smart Browser and the order they are displayed, you can easily include or exclud*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Browse Fields Query Criteria
 ### Browse Fields Query Criteria
 
@@ -826,17 +826,17 @@ Browse Fields Query Criteria
 **Help**
  *The tab field sequence allows you to define fields that will be displayed in Search Panel of Smart Browser and the order they are displayed, you can easily include or exclud*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Sort Order Browse Fields
 ### Sort Order Browse Fields
 
 **Description**
  *Sort Order of the  Browse Fields*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```

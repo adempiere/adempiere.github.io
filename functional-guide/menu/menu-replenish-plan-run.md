@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Replenish Plan Run](functional-guide/window/window-replenish-plan-run.md)
-:::
+```

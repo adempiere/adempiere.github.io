@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Import GL Journal](functional-guide/window/window-import-gl-journal.md)
-:::
+```

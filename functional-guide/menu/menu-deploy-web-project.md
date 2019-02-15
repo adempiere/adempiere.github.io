@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Deploy Web Project](functional-guide/process/process-cm_deploy.md)
-:::
+```

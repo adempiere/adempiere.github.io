@@ -28,10 +28,10 @@ Job Application
 **Help**
  *The Job Application Tab allow register of the information of specific Job Opening*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -304,10 +304,10 @@ Interview Detail
 **Help**
  *The Interview Detail Tab allow register feedback and rating of an interview.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

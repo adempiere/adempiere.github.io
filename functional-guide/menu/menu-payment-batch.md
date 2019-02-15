@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payment Batch](functional-guide/window/window-payment-batch.md)
-:::
+```

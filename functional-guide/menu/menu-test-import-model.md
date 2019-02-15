@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Test Import Model](functional-guide/process/process-exp_format-testimportmodel.md)
-:::
+```

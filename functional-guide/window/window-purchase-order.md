@@ -28,10 +28,10 @@ Purchase Order
 **Help**
  *The Order Header Tab defines the parameters of an order.  The field values defined will determine how the Order Lines are processed.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -416,10 +416,10 @@ PO Line
 **Help**
  *The Purchase Order Line Tab defines the individual items in an order.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -716,10 +716,10 @@ Matching
 **Description**
  *Material Receipt or Invoice Lines matched to this Purchse Order Line*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -818,10 +818,10 @@ Requisition Lines
 **Description**
  *Related Purchase Requisition Lines*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -912,9 +912,9 @@ Order Tax
 **Help**
  *The Order Tax Tab displays the tax associated with the Order Lines.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

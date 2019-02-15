@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Sales History](functional-guide/process/process-c_saleshistory_generate.md)
-:::
+```

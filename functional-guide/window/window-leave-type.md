@@ -28,10 +28,10 @@ Leave Type
 **Help**
  *The Leave Type Tab allow define Leave Type detail of an employee*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -185,9 +185,9 @@ Leave Request Combination Allowed
 **Help**
  *The Leave Request Combination allows to define a Leave Type combination valid*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -227,9 +227,9 @@ Leave Type for Employee Type
 **Help**
  *The Leave Type by employee type, is used to define a Leave Type by  employee type*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

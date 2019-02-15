@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Planned Manufacturing Order](functional-guide/window/window-planned-manufacturing-order.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web POS BlackListCheque](functional-guide/window/window-web-pos-blacklistcheque.md)
-:::
+```

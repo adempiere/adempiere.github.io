@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Immediate Bank Transfer](functional-guide/process/process-immediatebanktransfer.md)
-:::
+```

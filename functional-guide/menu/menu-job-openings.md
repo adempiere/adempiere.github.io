@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Job Openings](functional-guide/window/window-job-openings.md)
-:::
+```

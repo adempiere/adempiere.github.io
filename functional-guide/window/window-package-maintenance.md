@@ -26,9 +26,9 @@ Package Installation Log
 **Description**
  *Installation history of packages*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -135,9 +135,9 @@ Objects Installed
 ### Objects Installed
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -230,9 +230,9 @@ Object Backups
 **Help**
  *Displays values for each column for each record that was updated by a package install.  This backup is used in the package reversal process.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

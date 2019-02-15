@@ -22,9 +22,9 @@ Request Type
 **Help**
  *Request Types are used for processing and categorizing requests. Options are Account Inquiry, Warranty Issue, etc.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Group
 ### Group
 

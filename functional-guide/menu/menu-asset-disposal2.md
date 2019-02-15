@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Asset Disposal2](functional-guide/window/window-asset-disposal2.md)
-:::
+```

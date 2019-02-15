@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Process Audit](functional-guide/window/window-process-audit.md)
-:::
+```

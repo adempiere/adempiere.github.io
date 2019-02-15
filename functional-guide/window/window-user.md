@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ User Contact
 **Help**
  *The User Tab defines the log in for Users who have access to the system.  For application access, users need to have a role assigned.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -344,9 +344,9 @@ User Roles
 **Help**
  *The User Roles Tab define the Roles each user may have.  The Roles will determine what windows, tasks, processes and workflows that a User has access to.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -410,10 +410,10 @@ User Substitute
 **Help**
  *A user who can act for this user.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -501,9 +501,9 @@ Org Assignment
 **Help**
  *Assign Users to Organizations*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -576,9 +576,9 @@ Org Access
  *Add the client and organizations the user has access to. Entries here are ignored, if in the Role, User Org Access is not selected or the role has access to all roles.
 Note that access information is cached and requires re-login or reset of cache.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -634,10 +634,10 @@ User Mail
 **Help**
  *Archive of mails sent to users*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -730,9 +730,9 @@ Queries
 **Description**
  *View and maintain saved queries*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
-:::
+```
 Fields
 ## Fields
 
@@ -810,9 +810,9 @@ LDAP Access
 **Description**
  *User Access via LDAP*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

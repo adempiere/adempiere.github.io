@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Inbound/Outbound Rule](functional-guide/window/window-inboundoutbound-rule.md)
-:::
+```

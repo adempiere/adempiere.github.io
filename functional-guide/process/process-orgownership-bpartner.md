@@ -23,9 +23,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner Group
 ### Business Partner Group
 

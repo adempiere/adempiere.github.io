@@ -10,9 +10,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -22,9 +22,9 @@ Material Transactions
 ### Material Transactions
 
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

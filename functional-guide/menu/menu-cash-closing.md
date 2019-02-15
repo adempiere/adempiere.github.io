@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cash Closing](functional-guide/window/window-cash-closing.md)
-:::
+```

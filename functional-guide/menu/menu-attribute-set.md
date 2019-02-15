@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Attribute Set](functional-guide/window/window-attribute-set.md)
-:::
+```

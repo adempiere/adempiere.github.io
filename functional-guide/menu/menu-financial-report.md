@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Financial Report](functional-guide/window/window-financial-report.md)
-:::
+```

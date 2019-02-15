@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Model Validator](functional-guide/window/window-model-validator.md)
-:::
+```

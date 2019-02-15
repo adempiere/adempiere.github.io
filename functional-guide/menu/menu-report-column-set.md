@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Report Column Set](functional-guide/window/window-report-column-set.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Lead](functional-guide/window/window-lead.md)
-:::
+```

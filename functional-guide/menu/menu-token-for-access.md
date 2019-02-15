@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Token for Access](functional-guide/window/window-token-for-access.md)
-:::
+```

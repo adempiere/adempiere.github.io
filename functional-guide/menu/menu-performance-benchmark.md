@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Performance Benchmark](functional-guide/window/window-performance-benchmark.md)
-:::
+```

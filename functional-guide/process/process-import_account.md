@@ -25,9 +25,9 @@ Client
 **Help**
  *A Client is a company or a legal entity. You cannot share data between Clients. Tenant is a synonym for Client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Element
 ### Element
 
@@ -36,9 +36,9 @@ Element
 **Help**
  *The Account Element uniquely identifies an Account Type.  These are commonly known as a Chart of Accounts.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Update Default Accounts
 ### Update Default Accounts
 

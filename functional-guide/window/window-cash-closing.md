@@ -15,9 +15,9 @@ Window Type
 
 **Transaction**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Cash Closing
 **Help**
  *The Cash Closing Tab defines the Cash Transaction to be reconciled.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -215,9 +215,9 @@ Cash Closing Line
  *The Cash Closing Tab defines the individual line items on the Cash Closing.  They can be entered manually or generated from payments entered.
 * For Posting, the cash account organization is used, if it is not a charge.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

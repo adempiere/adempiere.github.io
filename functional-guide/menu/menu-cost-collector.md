@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cost Collector](functional-guide/window/window-cost-collector.md)
-:::
+```

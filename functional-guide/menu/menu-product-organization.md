@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Product Organization](functional-guide/process/process-orgownership-product.md)
-:::
+```

@@ -22,9 +22,9 @@ Date Ordered
 **Help**
  *Indicates the Date an item was ordered.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Date Promised
 ### Date Promised
 
@@ -33,9 +33,9 @@ Date Promised
 **Help**
  *The Date Promised indicates the date, if any, that an Order was promised for.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Ship Date
 ### Ship Date
 
@@ -44,18 +44,18 @@ Ship Date
 **Help**
  *Actual Date/Time of Shipment (pick up)*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Pick Date
 ### Pick Date
 
 **Description**
  *Date/Time when picked for Shipment*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Warehouse
 ### Warehouse
 
@@ -196,9 +196,9 @@ Volume
 **Help**
  *The Volume indicates the volume of the product in the Volume UOM of the Client*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Weight
 ### Weight
 
@@ -207,6 +207,6 @@ Weight
 **Help**
  *The Weight indicates the weight  of the product in the Weight UOM of the Client*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

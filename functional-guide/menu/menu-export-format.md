@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Export Format](functional-guide/window/window-export-format.md)
-:::
+```

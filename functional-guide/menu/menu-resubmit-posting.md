@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Resubmit Posting](functional-guide/process/process-fact_acct_reset.md)
-:::
+```

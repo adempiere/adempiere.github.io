@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [GL Fund (Alpha)](functional-guide/window/window-gl-fund-alpha.md)
-:::
+```

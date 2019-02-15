@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Surrogate Keys](functional-guide/process/process-ad_table-generate-surrogate-keys.md)
-:::
+```

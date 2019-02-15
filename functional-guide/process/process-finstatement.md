@@ -22,9 +22,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Posting Type
 ### Posting Type
 
@@ -33,9 +33,9 @@ Posting Type
 **Help**
  *The Posting Type indicates the type of amount (Actual, Budget, Reservation, Commitment, Statistical) the transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Period
 ### Period
 
@@ -52,9 +52,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Account Type
 ### Account Type
 

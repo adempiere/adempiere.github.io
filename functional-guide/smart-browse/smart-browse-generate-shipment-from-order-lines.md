@@ -4,18 +4,18 @@ Generate Shipment from Order Lines
 
 
 
-:::tip
+```
 [functional-guidewindowwindow-sales-order](functional-guidewindowwindow-sales-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sb_inoutgeneratefromorderline](functional-guide/process/process-sb_inoutgeneratefromorderline.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

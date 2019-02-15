@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Company Structure](functional-guide/window/window-company-structure.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Degree](functional-guide/window/window-degree.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Requisition](functional-guide/window/window-requisition.md)
-:::
+```

@@ -17,6 +17,6 @@ Menu Type
 
 **Smart Browse**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```

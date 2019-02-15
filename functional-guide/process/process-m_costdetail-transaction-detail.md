@@ -63,9 +63,9 @@ Movement Date
 **Help**
  *The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Account Date
 ### Account Date
 
@@ -74,9 +74,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Movement Type
 ### Movement Type
 

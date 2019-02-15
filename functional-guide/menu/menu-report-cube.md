@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Report Cube](functional-guide/window/window-report-cube.md)
-:::
+```

@@ -17,6 +17,6 @@ Product
 **Help**
  *Identifies an item which is either purchased or sold in this organization.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

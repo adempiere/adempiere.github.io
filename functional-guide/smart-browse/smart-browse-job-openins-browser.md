@@ -5,9 +5,9 @@ Job Openins Browser
 
 Displays the detail of Job Openins
 
-:::tip
+```
 [functional-guidewindowwindow-job-openings](functional-guidewindowwindow-job-openings.md)
-:::
+```
 
 Fields
 ## Fields

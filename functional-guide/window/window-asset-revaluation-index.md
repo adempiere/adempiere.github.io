@@ -10,9 +10,9 @@ Help
 
 The Asset Revaluation Index window allow you to setup the values of indexs or factors to be used in revaluation of assets
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -29,9 +29,9 @@ Maintain Index
 **Description**
  *Maintain Index*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

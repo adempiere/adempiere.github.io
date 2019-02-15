@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web Service Security](functional-guide/window/window-web-service-security.md)
-:::
+```

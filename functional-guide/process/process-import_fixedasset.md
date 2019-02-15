@@ -29,24 +29,24 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delete old imported records
 ### Delete old imported records
 
 **Description**
  *Before processing delete old imported records in the import table*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Only Validate Data
 ### Only Validate Data
 
 **Description**
  *Validate the date and do not process*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

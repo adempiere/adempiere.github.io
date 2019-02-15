@@ -14,9 +14,9 @@ This browse allows to display independent and dependent demand  for products, to
 To know how the supplies satisfies each demand , it is possible to select and press the zoom icon, to  display the MRP Demands View with details of demand and their supplies.
 
 
-:::tip
+```
 [functional-guidewindowwindow-mrp-demands-view](functional-guidewindowwindow-mrp-demands-view.md)
-:::
+```
 
 Fields
 ## Fields

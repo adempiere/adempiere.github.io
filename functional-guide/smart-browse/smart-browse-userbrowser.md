@@ -5,18 +5,18 @@ User Browser
 
 Smart Browser allows for a selection to be processed
 
-:::tip
+```
 [functional-guidewindowwindow-user](functional-guidewindowwindow-user.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-ad_user-selection](functional-guide/process/process-ad_user-selection.md)
-:::
+```
 
-:::tip
+```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Flag to indicate if is collapsible by default
-:::
+```
 Fields
 ## Fields
 

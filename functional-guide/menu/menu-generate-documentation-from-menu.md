@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Documentation from Menu](functional-guide/process/process-generatedocsfrommenu.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Forecast Simulation](functional-guide/window/window-forecast-simulation.md)
-:::
+```

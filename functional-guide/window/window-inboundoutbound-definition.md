@@ -40,10 +40,10 @@ Inbound & Outboud Definition
 **Help**
  *The Inbound(Putaway) and Outbound(Picking) definition tab allow defining a set of conditions in order to select the Inbound(Putaway) and Outbound(Picking) Strategy from a given sequence ordered by priority.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -183,7 +183,7 @@ Sort of the combinations
 **Description**
  *The sequence tab allows to set the order of priority for the Inbound (Putaway) and Outbound(Picking) Strategy*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```

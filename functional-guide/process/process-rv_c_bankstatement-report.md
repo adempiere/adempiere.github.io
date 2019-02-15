@@ -40,9 +40,9 @@ Statement date
 **Help**
  *The Statement Date field defines the date of the statement.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Document Status
 ### Document Status
 
@@ -83,9 +83,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Order
 ### Order
 
@@ -102,9 +102,9 @@ Date Ordered
 **Help**
  *Indicates the Date an item was ordered.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Invoice
 ### Invoice
 
@@ -121,9 +121,9 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 POS Terminal
 ### POS Terminal
 

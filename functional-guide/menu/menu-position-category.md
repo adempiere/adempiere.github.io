@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Position Category](functional-guide/window/window-position-category.md)
-:::
+```

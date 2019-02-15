@@ -10,9 +10,9 @@ Help
 
 The Asset Transfer window allows you to transfer assets
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -29,10 +29,10 @@ Step1 Select Asset
 **Description**
  *Select the asset to be transfered*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -325,11 +325,11 @@ Step2 Select Accounting Setup
 **Description**
  *Enter accounting setup information*
 
-:::tip
+```
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
 The Read Only indicates that this field may only be Read.  It may not be updated.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -472,11 +472,11 @@ Step3 Process Transfers
 **Description**
  *Process asset transfers*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Accounting Tab checkbox indicates if this window contains accounting information. To display accounting information, enable this in Tools>Preference and Role.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

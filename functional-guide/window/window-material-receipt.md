@@ -28,10 +28,10 @@ Material Receipt
 **Help**
  *The Shipments Tab allows you to generate, maintain, enter and process Shipments from a Vendor.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -419,10 +419,10 @@ Receipt Line
 **Help**
  *The Shipment Line Tab defines the individual items in a Shipment.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -643,10 +643,10 @@ Confirmations
 **Help**
  *The quantities are in the storage Unit of Measure!*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -737,10 +737,10 @@ Matched POs
 **Description**
  *Purchase Order Lines matched to this Material Receipt Line*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -831,10 +831,10 @@ Matched Invoices
 **Description**
  *Invoice Lines matched to this Material Receipt Line*
 
-:::tip
+```
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

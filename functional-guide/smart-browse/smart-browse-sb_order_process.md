@@ -4,18 +4,18 @@ Process Orders of selection
 
 
 
-:::tip
+```
 [functional-guidewindowwindow-sales-order](functional-guidewindowwindow-sales-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sb_c_order_process](functional-guide/process/process-sb_c_order_process.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

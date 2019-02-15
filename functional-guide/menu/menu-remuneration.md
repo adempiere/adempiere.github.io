@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Remuneration](functional-guide/window/window-remuneration.md)
-:::
+```

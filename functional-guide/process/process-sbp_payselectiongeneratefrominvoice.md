@@ -17,9 +17,9 @@ Bank Account
 **Help**
  *The Bank Account identifies an account at this Bank.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Currency
 ### Currency
 
@@ -28,9 +28,9 @@ Currency
 **Help**
  *Indicates the Currency to be used when processing or reporting on this record*
 
-:::tip
+```
 null
-:::
+```
 Current balance
 ### Current balance
 
@@ -39,9 +39,9 @@ Current balance
 **Help**
  *The Current Balance field indicates the current balance in this account.*
 
-:::tip
+```
 null
-:::
+```
 Target Document Type
 ### Target Document Type
 
@@ -58,9 +58,9 @@ Document Date
 **Help**
  *The Document Date indicates the date the document was generated.  It may or may not be the same as the accounting date.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Payment date
 ### Payment date
 
@@ -69,6 +69,6 @@ Payment date
 **Help**
  *The Payment Date indicates the date the payment was made.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

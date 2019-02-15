@@ -40,9 +40,9 @@ Outbound Locator
 **Help**
  *The Locator indicates where in a Warehouse a product is located.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delivery Rule
 ### Delivery Rule
 
@@ -51,9 +51,9 @@ Delivery Rule
 **Help**
  *The Delivery Rule indicates when an order should be delivered. For example should the order be delivered when the entire order is complete, when a line is complete or as the products become available.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Type
 ### Document Type
 
@@ -78,18 +78,18 @@ Ship Date
 **Help**
  *Actual Date/Time of Shipment (pick up)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Pick Date
 ### Pick Date
 
 **Description**
  *Date/Time when picked for Shipment*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Priority
 ### Priority
 
@@ -106,9 +106,9 @@ Delivery Via
 **Help**
  *The Delivery Via indicates how the products should be delivered. For example, will the order be picked up or shipped.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Shipper
 ### Shipper
 

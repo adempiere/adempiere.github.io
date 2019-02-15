@@ -22,6 +22,6 @@ Web Project
 **Help**
  *A web project is the meta definition which will contain later on all data within the Web Content Management Project.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

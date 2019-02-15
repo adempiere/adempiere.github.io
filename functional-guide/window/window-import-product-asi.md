@@ -30,10 +30,10 @@ ASI Product
 **Help**
  *If a set of attributes, attribute or attribute search is not found, it is created, then an   attributes use is created based on the attribute's name, which are grouped by the attribute set's name*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

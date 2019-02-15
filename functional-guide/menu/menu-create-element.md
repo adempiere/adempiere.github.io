@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create Element](functional-guide/process/process-pp_cost_element.md)
-:::
+```

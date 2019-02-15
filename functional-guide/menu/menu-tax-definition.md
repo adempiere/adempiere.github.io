@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Tax Definition](functional-guide/window/window-tax-definition.md)
-:::
+```

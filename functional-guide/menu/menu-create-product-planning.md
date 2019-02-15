@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create Product Planning](functional-guide/process/process-pp_product_planning.md)
-:::
+```

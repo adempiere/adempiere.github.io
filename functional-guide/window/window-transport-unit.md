@@ -28,10 +28,10 @@ Transport Unit
 **Help**
  *Transport units are the building blocks used to create a vehicle. Depending on the type of transport unit, you can assign one or more compartments to a transport unit*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -223,9 +223,9 @@ Compartment Assignment
 **Description**
  *Compartment Assignment*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -279,10 +279,10 @@ Asset
 **Description**
  *Asset*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

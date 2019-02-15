@@ -17,9 +17,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -35,9 +35,9 @@ Counter Document
 If you define a relationship here, you overwrite the default counter document type in the Document Type definition. This allows you to define a specific mapping.
 You can define conter documents for all organizations (of the original transaction) or for a specific organization.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

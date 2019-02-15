@@ -5,16 +5,16 @@ Browser Invoice
 
 Smart Browser allows for a selection to be processed
 
-:::tip
+```
 [functional-guide/process/process-c_invoice-selection](functional-guide/process/process-c_invoice-selection.md)
-:::
+```
 
-:::tip
+```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

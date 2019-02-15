@@ -38,9 +38,9 @@ Resource
 **Description**
  *Resource*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Create Plan
 ### Create Plan
 
@@ -192,9 +192,9 @@ Use  Fixed Order Quantity when you always need to ask for  the same Quantity of 
 * 
 If the order policy is not FOQ and you enter a quantity in the Order Qty field, this quantity is the Economic Order Quantity.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Order Period
 ### Order Period
 

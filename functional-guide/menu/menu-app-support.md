@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [App Support](functional-guide/window/window-app-support.md)
-:::
+```

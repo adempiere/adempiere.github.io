@@ -28,10 +28,10 @@ Demand Detail
 **Help**
  *Detailed information of the demand*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -285,9 +285,9 @@ Supplies Detail
 **Help**
  *Detailed information of the supplies for this demand.*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

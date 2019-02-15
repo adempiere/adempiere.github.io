@@ -16,9 +16,9 @@ Movement Date
 **Help**
  *The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Account Date
 ### Account Date
 
@@ -27,9 +27,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Project
 ### Project
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [System Registration](functional-guide/window/window-system-registration.md)
-:::
+```

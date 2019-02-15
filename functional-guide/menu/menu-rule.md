@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Rule](functional-guide/window/window-rule.md)
-:::
+```

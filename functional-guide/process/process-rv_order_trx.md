@@ -17,10 +17,10 @@ Date Ordered
 **Help**
  *Indicates the Date an item was ordered.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Sales Transaction
 ### Sales Transaction
 

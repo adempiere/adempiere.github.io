@@ -12,9 +12,9 @@ EMail Configuration
 ### EMail Configuration
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Request User
 ### Request User
 
@@ -23,18 +23,18 @@ Request User
 **Help**
  *EMail user name for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. Required, if your mail server requires authentification as well as for processing incoming mails.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Request User Password
 ### Request User Password
 
 **Description**
  *Password of the user name (ID) for mail processing*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Request Folder
 ### Request Folder
 
@@ -43,23 +43,23 @@ Request Folder
 **Help**
  *Email folder used to read emails to process as requests, If left empty the default mailbox (INBOX) will be used. Requires IMAP services.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Inbox Folder
 ### Inbox Folder
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Error Folder
 ### Error Folder
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner
 ### Business Partner
 

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [UnLink Business Partner Org](functional-guide/process/process-c_bpartner-org-unlink.md)
-:::
+```

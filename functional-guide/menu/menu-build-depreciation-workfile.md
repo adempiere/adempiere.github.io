@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Build Depreciation Workfile](functional-guide/window/window-build-depreciation-workfile.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Asset Group](functional-guide/window/window-asset-group.md)
-:::
+```

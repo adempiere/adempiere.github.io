@@ -5,18 +5,18 @@ Create from Payment Request
 
 Create Payment Selection lines from Payment Request selected
 
-:::tip
+```
 [functional-guidewindowwindow-payment-selection](functional-guidewindowwindow-payment-selection.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbp_payselectioncreatefrompayselection](functional-guide/process/process-sbp_payselectioncreatefrompayselection.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

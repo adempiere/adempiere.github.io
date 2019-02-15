@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Prepare Migration Scripts](functional-guide/process/process-preparemigrationscripts.md)
-:::
+```

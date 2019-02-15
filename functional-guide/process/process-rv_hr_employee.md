@@ -88,9 +88,9 @@ Daily Salary
 **Description**
  *Daily Salary*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Monthly Salary
 ### Monthly Salary
 
@@ -99,6 +99,6 @@ Monthly Salary
 **Help**
  *The Monthly Salary of an Employee*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

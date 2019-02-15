@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Sales History](functional-guide/window/window-import-sales-history.md)
-:::
+```

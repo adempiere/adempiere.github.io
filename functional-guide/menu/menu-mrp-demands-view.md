@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [MRP Demands View](functional-guide/window/window-mrp-demands-view.md)
-:::
+```

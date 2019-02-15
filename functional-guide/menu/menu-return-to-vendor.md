@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Return to Vendor](functional-guide/window/window-return-to-vendor.md)
-:::
+```

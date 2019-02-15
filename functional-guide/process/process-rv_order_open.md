@@ -38,6 +38,6 @@ Sales Transaction
 **Help**
  *The Sales Transaction checkbox indicates if this item is a Sales Transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

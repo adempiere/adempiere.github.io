@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Frozen/UnFrozen Cost](functional-guide/process/process-pp_cost-frozenunfrozen.md)
-:::
+```

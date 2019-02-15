@@ -13,9 +13,9 @@ Order Source
 ### Order Source
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Invoice Partner
 ### Invoice Partner
 
@@ -38,9 +38,9 @@ SO Sub Type of \ **Warehouse Order**\  will generate the \ **Order**\  and \ **D
 SO Sub Type of \ **Credit Order**\  will generate the \ **Order**\ , \ **Delivery Note**\  and \ **Invoice**\ . *  The \ **Receipt**\  must be generated via other processes.
 SO Sub Type of \ **POS**\  (Point of Sale) will generate all document*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Action
 ### Document Action
 

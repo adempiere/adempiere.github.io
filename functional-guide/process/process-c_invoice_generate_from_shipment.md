@@ -25,9 +25,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Shipment/Receipt
 ### Shipment/Receipt
 
@@ -52,9 +52,9 @@ Document Action
 **Help**
  *You find the current status in the Document Status field. The options are listed in a popup*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Consolidate to one Document
 ### Consolidate to one Document
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Accounting Dimensions](functional-guide/window/window-accounting-dimensions.md)
-:::
+```

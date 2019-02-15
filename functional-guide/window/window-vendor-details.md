@@ -28,9 +28,9 @@ Vendor
 **Help**
  *The Vendor Tab displays the Vendors.  A Vendor is selected and all products for that Vendor will be displayed.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -85,9 +85,9 @@ Product Details
 **Help**
  *The Product Details Tab allows you to display and maintain all products for a selected Vendor.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

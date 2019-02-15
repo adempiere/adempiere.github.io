@@ -33,9 +33,9 @@ Document Type
 **Help**
  *The Document Type determines document sequence and processing rules*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Action
 ### Document Action
 
@@ -52,9 +52,9 @@ Charge
 **Help**
  *The Charge indicates a type of Charge (Handling, Shipping, Restocking)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Date Invoiced
 ### Date Invoiced
 
@@ -63,6 +63,6 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Issue to Project](functional-guide/process/process-c_project_issue.md)
-:::
+```

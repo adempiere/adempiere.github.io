@@ -10,9 +10,9 @@ Help
 
 The Disposed Asset Entry window allows you to create and post assets that have been disposed to the GL
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -27,10 +27,10 @@ Create Disposal Entry
 ### Create Disposal Entry
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

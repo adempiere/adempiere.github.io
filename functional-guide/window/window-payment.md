@@ -15,9 +15,9 @@ Window Type
 
 **Transaction**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -35,10 +35,10 @@ You can also receive a partial payment (under-payment). If you decide not to wri
 Note that printed payments are archived in Payment Selection (Prepared Payment).
 * For Posting, the bank account organization is used, if it is not a charge.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -596,11 +596,11 @@ Note that you can over- or under-allocate the payment.\ **
 When processing the payment, the allocation is created.\ **
 The Organization is set to the invoice organization*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The tab with advanced functionality is only displayed, if enabled in Tools>Preference.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -705,9 +705,9 @@ Allocations
 **Description**
  *Display Allocation of the Payment/Receipt to Invoices*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -805,9 +805,9 @@ Bank Statement Line
 **Description**
  *Bank Statement Line*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

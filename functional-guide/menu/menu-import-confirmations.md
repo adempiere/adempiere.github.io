@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Confirmations](functional-guide/window/window-import-confirmations.md)
-:::
+```

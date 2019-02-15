@@ -5,18 +5,18 @@ Transport Unit Browser
 
 Defines Transport Unit Browser
 
-:::tip
+```
 [functional-guidewindowwindow-transport-unit](functional-guidewindowwindow-transport-unit.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-dd_transportunit-selection](functional-guide/process/process-dd_transportunit-selection.md)
-:::
+```
 
-:::tip
+```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

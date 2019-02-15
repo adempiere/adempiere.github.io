@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Regenerative Material Plan](functional-guide/process/process-mrp_regenerative-material-plan.md)
-:::
+```

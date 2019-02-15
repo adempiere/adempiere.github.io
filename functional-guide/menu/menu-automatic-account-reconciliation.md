@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Automatic account reconciliation](functional-guide/process/process-fact_reconciliation_auto.md)
-:::
+```

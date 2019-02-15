@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [ASP Modules](functional-guide/window/window-asp-modules.md)
-:::
+```

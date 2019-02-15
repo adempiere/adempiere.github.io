@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [HouseKeeping](functional-guide/process/process-housekeepingpara.md)
-:::
+```

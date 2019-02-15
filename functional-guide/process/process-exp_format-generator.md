@@ -17,9 +17,9 @@ Window
 **Help**
  *The Window field identifies a unique Window in the system.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Includes only the Tabs that Insert records
 ### Includes only the Tabs that Insert records
 

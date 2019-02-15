@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Sequence Check](functional-guide/process/process-ad_sequence_check.md)
-:::
+```

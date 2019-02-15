@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Request Status](functional-guide/window/window-request-status.md)
-:::
+```

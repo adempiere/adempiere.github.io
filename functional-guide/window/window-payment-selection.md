@@ -33,10 +33,10 @@ Payment Selection
 **Help**
  *The Payment Selection Tab defines the bank account and date of the payments to be made. You also create the payments here.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -202,9 +202,9 @@ Payment Selection Line
 **Help**
  *The Payment Selection Line Tab defines the individual invoices an organization is paying to a Vendor with this payment.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -420,9 +420,9 @@ Prepared Payment
 **Help**
  *You create the actual Payments via Payment Print/Export*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

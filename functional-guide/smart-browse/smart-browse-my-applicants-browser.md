@@ -5,9 +5,9 @@ My Applicants Browser
 
 Displays the detail of My Applicants
 
-:::tip
+```
 [functional-guidewindowwindow-job-application](functional-guidewindowwindow-job-application.md)
-:::
+```
 
 Fields
 ## Fields

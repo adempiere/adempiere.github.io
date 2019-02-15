@@ -27,9 +27,9 @@ Date Ordered
 **Help**
  *Indicates the Date an item was ordered.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Business Partner
 ### Business Partner
 

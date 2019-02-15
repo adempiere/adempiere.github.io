@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Parts and BOMs](functional-guide/window/window-parts-and-boms.md)
-:::
+```

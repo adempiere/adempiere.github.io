@@ -33,10 +33,10 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Business Partner
 ### Business Partner
 

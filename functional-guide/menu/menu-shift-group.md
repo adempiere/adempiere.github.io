@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Shift Group](functional-guide/window/window-shift-group.md)
-:::
+```

@@ -22,9 +22,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Organization
 ### Organization
 
@@ -33,9 +33,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Warehouse
 ### Warehouse
 
@@ -44,9 +44,9 @@ Warehouse
 **Help**
  *The Warehouse identifies a unique Warehouse where products are stored or Services are provided.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Cost Type
 ### Cost Type
 
@@ -55,20 +55,20 @@ Cost Type
 **Help**
  *You can define multiple cost types. A cost type selected in an Accounting Schema is used for accounting.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Cost Element
 ### Cost Element
 
 **Description**
  *Product Cost Element*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Product
 ### Product
 

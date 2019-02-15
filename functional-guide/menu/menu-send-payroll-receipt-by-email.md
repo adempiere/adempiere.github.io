@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Send Payroll Receipt by Email](functional-guide/process/process-hr_send-payroll-receipt-by-email.md)
-:::
+```

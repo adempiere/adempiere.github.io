@@ -30,18 +30,18 @@ Sales Transaction
 **Help**
  *The Sales Transaction checkbox indicates if this item is a Sales Transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Days due
 ### Days due
 
 **Description**
  *Number of days due (negative: due in number of days)*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Collection Status
 ### Collection Status
 

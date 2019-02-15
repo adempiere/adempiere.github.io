@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Depreciation Methods](functional-guide/window/window-depreciation-methods.md)
-:::
+```

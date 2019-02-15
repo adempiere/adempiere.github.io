@@ -10,17 +10,17 @@ Help
 
 Stand-alone change notice - Change notices could also be directly linked to BOMs
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -32,9 +32,9 @@ Change Notice
 **Description**
  *(Engineering) Change Note (Version)*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -106,9 +106,9 @@ Change Request
 **Description**
  *Change Request of Change Notice*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -206,9 +206,9 @@ Requests (source)
 **Description**
  *User Requests with reference to change request*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -393,9 +393,9 @@ Fixed Change Requests
 **Description**
  *Fixed Change Requests of this Change Notice*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

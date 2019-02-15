@@ -12,18 +12,18 @@ Client Name
 ### Client Name
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Organization Name
 ### Organization Name
 
 **Description**
  *Name of the Organization*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Org Key
 ### Org Key
 
@@ -38,9 +38,9 @@ Currency
 **Help**
  *Indicates the Currency to be used when processing or reporting on this record*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Country
 ### Country
 
@@ -49,18 +49,18 @@ Country
 **Help**
  *The Country defines a Country.  Each Country must be defined before it can be used in any document.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Chart of Accounts File
 ### Chart of Accounts File
 
 **Description**
  *Location of the chart of accounts to be used with this client.  At this stage just the default accounts will be created.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 BP Accounting
 ### BP Accounting
 
@@ -69,9 +69,9 @@ BP Accounting
 **Help**
  *Define if this client will use business partner accounting dimension.  This can be changed later in Accounting Schema window of the client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product Accounting
 ### Product Accounting
 
@@ -80,9 +80,9 @@ Product Accounting
 **Help**
  *Define if this client will use product accounting dimension.  This can be changed later in Accounting Schema window of the client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Project Accounting
 ### Project Accounting
 
@@ -91,9 +91,9 @@ Project Accounting
 **Help**
  *Define if this client will use project accounting dimension.  This can be changed later in Accounting Schema window of the client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Campaign Accounting
 ### Campaign Accounting
 
@@ -102,9 +102,9 @@ Campaign Accounting
 **Help**
  *Define if this client will use campaign accounting dimension.  This can be changed later in Accounting Schema window of the client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Sales Region Accounting
 ### Sales Region Accounting
 
@@ -113,9 +113,9 @@ Sales Region Accounting
 **Help**
  *Define if this client will use sales region accounting dimension.  This can be changed later in Accounting Schema window of the client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Start Date
 ### Start Date
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Race](functional-guide/window/window-race.md)
-:::
+```

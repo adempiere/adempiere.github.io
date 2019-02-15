@@ -44,18 +44,18 @@ Document Date
 **Help**
  *The Document Date indicates the date the document was generated.  It may or may not be the same as the accounting date.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Date Required
 ### Date Required
 
 **Description**
  *Date when required*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Priority
 ### Priority
 
@@ -102,6 +102,6 @@ Consolidate to one Document
 **Description**
  *Consolidate Lines into one Document*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

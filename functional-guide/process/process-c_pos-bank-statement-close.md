@@ -33,9 +33,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Line Total
 ### Line Total
 

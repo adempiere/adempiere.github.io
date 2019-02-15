@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Universal substitution](functional-guide/process/process-m_product_bom-substitute.md)
-:::
+```

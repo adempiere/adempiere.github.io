@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Distribution Network](functional-guide/window/window-distribution-network.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Transport Requirement Type](functional-guide/window/window-transport-requirement-type.md)
-:::
+```

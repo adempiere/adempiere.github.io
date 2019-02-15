@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Calculate Low Level](functional-guide/process/process-pp_calculate-low-level.md)
-:::
+```

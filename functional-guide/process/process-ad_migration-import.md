@@ -17,9 +17,9 @@ File Path or Name
 **Help**
  *Path of the directory or name of a file in the local directory space - or URL (file://.., http://.., ftp://..)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Apply
 ### Apply
 

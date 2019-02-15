@@ -25,36 +25,36 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Revaluation Conversion Type
 ### Revaluation Conversion Type
 
 **Description**
  *Revaluation Currency Conversion Type*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Revaluation Date
 ### Revaluation Date
 
 **Description**
  *Date of Revaluation*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 AP - AR
 ### AP - AR
 
 **Description**
  *Include Receivables and/or Payables transactions*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Include All Currencies
 ### Include All Currencies
 

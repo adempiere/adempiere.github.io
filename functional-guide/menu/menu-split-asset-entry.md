@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Split Asset Entry](functional-guide/window/window-split-asset-entry.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payroll Payment Selection](functional-guide/window/window-payroll-payment-selection.md)
-:::
+```

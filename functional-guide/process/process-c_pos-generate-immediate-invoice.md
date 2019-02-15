@@ -17,9 +17,9 @@ Order
 **Help**
  *The Order is a control document.  The  Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Invoice Partner
 ### Invoice Partner
 
@@ -48,9 +48,9 @@ Include Payments
 **Description**
  *Include payments in the aging report*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Allocated
 ### Allocated
 
@@ -59,9 +59,9 @@ Allocated
 **Help**
  *The Allocated checkbox indicates if a payment has been allocated or associated with an invoice or invoices.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Ship/Receipt Confirmation
 ### Ship/Receipt Confirmation
 

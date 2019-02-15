@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [MRP Supplies View](functional-guide/window/window-mrp-supplies-view.md)
-:::
+```

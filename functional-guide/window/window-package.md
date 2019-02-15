@@ -28,9 +28,9 @@ Package
 **Help**
  *A Shipment can have one or more Packages.  A Package may be tracked.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -130,9 +130,9 @@ Package Line
 **Help**
  *Link to the shipment line*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Update Role Menu](functional-guide/process/process-u_rolemenu_update.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Client Accounting Processor](functional-guide/process/process-client_acct_processor.md)
-:::
+```

@@ -10,13 +10,13 @@ Help
 
 The goal of this query is to validate that the results are considered in the company plans.
 
-:::tip
+```
 [functional-guidewindowwindow-forecast-simulation](functional-guidewindowwindow-forecast-simulation.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
-:::
+```
 Fields
 ## Fields
 

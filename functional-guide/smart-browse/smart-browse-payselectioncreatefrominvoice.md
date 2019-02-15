@@ -5,18 +5,18 @@ Create from Invoice
 
 Create Payment Selection lines from Invoices selected
 
-:::tip
+```
 [functional-guidewindowwindow-invoice-vendor](functional-guidewindowwindow-invoice-vendor.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbp_payselectioncreatefrominvoice](functional-guide/process/process-sbp_payselectioncreatefrominvoice.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

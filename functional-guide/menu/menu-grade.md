@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Grade](functional-guide/window/window-grade.md)
-:::
+```

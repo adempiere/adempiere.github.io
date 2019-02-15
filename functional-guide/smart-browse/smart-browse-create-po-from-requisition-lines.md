@@ -10,20 +10,20 @@ Help
 
 Create Purchase orders from Purchase Requisitions Lines.
 
-:::tip
+```
 [functional-guidewindowwindow-requisition](functional-guidewindowwindow-requisition.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-m_requisition_create_po_from_requisition](functional-guide/process/process-m_requisition_create_po_from_requisition.md)
-:::
+```
 
-:::tip
+```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

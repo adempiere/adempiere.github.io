@@ -17,6 +17,6 @@ Table
 **Help**
  *The Database Table provides the information of the table definition*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

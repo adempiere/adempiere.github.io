@@ -17,6 +17,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Update Sequence No](functional-guide/process/process-sequence_no_update.md)
-:::
+```

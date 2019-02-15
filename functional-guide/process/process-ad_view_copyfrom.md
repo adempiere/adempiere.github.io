@@ -17,6 +17,6 @@ View
 **Help**
  *These views can be based on tables and views of the dictionary application.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

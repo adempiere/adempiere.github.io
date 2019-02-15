@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Leave Reasons](functional-guide/window/window-leave-reasons.md)
-:::
+```

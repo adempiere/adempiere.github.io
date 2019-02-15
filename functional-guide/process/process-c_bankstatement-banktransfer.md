@@ -13,9 +13,9 @@ Bank Account From
 ### Bank Account From
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Bank Account To
 ### Bank Account To
 
@@ -24,9 +24,9 @@ Bank Account To
 **Help**
  *Bank Account To make Transfer between Accounts*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Business Partner
 ### Business Partner
 
@@ -35,9 +35,9 @@ Business Partner
 **Help**
  *A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Currency
 ### Currency
 
@@ -46,9 +46,9 @@ Currency
 **Help**
  *Indicates the Currency to be used when processing or reporting on this record*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Currency Type
 ### Currency Type
 
@@ -65,9 +65,9 @@ Charge
 **Help**
  *The Charge indicates a type of Charge (Handling, Shipping, Restocking)*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document No
 ### Document No
 
@@ -78,9 +78,9 @@ Document No
 
 If the document type of your document has no automatic document sequence defined, the field is empty if you create a new document. This is for documents which usually have an external number (like vendor invoice).  If you leave the field empty, the system will generate a document number for you. The document sequence used for this fallback number is defined in the "Maintain Sequence" window with the name "DocumentNo_<TableName>", where TableName is the actual name of the table (e.g. C_Order).*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document No (To)
 ### Document No (To)
 
@@ -99,9 +99,9 @@ Amount
 **Help**
  *The Amount indicates the amount for this document line.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Description
 ### Description
 
@@ -118,9 +118,9 @@ Statement date
 **Help**
  *The Statement Date field defines the date of the statement.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Account Date
 ### Account Date
 
@@ -129,9 +129,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Reconcile Automatically
 ### Reconcile Automatically
 

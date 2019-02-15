@@ -28,10 +28,10 @@ Invoice Batch
 **Help**
  *Set Currency and decide if this for AR (sales) Invoices or AP (vendor) invoices. Optionally enter a Control amount.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -152,9 +152,9 @@ Batch Line
  *A new invoice is created, if there is a different Document Number, Business Partner or Location (address).
 Note that the Document Number may be overwritten - depending on the Number control of the selected Document Type.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

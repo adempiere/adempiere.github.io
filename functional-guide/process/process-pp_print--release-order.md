@@ -32,9 +32,9 @@ Manufacturing Order
 **Description**
  *Manufacturing Order*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Is Print Pick List
 ### Is Print Pick List
 

@@ -5,14 +5,14 @@ In Out Create From
 
 Create From Order / RMA / Invoice in a Receipt
 
-:::tip
+```
 [functional-guide/process/process-sbp_inoutcreatefrom](functional-guide/process/process-sbp_inoutcreatefrom.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

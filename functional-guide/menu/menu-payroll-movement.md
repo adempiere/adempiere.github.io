@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payroll Movement](functional-guide/window/window-payroll-movement.md)
-:::
+```

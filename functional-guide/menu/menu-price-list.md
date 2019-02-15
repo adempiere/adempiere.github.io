@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Price List](functional-guide/window/window-price-list.md)
-:::
+```

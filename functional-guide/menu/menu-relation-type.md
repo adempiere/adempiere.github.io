@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Relation Type](functional-guide/window/window-relation-type.md)
-:::
+```

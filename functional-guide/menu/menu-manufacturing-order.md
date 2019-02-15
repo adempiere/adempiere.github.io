@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Manufacturing Order](functional-guide/window/window-manufacturing-order.md)
-:::
+```

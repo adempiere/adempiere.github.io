@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Tax Group](functional-guide/window/window-tax-group.md)
-:::
+```

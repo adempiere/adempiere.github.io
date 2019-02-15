@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Distribution Order](functional-guide/window/window-distribution-order.md)
-:::
+```

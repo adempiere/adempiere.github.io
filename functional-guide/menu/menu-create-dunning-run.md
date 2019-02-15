@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create Dunning Run](functional-guide/process/process-c_dunningrun_create.md)
-:::
+```

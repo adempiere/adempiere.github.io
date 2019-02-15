@@ -38,9 +38,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Allocation
 ### Allocation
 
@@ -51,6 +51,6 @@ All Allocations
 ### All Allocations
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

@@ -25,9 +25,9 @@ Mail Template
 So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.
 For Multi-Lingual systems, the template is translated based on the Business Partner's language selection.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Interest Area
 ### Interest Area
 

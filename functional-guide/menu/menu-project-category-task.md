@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Project Category Task](functional-guide/window/window-project-category-task.md)
-:::
+```

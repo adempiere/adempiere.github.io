@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Payroll Processing](functional-guide/process/process-hr_payrollprocessing.md)
-:::
+```

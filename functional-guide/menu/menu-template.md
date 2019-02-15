@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Template](functional-guide/window/window-template.md)
-:::
+```

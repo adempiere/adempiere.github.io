@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Shipper](functional-guide/window/window-shipper.md)
-:::
+```

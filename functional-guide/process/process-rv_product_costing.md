@@ -17,9 +17,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product Category
 ### Product Category
 
@@ -37,6 +37,6 @@ Search Key
  *A search key allows you a fast method of finding a particular record.
 If you leave the search key empty, the system automatically creates a numeric number.  The document sequence used for this fallback number is defined in the "Maintain Sequence" window with the name "DocumentNo_<TableName>", where TableName is the actual name of the table (e.g. C_Order).*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

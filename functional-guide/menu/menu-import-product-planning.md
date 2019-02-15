@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Product Planning](functional-guide/window/window-import-product-planning.md)
-:::
+```

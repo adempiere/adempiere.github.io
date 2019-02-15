@@ -22,9 +22,9 @@ Client
 **Help**
  *A Client is a company or a legal entity. You cannot share data between Clients. Tenant is a synonym for Client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Report Line Set
 ### Report Line Set
 

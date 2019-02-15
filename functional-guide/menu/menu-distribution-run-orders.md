@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Distribution Run Orders](functional-guide/process/process-m_distributionrun-orders.md)
-:::
+```

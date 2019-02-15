@@ -10,13 +10,13 @@ Help
 
 This browser allows to display supplies to schedule
 
-:::tip
+```
 [functional-guidewindowwindow-mrp-supplies-view](functional-guidewindowwindow-mrp-supplies-view.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-mrp_schedule](functional-guide/process/process-mrp_schedule.md)
-:::
+```
 
 Fields
 ## Fields

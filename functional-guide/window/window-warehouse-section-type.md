@@ -41,10 +41,10 @@ Warehouse Section Type
 **Help**
  *The Warehouse Section Type Tab defines different Warehouse Section used for different purpose in a Warehouse.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

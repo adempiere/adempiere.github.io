@@ -21,10 +21,10 @@ Packages Installed
 **Description**
  *Packages Installed*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

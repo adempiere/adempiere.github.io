@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Workflow](functional-guide/window/window-import-workflow.md)
-:::
+```

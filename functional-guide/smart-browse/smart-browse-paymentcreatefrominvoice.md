@@ -5,18 +5,18 @@ Generate Payment (From Invoice Customer)
 
 Create Payment Selection lines from Invoices selected
 
-:::tip
+```
 [functional-guidewindowwindow-invoice-customer](functional-guidewindowwindow-invoice-customer.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbp_paymentgeneratefrominvoice](functional-guide/process/process-sbp_paymentgeneratefrominvoice.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

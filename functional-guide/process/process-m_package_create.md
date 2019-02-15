@@ -17,9 +17,9 @@ Shipment/Receipt
 **Help**
  *The Material Shipment / Receipt*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Shipper
 ### Shipper
 
@@ -28,6 +28,6 @@ Shipper
 **Help**
  *The Shipper indicates the method of delivering product*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

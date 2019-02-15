@@ -22,6 +22,6 @@ Document Type
 **Help**
  *The Document Type determines document sequence and processing rules*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Recalculate Cube](functional-guide/process/process-factacctsummary.md)
-:::
+```

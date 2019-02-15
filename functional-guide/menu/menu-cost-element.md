@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cost Element](functional-guide/window/window-cost-element.md)
-:::
+```

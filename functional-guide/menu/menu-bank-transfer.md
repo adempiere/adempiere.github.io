@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Bank Transfer](functional-guide/process/process-c_bankstatement-banktransfer.md)
-:::
+```

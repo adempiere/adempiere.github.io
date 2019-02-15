@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,10 +31,10 @@ Organization Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -99,10 +99,10 @@ Sales Region Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -175,10 +175,10 @@ Acitivity Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -251,10 +251,10 @@ Project Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -335,10 +335,10 @@ Business Partner Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -428,10 +428,10 @@ Product Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -512,10 +512,10 @@ Campaign Dimension
 **Help**
  *Please note that you will not be able to create new entities in this window if you have not default set for all mandatory values!*
 
-:::tip
+```
 null
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

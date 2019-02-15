@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Payroll Send EMail](functional-guide/process/process-hr_payroll-send-email.md)
-:::
+```

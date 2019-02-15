@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Forecast](functional-guide/process/process-m_forecast-generate-forecast.md)
-:::
+```

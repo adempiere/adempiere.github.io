@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cash Journal Definition](functional-guide/window/window-cash-journal-definition.md)
-:::
+```

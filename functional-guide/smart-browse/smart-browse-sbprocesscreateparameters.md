@@ -5,14 +5,14 @@ Create Parameters
 
 Create the Process Parameters from other process or from a Columns of Report View
 
-:::tip
+```
 [functional-guide/process/process-copyfromprocess](functional-guide/process/process-copyfromprocess.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
-:::
+```
 Fields
 ## Fields
 

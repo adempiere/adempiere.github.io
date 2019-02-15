@@ -21,9 +21,9 @@ EMail PDF
 **Description**
  *Email Document PDF files to Business Partner*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Mail Template
 ### Mail Template
 
@@ -54,6 +54,6 @@ Print Unprocessed Entries Only
 **Help**
  *Print the unprocessed (unprinted) entries of the dunning run only. This allows you to reprint only certain dunning entries.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

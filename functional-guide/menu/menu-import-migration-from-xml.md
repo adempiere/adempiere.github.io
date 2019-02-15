@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Import migration from XML](functional-guide/process/process-ad_migration-import.md)
-:::
+```

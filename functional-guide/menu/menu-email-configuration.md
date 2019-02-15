@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [EMail Configuration](functional-guide/window/window-email-configuration.md)
-:::
+```

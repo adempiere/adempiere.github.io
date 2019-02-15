@@ -21,9 +21,9 @@ Instance
 **Description**
  *Attribute Set Instance*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -106,9 +106,9 @@ Shipment, Receipt
 **Description**
  *Material Shipment and Receipt Lines*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -189,9 +189,9 @@ Movement
 **Description**
  *Material Movement Lines*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -282,9 +282,9 @@ Invoice
 **Description**
  *AP / AR Invoice Lines*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

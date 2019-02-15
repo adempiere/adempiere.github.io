@@ -22,9 +22,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Organization
 ### Organization
 
@@ -41,9 +41,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Period
 ### Period
 
@@ -140,9 +140,9 @@ Rate
 **Help**
  *The Rate indicates the percentage to be multiplied by the source to arrive at the tax or exchange amount.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Project
 ### Project
 

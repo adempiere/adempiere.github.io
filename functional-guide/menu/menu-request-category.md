@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Request Category](functional-guide/window/window-request-category.md)
-:::
+```

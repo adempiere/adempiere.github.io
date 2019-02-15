@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Text Index Stop](functional-guide/window/window-text-index-stop.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [LDAP Server](functional-guide/window/window-ldap-server.md)
-:::
+```

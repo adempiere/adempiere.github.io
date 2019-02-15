@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [House Keeping](functional-guide/window/window-house-keeping.md)
-:::
+```

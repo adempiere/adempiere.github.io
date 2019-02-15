@@ -22,9 +22,9 @@ Client
 **Help**
  *A Client is a company or a legal entity. You cannot share data between Clients. Tenant is a synonym for Client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Organization
 ### Organization
 
@@ -33,9 +33,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Locator
 ### Locator
 
@@ -44,9 +44,9 @@ Locator
 **Help**
  *The Locator indicates where in a Warehouse a product is located.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Movement Date
 ### Movement Date
 
@@ -55,9 +55,9 @@ Movement Date
 **Help**
  *The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delete old imported records
 ### Delete old imported records
 

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Bill of Material & Formula Cost Roll-UP](functional-guide/process/process-pp_bill-of-material-cost-roll-up.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Chat Type](functional-guide/window/window-chat-type.md)
-:::
+```

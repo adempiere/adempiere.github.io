@@ -10,16 +10,16 @@ Help
 
 In this Smart Browser, it is possible to update the request data of a Project
 
-:::tip
+```
 [functional-guidewindowwindow-request-all](functional-guidewindowwindow-request-all.md)
-:::
+```
 
-:::tip
+```
 The Updatable checkbox indicates if a field can be updated by the user.
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
-:::
+```
 Fields
 ## Fields
 

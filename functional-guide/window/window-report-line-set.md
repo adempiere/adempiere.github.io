@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -29,9 +29,9 @@ Report Line Set
 **Description**
  *Maintain Financial Report Line Set*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -93,18 +93,18 @@ Sequence
 **Description**
  *Sequence of Lines*
 
-:::tip
+```
 null
-:::
+```
 Report Line
 ### Report Line
 
 **Description**
  *Maintain Financial Report Line*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -270,9 +270,9 @@ Report Source
 **Description**
  *Maintain Segment Values of Report Line Source*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

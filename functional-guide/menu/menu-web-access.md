@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web Access](functional-guide/window/window-web-access.md)
-:::
+```

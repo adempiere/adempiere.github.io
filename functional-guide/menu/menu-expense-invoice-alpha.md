@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Expense Invoice (Alpha)](functional-guide/window/window-expense-invoice-alpha.md)
-:::
+```

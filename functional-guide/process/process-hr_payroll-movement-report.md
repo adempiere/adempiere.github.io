@@ -100,9 +100,9 @@ Service date
 **Help**
  *The Service Date indicates the date that the service was provided.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Period No
 ### Period No
 
@@ -111,9 +111,9 @@ Period No
 **Help**
  *The Period No identifies a specific period for this year. Each period is defined by a start and end date.  Date ranges for a calendar and year cannot overlap.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Quantity
 ### Quantity
 
@@ -122,9 +122,9 @@ Quantity
 **Help**
  *The Quantity indicates the number of a specific product or item for this document.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Amount
 ### Amount
 
@@ -133,9 +133,9 @@ Amount
 **Help**
  *The Amount indicates the amount for this document line.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Rule
 ### Rule
 

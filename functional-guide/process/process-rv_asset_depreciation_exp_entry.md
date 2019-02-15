@@ -25,18 +25,18 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Usable Life - Months
 ### Usable Life - Months
 
 **Description**
  *Months of the usable life of the asset*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Processed
 ### Processed
 
@@ -57,20 +57,20 @@ Accumulated Depreciation
 ### Accumulated Depreciation
 
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Expense
 ### Expense
 
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Remaining Amt
 ### Remaining Amt
 
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

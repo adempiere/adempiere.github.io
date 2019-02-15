@@ -52,9 +52,9 @@ Set Inventory Count to
 **Description**
  *Set the value of the inventory count to Zero or On Hand Quantity*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delete old/existing records
 ### Delete old/existing records
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Matched Invoices](functional-guide/window/window-matched-invoices.md)
-:::
+```

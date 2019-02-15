@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Marketing Campaign](functional-guide/window/window-marketing-campaign.md)
-:::
+```

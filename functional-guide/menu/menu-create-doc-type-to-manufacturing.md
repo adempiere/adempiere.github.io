@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create Doc Type to Manufacturing](functional-guide/process/process-pp_create-doctype.md)
-:::
+```

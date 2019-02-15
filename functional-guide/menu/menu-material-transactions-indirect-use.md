@@ -17,10 +17,10 @@ Menu Type
 
 **Window**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Material Transactions (indirect use)](functional-guide/window/window-material-transactions-indirect-use.md)
-:::
+```

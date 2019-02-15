@@ -15,9 +15,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -29,9 +29,9 @@ Process Audit
 **Description**
  *Audit Process use*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -114,9 +114,9 @@ Parameter Audit
 **Description**
  *Audit Process Parameter Values*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -209,9 +209,9 @@ Log
 **Description**
  *Process Log*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [System Configurator](functional-guide/window/window-system-configurator.md)
-:::
+```

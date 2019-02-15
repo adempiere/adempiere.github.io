@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Forecast](functional-guide/window/window-import-forecast.md)
-:::
+```

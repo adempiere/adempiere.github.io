@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Depreciation First Year Conventions](functional-guide/window/window-depreciation-first-year-conventions-.md)
-:::
+```

@@ -34,9 +34,9 @@ Outbound Locator
 **Help**
  *The Locator indicates where in a Warehouse a product is located to pick.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Type
 ### Document Type
 

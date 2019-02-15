@@ -5,13 +5,13 @@ Outbound Order Lines to Ship
 
 This Smart Browse allow select the Outbound Order Lines ready to be to ship.
 
-:::tip
+```
 [functional-guidewindowwindow-outbound-order](functional-guidewindowwindow-outbound-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-wm_inoutbound-generate-shipment](functional-guide/process/process-wm_inoutbound-generate-shipment.md)
-:::
+```
 
 Fields
 ## Fields

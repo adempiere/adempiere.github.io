@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Request Resolution](functional-guide/window/window-request-resolution.md)
-:::
+```

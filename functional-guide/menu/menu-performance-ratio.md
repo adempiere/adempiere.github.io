@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Performance Ratio](functional-guide/window/window-performance-ratio.md)
-:::
+```

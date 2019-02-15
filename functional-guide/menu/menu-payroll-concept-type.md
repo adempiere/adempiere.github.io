@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payroll Concept Type](functional-guide/window/window-payroll-concept-type.md)
-:::
+```

@@ -38,9 +38,9 @@ AP - AR
 **Description**
  *Include Receivables and/or Payables transactions*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Allocate Oldest First
 ### Allocate Oldest First
 
@@ -49,6 +49,6 @@ Allocate Oldest First
 **Help**
  *Allocate payments to the oldest invoice. There might be an unallocated amount remaining.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

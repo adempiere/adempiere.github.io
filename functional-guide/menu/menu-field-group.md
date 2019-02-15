@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Field Group](functional-guide/window/window-field-group.md)
-:::
+```

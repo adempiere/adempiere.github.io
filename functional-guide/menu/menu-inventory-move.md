@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Inventory Move](functional-guide/window/window-inventory-move.md)
-:::
+```

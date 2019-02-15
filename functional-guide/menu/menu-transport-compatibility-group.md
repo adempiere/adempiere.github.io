@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Transport Compatibility Group](functional-guide/window/window-transport-compatibility-group.md)
-:::
+```

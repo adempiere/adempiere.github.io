@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Migration](functional-guide/window/window-migration.md)
-:::
+```

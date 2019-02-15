@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web POS Terminal](functional-guide/window/window-web-pos-terminal.md)
-:::
+```

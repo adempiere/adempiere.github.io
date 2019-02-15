@@ -22,6 +22,6 @@ Report Column Set
 **Help**
  *The Report Column Set identifies the columns used in a Report.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

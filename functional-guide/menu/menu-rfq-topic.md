@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [RfQ Topic](functional-guide/window/window-rfq-topic.md)
-:::
+```

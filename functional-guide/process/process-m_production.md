@@ -20,6 +20,6 @@ Product quantity must be in stock
 **Description**
  *If not sufficient in stock in the warehouse, the BOM is not produced*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

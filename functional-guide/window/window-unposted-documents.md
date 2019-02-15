@@ -15,9 +15,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -29,9 +29,9 @@ Unposted Documents
 **Description**
  *View unposted Documents*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

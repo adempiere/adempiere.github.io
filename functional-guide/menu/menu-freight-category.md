@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Freight Category](functional-guide/window/window-freight-category.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Transport Compartment](functional-guide/window/window-transport-compartment.md)
-:::
+```

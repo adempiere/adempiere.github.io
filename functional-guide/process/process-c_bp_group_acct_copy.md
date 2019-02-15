@@ -22,9 +22,9 @@ Business Partner Group
 **Help**
  *The Business Partner Group provides a method of defining defaults to be used for individual Business Partners.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Accounting Schema
 ### Accounting Schema
 
@@ -33,6 +33,6 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

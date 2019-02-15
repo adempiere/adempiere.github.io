@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Project](functional-guide/window/window-import-project.md)
-:::
+```

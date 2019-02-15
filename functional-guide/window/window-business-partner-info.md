@@ -10,9 +10,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -24,9 +24,9 @@ Partner Selection
 **Description**
  *Business Partner Selection*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -138,9 +138,9 @@ Partner Orders
 **Description**
  *Business Partner Orders*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -399,9 +399,9 @@ Partner Shipments
 **Description**
  *Business Partner Shipments*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -518,9 +518,9 @@ Partner Invoices
 **Description**
  *Business Partner Invoices*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -651,9 +651,9 @@ Partner Payments
 **Description**
  *Business Partner Payments*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -802,9 +802,9 @@ Partner Assets
 **Description**
  *Business Partner Assets*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -920,9 +920,9 @@ Partner Requests
 **Description**
  *Business Partner Requests*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

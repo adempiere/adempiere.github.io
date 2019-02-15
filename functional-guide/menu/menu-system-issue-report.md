@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [System Issue Report](functional-guide/window/window-system-issue-report.md)
-:::
+```

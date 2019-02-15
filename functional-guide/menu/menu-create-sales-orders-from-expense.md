@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create Sales Orders from Expense](functional-guide/process/process-s_expensesorder.md)
-:::
+```

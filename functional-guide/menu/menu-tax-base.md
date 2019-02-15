@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Tax Base](functional-guide/window/window-tax-base.md)
-:::
+```

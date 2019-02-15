@@ -46,9 +46,9 @@ Sales Transaction
 **Help**
  *The Sales Transaction checkbox indicates if this item is a Sales Transaction.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Document Type
 ### Document Type
 
@@ -81,9 +81,9 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Account Date
 ### Account Date
 
@@ -92,9 +92,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Due Date
 ### Due Date
 
@@ -103,18 +103,18 @@ Due Date
 **Help**
  *Date when the payment is due without deductions or discount*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Days due
 ### Days due
 
 **Description**
  *Number of days due (negative: due in number of days)*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Order
 ### Order
 

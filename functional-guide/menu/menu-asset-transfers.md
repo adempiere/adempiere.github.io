@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Asset Transfers](functional-guide/window/window-asset-transfers.md)
-:::
+```

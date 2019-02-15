@@ -10,19 +10,19 @@ Help
 
 This browser allows select payroll movements to generate Invoices
 
-:::tip
+```
 [functional-guidewindowwindow-payroll-movement](functional-guidewindowwindow-payroll-movement.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-hr_movement-generate-invoices](functional-guide/process/process-hr_movement-generate-invoices.md)
-:::
+```
 
-:::tip
+```
 Allows auto select rows of a browser
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

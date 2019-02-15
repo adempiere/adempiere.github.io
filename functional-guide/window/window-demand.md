@@ -10,17 +10,17 @@ Help
 
 Material Demand can be based on Forecast, Requisitions, Open Orders
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -34,9 +34,9 @@ Demand
 **Help**
  *Material Demand can be based on Forecast, Requisitions, Open Orders*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -128,9 +128,9 @@ Line
 **Help**
  *Demand for a product in a period*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -208,9 +208,9 @@ Detail
 **Help**
  *Source Link for Material Demand Lines*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

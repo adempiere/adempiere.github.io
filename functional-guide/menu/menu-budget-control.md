@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Budget Control](functional-guide/window/window-budget-control.md)
-:::
+```

@@ -15,9 +15,9 @@ Window Type
 
 **Query Only**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -29,9 +29,9 @@ Company Agent
 **Description**
  *Sales Representative Selection*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -157,9 +157,9 @@ Orders
 **Description**
  *All Orders where the Agent "owns" the Order, the Business Partner or the Product*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -430,9 +430,9 @@ Order Lines
 **Description**
  *All Order Lines where the Agent "owns" the Order, the Business Partner or the Product*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -647,9 +647,9 @@ Invoices
 **Description**
  *All Invoices where the Agent "owns" the Invoice, the Business Partner or the Product*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 
@@ -868,9 +868,9 @@ Invoice Line
 **Description**
  *All Invoice Liness where the Agent "owns" the Invoice, the Business Partner or the Product*
 
-:::tip
+```
 The Read Only indicates that this field may only be Read.  It may not be updated.
-:::
+```
 Fields
 ## Fields
 

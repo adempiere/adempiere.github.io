@@ -62,9 +62,9 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Document Status
 ### Document Status
 

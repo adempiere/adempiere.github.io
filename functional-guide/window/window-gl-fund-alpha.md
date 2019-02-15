@@ -28,10 +28,10 @@ Fund
 **Help**
  *General Ledger Funds Control allows you to restrict the use of funds.  This is independent from budget control.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -127,9 +127,9 @@ Restriction
 **Help**
  *If defined, you can use the fund only for the accounts selected. You can select summary values.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

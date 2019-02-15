@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Invoice Batch](functional-guide/window/window-invoice-batch.md)
-:::
+```

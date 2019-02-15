@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Validate BOM Flags](functional-guide/process/process-m_product_bom_flag.md)
-:::
+```

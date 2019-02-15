@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Warehouse Organization](functional-guide/process/process-orgownership-warehouse.md)
-:::
+```

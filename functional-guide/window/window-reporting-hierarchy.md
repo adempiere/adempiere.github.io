@@ -30,10 +30,10 @@ Reporting Hierarchy
  *Reporting Hierarchy allows you to select different Hierarchies/Trees for the report.
 Accounting Segments like Organization, Account, Product may have several hierarchies to accomodate different views on the business*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

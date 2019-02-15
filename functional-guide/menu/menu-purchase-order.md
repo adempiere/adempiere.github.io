@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Purchase Order](functional-guide/window/window-purchase-order.md)
-:::
+```

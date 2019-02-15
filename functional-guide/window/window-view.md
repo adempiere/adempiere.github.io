@@ -28,10 +28,10 @@ View
 **Help**
  *View window allows you to create dynamic views of information from the dictionary application, These views can be based on tables and views of the dictionary application.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -116,10 +116,10 @@ View Translation
 ### View Translation
 
 
-:::tip
+```
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -209,10 +209,10 @@ View Definition
 
 INNER JOIN M_Product p ON (p.M_Product_ID = ol.M_Product_ID).*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -296,9 +296,9 @@ View Columns
 **Help**
  *The View Column Tab defines the column that includes this view.  Changes made to the Column View Tab become visible after restart due to caching. If the Sequence is negative, the records are ordered descending. Note that the name, description, and help is automatically synchronized if centrally maintained.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -399,11 +399,11 @@ View Columns Translation
 ### View Columns Translation
 
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 The Translation Tab checkbox indicate if a tab contains translation information. To display translation information, enable this in Tools>Preference.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

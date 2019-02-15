@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Counter Document](functional-guide/window/window-counter-document.md)
-:::
+```

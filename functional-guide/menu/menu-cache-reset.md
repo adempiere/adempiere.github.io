@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Cache Reset](functional-guide/process/process-cache-reset.md)
-:::
+```

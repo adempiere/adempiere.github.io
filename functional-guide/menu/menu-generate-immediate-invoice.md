@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Immediate Invoice](functional-guide/process/process-c_pos-generate-immediate-invoice.md)
-:::
+```

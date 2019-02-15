@@ -64,18 +64,18 @@ Maximum write-off per Invoice
 **Description**
  *Maximum invoice amount to be written off in invoice currency*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 AP - AR
 ### AP - AR
 
 **Description**
  *Include Receivables and/or Payables transactions*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Date Invoiced
 ### Date Invoiced
 
@@ -84,26 +84,26 @@ Date Invoiced
 **Help**
  *The Date Invoice indicates the date printed on the invoice.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Simulation
 ### Simulation
 
 **Description**
  *Performing the function is only simulated*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Create Payment
 ### Create Payment
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Account Date
 ### Account Date
 
@@ -112,9 +112,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Bank Account
 ### Bank Account
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Change Notice](functional-guide/window/window-change-notice.md)
-:::
+```

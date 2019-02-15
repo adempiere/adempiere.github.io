@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Move Confirmation](functional-guide/window/window-move-confirmation.md)
-:::
+```

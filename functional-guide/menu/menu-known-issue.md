@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Known Issue](functional-guide/window/window-known-issue.md)
-:::
+```

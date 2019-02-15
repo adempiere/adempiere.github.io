@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Express Receipt](functional-guide/window/window-express-receipt.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Product Classification](functional-guide/window/window-product-classification.md)
-:::
+```

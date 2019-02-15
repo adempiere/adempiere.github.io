@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Storage Cleanup](functional-guide/process/process-m_storagecleanup.md)
-:::
+```

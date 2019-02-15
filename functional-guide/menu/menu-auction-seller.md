@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Auction Seller](functional-guide/window/window-auction-seller.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Sales Opportunity](functional-guide/window/window-sales-opportunity.md)
-:::
+```

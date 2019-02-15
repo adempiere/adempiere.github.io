@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Cash Flow](functional-guide/window/window-cash-flow.md)
-:::
+```

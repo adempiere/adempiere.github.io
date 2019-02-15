@@ -30,9 +30,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Transaction Type
 ### Transaction Type
 

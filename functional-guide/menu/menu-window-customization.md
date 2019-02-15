@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Window Customization](functional-guide/window/window-window-customization.md)
-:::
+```

@@ -22,16 +22,16 @@ Start Date
 **Help**
  *The Start Date indicates the first or starting date*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Number of Periods
 ### Number of Periods
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Date Format
 ### Date Format
 

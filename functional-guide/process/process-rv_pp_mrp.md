@@ -42,9 +42,9 @@ Date Start
 **Description**
  *Date Start for this Order*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Date Promised
 ### Date Promised
 
@@ -53,9 +53,9 @@ Date Promised
 **Help**
  *The Date Promised indicates the date, if any, that an Order was promised for.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 MRP Type
 ### MRP Type
 

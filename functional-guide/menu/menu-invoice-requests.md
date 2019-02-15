@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Invoice Requests](functional-guide/process/process-r_requestinvoice.md)
-:::
+```

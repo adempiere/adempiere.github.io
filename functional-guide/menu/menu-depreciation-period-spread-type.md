@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Depreciation Period Spread Type](functional-guide/window/window-depreciation-period-spread-type.md)
-:::
+```

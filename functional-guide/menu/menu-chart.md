@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Chart](functional-guide/window/window-chart.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Report Line Set](functional-guide/window/window-report-line-set.md)
-:::
+```

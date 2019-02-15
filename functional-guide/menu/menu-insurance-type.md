@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Insurance Type](functional-guide/window/window-insurance-type.md)
-:::
+```

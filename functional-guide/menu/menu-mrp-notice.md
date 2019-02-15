@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [MRP Notice](functional-guide/window/window-mrp-notice.md)
-:::
+```

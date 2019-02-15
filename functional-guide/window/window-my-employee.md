@@ -15,9 +15,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -31,9 +31,9 @@ Employee
 **Help**
  *The Employee Tab defines Employee information.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -192,9 +192,9 @@ Personal Detail
 **Help**
  *The Personal Detail Tab  allows user to capture the personal information about the employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -777,9 +777,9 @@ Account Employee Detail
 **Help**
  *The Account Employee Detail Tab contains detail about employee's deduction and payment*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -826,9 +826,9 @@ Bank Detail
 **Help**
  *The Bank Detail Tab defines bank account  data of an employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 
@@ -1463,9 +1463,9 @@ Insurance Detail
 **Help**
  *The Insurance Detail Tab allows user to capture the insurance information of an employee.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
-:::
+```
 Fields
 ## Fields
 

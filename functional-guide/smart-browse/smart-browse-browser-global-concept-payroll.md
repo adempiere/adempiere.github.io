@@ -5,17 +5,17 @@ Browser Global Concept Payroll
 
 Browser Global Concept Payroll
 
-:::tip
+```
 [functional-guidewindowwindow-payroll-concept-catalog](functional-guidewindowwindow-payroll-concept-catalog.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-hr_payroll-concept](functional-guide/process/process-hr_payroll-concept.md)
-:::
+```
 
-:::tip
+```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag
-:::
+```
 Fields
 ## Fields
 

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Tax Rate Parent](functional-guide/window/window-tax-rate-parent.md)
-:::
+```

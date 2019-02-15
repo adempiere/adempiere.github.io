@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Performance Color Schema](functional-guide/window/window-performance-color-schema.md)
-:::
+```

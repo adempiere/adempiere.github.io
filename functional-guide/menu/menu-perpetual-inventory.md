@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Perpetual Inventory](functional-guide/window/window-perpetual-inventory.md)
-:::
+```

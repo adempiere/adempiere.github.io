@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Quality Test](functional-guide/window/window-quality-test.md)
-:::
+```

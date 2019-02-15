@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Serial No Control](functional-guide/window/window-serial-no-control.md)
-:::
+```

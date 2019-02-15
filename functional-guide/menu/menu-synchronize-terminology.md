@@ -17,10 +17,10 @@ Menu Type
 
 **Process**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
-:::tip
+```
 [Synchronize Terminology](functional-guide/process/process-ad_synchronize.md)
-:::
+```

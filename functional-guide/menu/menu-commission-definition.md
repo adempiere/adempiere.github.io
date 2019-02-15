@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Commission Definition](functional-guide/window/window-commission-definition.md)
-:::
+```

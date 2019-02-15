@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Asset Change Account](functional-guide/window/window-asset-change-account.md)
-:::
+```

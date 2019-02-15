@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Workflow to Client](functional-guide/process/process-ad_wf_toclient.md)
-:::
+```

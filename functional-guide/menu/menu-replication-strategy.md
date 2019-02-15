@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Replication Strategy](functional-guide/window/window-replication-strategy.md)
-:::
+```

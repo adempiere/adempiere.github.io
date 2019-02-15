@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Payroll Employee](functional-guide/window/window-payroll-employee.md)
-:::
+```

@@ -4,18 +4,18 @@ Bank Statement Create From
 
 
 
-:::tip
+```
 [functional-guidewindowwindow-payment](functional-guidewindowwindow-payment.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbp_createfromstatement](functional-guide/process/process-sbp_createfromstatement.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

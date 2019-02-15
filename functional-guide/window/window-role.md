@@ -17,9 +17,9 @@ Window Type
 
 **Maintain**
 
-:::tip
+```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
-:::
+```
 
 Tabs
 ## Tabs
@@ -36,10 +36,10 @@ If the Role User Level is Manual, the assigned acces rights are not automaticall
 If you select an Organization Tree, the user has access to the leaves of  summary organizations.
 Note: You cannot change the System Administrator role.*
 
-:::tip
+```
 The Single Row Layout checkbox indicates if the default display type for this window is a single row as opposed to multi row.
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -336,9 +336,9 @@ Org Access
  *Add the client and organizations the user has access to. Entries here are ignored, if User Org Access is selected or the role has access to all roles.
 Note that access information is cached and requires re-login or reset of cache.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -394,9 +394,9 @@ User Assignment
 **Help**
  *The User Assignment Tab displays Users who have been defined for this Role.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -460,9 +460,9 @@ Window Access
 **Help**
  *The Window Access Tab defines the Windows and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -526,9 +526,9 @@ Process Access
 **Help**
  *The Process Access Tab defines the Processes and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -592,9 +592,9 @@ Form Access
 **Help**
  *The Form Access Tab defines the Forms and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -658,9 +658,9 @@ Browse Access
 **Help**
  *The Browse Access Tab defines the Browses and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -720,9 +720,9 @@ Workflow Access
 **Help**
  *The Workflow Access Tab defines the Workflows and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -786,9 +786,9 @@ Task Access
 **Help**
  *The Task Access Tab defines the Task and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -852,9 +852,9 @@ Dashboard Access
 **Help**
  *TheDashboard Access Tab defines the Dashboard and type of access that this Role is granted.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -906,9 +906,9 @@ Document Action Access
 **Help**
  *Define access to document type / document action / role combinations.*
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 
@@ -968,9 +968,9 @@ Included roles
 ### Included roles
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

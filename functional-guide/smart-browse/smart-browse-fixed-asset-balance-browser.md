@@ -5,14 +5,14 @@ Fixed Asset Balance Browser
 
 Smart Browser shows the information  about the balance, depreciation and remaining amounts for each Fixed Asset
 
-:::tip
+```
 [functional-guidewindowwindow-asset](functional-guidewindowwindow-asset.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

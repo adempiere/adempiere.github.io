@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Verify BOMs](functional-guide/process/process-m_product_boms.md)
-:::
+```

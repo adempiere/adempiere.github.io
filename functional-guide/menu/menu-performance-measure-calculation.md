@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Performance Measure Calculation](functional-guide/window/window-performance-measure-calculation.md)
-:::
+```

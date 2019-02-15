@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [PackIn - Import a package](functional-guide/window/window-packin---import-a-package.md)
-:::
+```

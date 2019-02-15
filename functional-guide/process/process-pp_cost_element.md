@@ -30,9 +30,9 @@ Accounting Schema
 **Help**
  *An Accounting Schema defines the rules used in accounting such as costing method, currency and calendar*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Cost Type
 ### Cost Type
 
@@ -41,9 +41,9 @@ Cost Type
 **Help**
  *You can define multiple cost types. A cost type selected in an Accounting Schema is used for accounting.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product Category
 ### Product Category
 

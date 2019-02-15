@@ -10,9 +10,9 @@ Help
 
 The Split Asset Entry window allows you to create and post assets that have been split to the GL
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Window Type
 ### Window Type
 
@@ -27,9 +27,9 @@ Create Split Asset Entry
 ### Create Split Asset Entry
 
 
-:::tip
+```
 If not selected, the user cannot create a new Record.  This is automatically disabled, if the Tab is Read Only.
-:::
+```
 Fields
 ## Fields
 

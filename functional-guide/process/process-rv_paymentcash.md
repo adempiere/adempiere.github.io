@@ -38,9 +38,9 @@ Transaction Date
 **Help**
  *The Transaction Date indicates the date of the transaction.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Account Date
 ### Account Date
 
@@ -49,9 +49,9 @@ Account Date
 **Help**
  *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Payment amount
 ### Payment amount
 
@@ -60,9 +60,9 @@ Payment amount
 **Help**
  *Indicates the amount this payment is for.  The payment amount can be for single or multiple invoices or a partial payment for an invoice.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Tender type
 ### Tender type
 

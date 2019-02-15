@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Expenses (not reimbursed)](functional-guide/window/window-expenses-not-reimbursed.md)
-:::
+```

@@ -22,9 +22,9 @@ Organization
 **Help**
  *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Warehouse
 ### Warehouse
 
@@ -33,9 +33,9 @@ Warehouse
 **Help**
  *The Warehouse identifies a unique Warehouse where products are stored or Services are provided.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Resource
 ### Resource
 

@@ -25,6 +25,6 @@ Report Date
 **Help**
  *Date of Expense/Time Report*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

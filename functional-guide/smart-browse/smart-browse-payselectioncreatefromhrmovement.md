@@ -5,18 +5,18 @@ Create from HR Movement
 
 Create Payment Selection lines from HR Movements selected
 
-:::tip
+```
 [functional-guidewindowwindow-payroll-movement](functional-guidewindowwindow-payroll-movement.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-sbp_payselectioncreatefromhrmovement](functional-guide/process/process-sbp_payselectioncreatefromhrmovement.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

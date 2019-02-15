@@ -5,17 +5,17 @@ Transport Requirement Browser
 
 Transport Requirement Browser
 
-:::tip
+```
 [functional-guidewindowwindow-transport-requirement](functional-guidewindowwindow-transport-requirement.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-dd_transportrequirement-selection](functional-guide/process/process-dd_transportrequirement-selection.md)
-:::
+```
 
-:::tip
+```
 Allows auto select rows of a browser
-:::
+```
 Fields
 ## Fields
 

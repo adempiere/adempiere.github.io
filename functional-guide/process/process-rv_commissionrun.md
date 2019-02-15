@@ -64,9 +64,9 @@ Document Date
 **Help**
  *The Document Date indicates the date the document was generated.  It may or may not be the same as the accounting date.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Start Date
 ### Start Date
 
@@ -75,9 +75,9 @@ Start Date
 **Help**
  *The Start Date indicates the first or starting date*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 End Date
 ### End Date
 
@@ -86,9 +86,9 @@ End Date
 **Help**
  *The End Date indicates the last date in this range.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Sales Region
 ### Sales Region
 
@@ -101,16 +101,16 @@ Days From
 ### Days From
 
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Days To
 ### Days To
 
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Document Status
 ### Document Status
 

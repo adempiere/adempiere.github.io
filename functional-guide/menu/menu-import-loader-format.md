@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Import Loader Format](functional-guide/window/window-import-loader-format.md)
-:::
+```

@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Freight Order](functional-guide/window/window-freight-order.md)
-:::
+```

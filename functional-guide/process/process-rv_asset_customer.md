@@ -10,9 +10,9 @@ Help
 
 The report lists the assets of business partners with the total asset delivery count.
 
-:::tip
+```
 Beta functionality is not fully tested or completed.
-:::
+```
 Parameters
 ## Parameters
 
@@ -57,9 +57,9 @@ In Service Date
 **Help**
  *The date when the asset was put into service - usually used as start date for depreciation.*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Guarantee Date
 ### Guarantee Date
 
@@ -68,6 +68,6 @@ Guarantee Date
 **Help**
  *Date when the normal guarantee or availability expires*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

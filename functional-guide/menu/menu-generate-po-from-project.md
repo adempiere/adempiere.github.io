@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate PO from Project](functional-guide/process/process-c_project_generatepo.md)
-:::
+```

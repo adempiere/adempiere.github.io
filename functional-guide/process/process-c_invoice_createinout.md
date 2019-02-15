@@ -22,6 +22,6 @@ Warehouse
 **Help**
  *The Warehouse identifies a unique Warehouse where products are stored or Services are provided.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

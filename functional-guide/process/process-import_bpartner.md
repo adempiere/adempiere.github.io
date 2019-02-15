@@ -22,9 +22,9 @@ Client
 **Help**
  *A Client is a company or a legal entity. You cannot share data between Clients. Tenant is a synonym for Client.*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Delete old imported records
 ### Delete old imported records
 
@@ -37,6 +37,6 @@ Only Validate Data
 **Description**
  *Validate the date and do not process*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```

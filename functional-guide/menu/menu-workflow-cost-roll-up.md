@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Workflow Cost Roll-Up](functional-guide/process/process-pp_workflow-cost-roll-up.md)
-:::
+```

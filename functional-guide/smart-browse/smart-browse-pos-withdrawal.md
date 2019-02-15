@@ -5,15 +5,15 @@ POS Withdrawal
 
 This Smart Browser allows withdrawal by tender type
 
-:::tip
+```
 [functional-guide/process/process-c_pos-withdrawal](functional-guide/process/process-c_pos-withdrawal.md)
-:::
+```
 
-:::tip
+```
 Allows auto select rows of a browser
 Flag to indicate if is collapsible by default
 Allow define if a Browser is execute by default
-:::
+```
 Fields
 ## Fields
 

@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Copy Role](functional-guide/process/process-copyrole.md)
-:::
+```

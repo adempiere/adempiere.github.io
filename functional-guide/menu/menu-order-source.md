@@ -17,6 +17,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Order Source](functional-guide/window/window-order-source.md)
-:::
+```

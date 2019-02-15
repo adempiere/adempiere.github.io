@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Operational Calendar](functional-guide/window/window-operational-calendar.md)
-:::
+```

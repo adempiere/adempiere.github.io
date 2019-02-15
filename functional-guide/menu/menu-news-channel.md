@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [News Channel](functional-guide/window/window-news-channel.md)
-:::
+```

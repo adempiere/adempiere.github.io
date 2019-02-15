@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Create PO from Requisition](functional-guide/process/process-m_requisition_pocreate.md)
-:::
+```

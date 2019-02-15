@@ -18,6 +18,6 @@ Menu Type
 **Process**
 
 
-:::tip
+```
 [Generate Manufacturing Order Cost](functional-guide/process/process-pp_order-generateordercost.md)
-:::
+```

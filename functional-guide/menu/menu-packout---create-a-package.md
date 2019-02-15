@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [PackOut - Create a package](functional-guide/window/window-packout---create-a-package.md)
-:::
+```

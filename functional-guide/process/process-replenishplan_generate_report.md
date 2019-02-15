@@ -12,9 +12,9 @@ M_ReplenishPlan ID
 ### M_ReplenishPlan ID
 
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 Product Category
 ### Product Category
 

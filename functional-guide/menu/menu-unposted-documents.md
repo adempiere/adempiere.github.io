@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [UnPosted Documents](functional-guide/window/window-unposted-documents.md)
-:::
+```

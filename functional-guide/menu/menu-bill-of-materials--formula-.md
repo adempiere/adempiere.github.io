@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Bill of Materials & Formula](functional-guide/window/window-bill-of-materials--formula-.md)
-:::
+```

@@ -35,15 +35,15 @@ Start Schedule
 **Description**
  *Scheduled start date for this Order*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```
 Finish Schedule
 ### Finish Schedule
 
 **Description**
  *Scheduled Finish date for this Order*
 
-:::tip
+```
 The Range checkbox indicates that this parameter is a range of values.
-:::
+```

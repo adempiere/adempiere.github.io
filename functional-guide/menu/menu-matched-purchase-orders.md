@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Matched Purchase Orders](functional-guide/window/window-matched-purchase-orders.md)
-:::
+```

@@ -10,17 +10,17 @@ Help
 
 Allows receipt of producto of Distribution Order
 
-:::tip
+```
 [functional-guidewindowwindow-distribution-order](functional-guidewindowwindow-distribution-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-m_movement-material-receipt](functional-guide/process/process-m_movement-material-receipt.md)
-:::
+```
 
-:::tip
+```
 Allows auto select rows of a browser
-:::
+```
 Fields
 ## Fields
 

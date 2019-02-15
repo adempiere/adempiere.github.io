@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Entity Type](functional-guide/window/window-entity-type.md)
-:::
+```

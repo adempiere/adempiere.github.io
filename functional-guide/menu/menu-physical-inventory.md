@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Physical Inventory](functional-guide/window/window-physical-inventory.md)
-:::
+```

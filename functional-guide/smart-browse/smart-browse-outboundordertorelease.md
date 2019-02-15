@@ -10,17 +10,17 @@ Help
 
 This process generates that Distribution Order to pick,   based on the warehouse rules
 
-:::tip
+```
 [functional-guidewindowwindow-outbound-order](functional-guidewindowwindow-outbound-order.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-wm_inoutbound-print--release-picking](functional-guide/process/process-wm_inoutbound-print--release-picking.md)
-:::
+```
 
-:::tip
+```
 Flag to indicate if is collapsible by default
-:::
+```
 Fields
 ## Fields
 

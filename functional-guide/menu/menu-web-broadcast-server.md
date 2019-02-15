@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [Web Broadcast Server](functional-guide/window/window-web-broadcast-server.md)
-:::
+```

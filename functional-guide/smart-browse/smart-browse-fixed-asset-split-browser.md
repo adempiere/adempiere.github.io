@@ -10,17 +10,17 @@ Help
 
 In this Smart Browser, it is possible to split a Fixed Assets
 
-:::tip
+```
 [functional-guidewindowwindow-asset](functional-guidewindowwindow-asset.md)
-:::
+```
 
-:::tip
+```
 [functional-guide/process/process-a_aseet_split-process](functional-guide/process/process-a_aseet_split-process.md)
-:::
+```
 
-:::tip
+```
 Show totals for the column  of amount type.
-:::
+```
 Fields
 ## Fields
 

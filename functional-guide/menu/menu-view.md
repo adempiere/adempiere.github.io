@@ -18,6 +18,6 @@ Menu Type
 **Window**
 
 
-:::tip
+```
 [View](functional-guide/window/window-view.md)
-:::
+```

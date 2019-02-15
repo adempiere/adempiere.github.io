@@ -22,9 +22,9 @@ Bank Statement Loader
 **Help**
  *The loader definition provides the parameters to load bank statements from EFT formats like SWIFT (MT940) or OFX*
 
-:::tip
+```
 The field must have a value for the record to be saved to the database.
-:::
+```
 File Name
 ### File Name
 
