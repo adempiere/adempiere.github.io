@@ -8,11 +8,11 @@ The collection includes a number of books covering the main topics of:
 
 **Generated automatically from ADempiere**
 
-* [Menu](functional-guide/menu/)
-* [Window](functional-guide/window/)
-* [Form](functional-guide/form/)
-* [Smart Browsers](functional-guide/smart-browse/)
-* [Process](functional-guide/process/)
+* [Menu](functional-guide/menu/index.md)
+* [Window](functional-guide/window/index.md)
+* [Form](functional-guide/form/index.md)
+* [Smart Browsers](functional-guide/smart-browse/index.md)
+* [Process](functional-guide/process/index.md)
 
 # More References
 - The official page is in: [http://www.adempiere.net](http://www.adempiere.net)
