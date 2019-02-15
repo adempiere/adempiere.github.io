@@ -15,7 +15,7 @@ Window Type
 
 **Query Only**
 
-:::tip
+::: tip
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 :::
 
