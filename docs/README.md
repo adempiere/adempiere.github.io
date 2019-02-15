@@ -1,3 +1,11 @@
+---
+home: true
+heroImage: /home.png
+title: a
+actionText: Get Started →
+actionLink: /functional-guide/
+---
+
 # ADempiere Documentation
 
 This is a documentation generated automatically from ADempiere ERP Application Dictionary.
@@ -7,14 +15,6 @@ Learn, use, configure and extend a world leading open-source ERP project.
 The collection includes a number of books covering the main topics of:
 
 * Functional Guide (**Generated automatically from ADempiere**)
-
----
-home: true
-heroImage: /home.png
-title: a
-actionText: Get Started →
-actionLink: /functional-guide/
----
 
 # More References
 - The official page is in: [http://www.adempiere.net](http://www.adempiere.net)
