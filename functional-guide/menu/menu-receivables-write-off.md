@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Receivables Write-Off](functional-guide/process/process-c_invoice_writeoff.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Form](functional-guide/window/window-form.md)
-```

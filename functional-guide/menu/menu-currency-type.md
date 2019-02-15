@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Currency Type](functional-guide/window/window-currency-type.md)
-```

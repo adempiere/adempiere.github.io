@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Token Definition](functional-guide/window/window-token-definition.md)
-```

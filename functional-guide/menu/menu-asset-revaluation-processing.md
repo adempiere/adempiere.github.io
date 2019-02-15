@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Asset Revaluation Processing](functional-guide/window/window-asset-revaluation-processing.md)
-```

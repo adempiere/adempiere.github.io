@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Service Level](functional-guide/window/window-service-level.md)
-```

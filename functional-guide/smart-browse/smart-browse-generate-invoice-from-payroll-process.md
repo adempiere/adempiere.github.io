@@ -10,13 +10,9 @@ Help
 
 This browser allows select payroll movements to generate Invoices
 
-```
 [functional-guidewindowwindow-payroll-movement](functional-guidewindowwindow-payroll-movement.md)
-```
 
-```
 [functional-guide/process/process-hr_movement-generate-invoices](functional-guide/process/process-hr_movement-generate-invoices.md)
-```
 
 ```
 Allows auto select rows of a browser

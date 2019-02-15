@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Product Class](functional-guide/window/window-product-class.md)
-```

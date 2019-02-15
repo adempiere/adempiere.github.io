@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Payroll Employee](functional-guide/window/window-payroll-employee.md)
-```

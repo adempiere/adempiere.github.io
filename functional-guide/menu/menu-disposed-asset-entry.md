@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Disposed Asset Entry](functional-guide/window/window-disposed-asset-entry.md)
-```

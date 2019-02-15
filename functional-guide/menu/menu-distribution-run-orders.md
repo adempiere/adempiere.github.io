@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Distribution Run Orders](functional-guide/process/process-m_distributionrun-orders.md)
-```

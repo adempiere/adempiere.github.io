@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Warehouse Structure](functional-guide/window/window-warehouse-structure.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Product BOM](functional-guide/window/window-product-bom.md)
-```

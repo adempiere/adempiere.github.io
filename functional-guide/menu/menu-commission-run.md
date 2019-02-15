@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Commission Run](functional-guide/window/window-commission-run.md)
-```

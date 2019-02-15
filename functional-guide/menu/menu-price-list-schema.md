@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Price List Schema](functional-guide/window/window-price-list-schema.md)
-```

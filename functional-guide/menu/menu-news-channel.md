@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [News Channel](functional-guide/window/window-news-channel.md)
-```

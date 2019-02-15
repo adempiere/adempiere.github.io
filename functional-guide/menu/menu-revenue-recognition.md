@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Revenue Recognition](functional-guide/window/window-revenue-recognition.md)
-```

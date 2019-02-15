@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Generate Manufacturing Order from Project](functional-guide/process/process-c_project_generatemo.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Load Bank Statement](functional-guide/process/process-load_bankstatement.md)
-```

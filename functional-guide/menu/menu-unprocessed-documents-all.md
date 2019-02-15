@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Unprocessed Documents (All)](functional-guide/window/window-unprocessed-documents-all.md)
-```

@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Template](functional-guide/window/window-template.md)
-```

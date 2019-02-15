@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Payroll Table](functional-guide/window/window-payroll-table.md)
-```

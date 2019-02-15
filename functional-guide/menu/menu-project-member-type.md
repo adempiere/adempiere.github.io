@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Project Member Type](functional-guide/window/window-project-member-type.md)
-```

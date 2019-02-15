@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Sales Opportunity](functional-guide/window/window-sales-opportunity.md)
-```

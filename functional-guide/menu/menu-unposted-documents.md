@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [UnPosted Documents](functional-guide/window/window-unposted-documents.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [EMail Configuration](functional-guide/window/window-email-configuration.md)
-```

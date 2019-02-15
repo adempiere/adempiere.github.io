@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Activity Control Report](functional-guide/window/window-activity-control-report.md)
-```

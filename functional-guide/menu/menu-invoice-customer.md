@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Invoice (Customer)](functional-guide/window/window-invoice-customer.md)
-```

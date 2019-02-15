@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Change Notice](functional-guide/window/window-change-notice.md)
-```

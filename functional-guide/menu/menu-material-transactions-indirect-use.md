@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Material Transactions (indirect use)](functional-guide/window/window-material-transactions-indirect-use.md)
-```

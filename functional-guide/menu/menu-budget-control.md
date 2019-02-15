@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Budget Control](functional-guide/window/window-budget-control.md)
-```

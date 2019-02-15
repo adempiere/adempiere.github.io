@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [View Chat](functional-guide/window/window-view-chat.md)
-```

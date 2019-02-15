@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Calculate Low Level](functional-guide/process/process-pp_calculate-low-level.md)
-```

@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [GL Budget](functional-guide/window/window-gl-budget.md)
-```

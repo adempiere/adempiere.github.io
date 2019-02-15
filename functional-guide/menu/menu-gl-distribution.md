@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [GL Distribution](functional-guide/window/window-gl-distribution.md)
-```

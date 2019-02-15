@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Token for Access](functional-guide/window/window-token-for-access.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Cash Journal Definition](functional-guide/window/window-cash-journal-definition.md)
-```

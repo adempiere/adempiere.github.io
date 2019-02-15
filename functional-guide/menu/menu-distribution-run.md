@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Distribution Run](functional-guide/window/window-distribution-run.md)
-```

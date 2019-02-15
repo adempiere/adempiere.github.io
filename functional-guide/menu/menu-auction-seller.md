@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Auction Seller](functional-guide/window/window-auction-seller.md)
-```

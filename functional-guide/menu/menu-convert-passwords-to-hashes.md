@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Convert passwords to hashes](functional-guide/process/process-ad_user_hashpassword.md)
-```

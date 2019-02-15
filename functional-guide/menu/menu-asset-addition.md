@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Asset Addition](functional-guide/window/window-asset-addition.md)
-```

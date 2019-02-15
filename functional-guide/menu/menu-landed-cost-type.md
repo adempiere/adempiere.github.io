@@ -19,6 +19,4 @@ Menu Type
 **Window**
 
 
-```
 [Landed Cost Type](functional-guide/window/window-landed-cost-type.md)
-```

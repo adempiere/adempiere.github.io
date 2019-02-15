@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Standard Request Type](functional-guide/window/window-standard-request-type.md)
-```

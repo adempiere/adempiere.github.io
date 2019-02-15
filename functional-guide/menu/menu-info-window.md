@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Info Window](functional-guide/window/window-info-window.md)
-```

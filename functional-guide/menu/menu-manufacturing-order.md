@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Manufacturing Order](functional-guide/window/window-manufacturing-order.md)
-```

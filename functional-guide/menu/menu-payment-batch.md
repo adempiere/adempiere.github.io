@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Payment Batch](functional-guide/window/window-payment-batch.md)
-```

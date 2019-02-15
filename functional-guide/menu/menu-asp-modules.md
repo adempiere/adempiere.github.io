@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [ASP Modules](functional-guide/window/window-asp-modules.md)
-```

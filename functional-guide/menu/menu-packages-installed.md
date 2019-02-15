@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Packages Installed](functional-guide/window/window-packages-installed.md)
-```

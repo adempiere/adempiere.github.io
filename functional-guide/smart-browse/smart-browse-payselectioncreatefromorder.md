@@ -5,13 +5,9 @@ Create from Order
 
 Create Payment Selection lines from Orders selected
 
-```
 [functional-guidewindowwindow-purchase-order](functional-guidewindowwindow-purchase-order.md)
-```
 
-```
 [functional-guide/process/process-sbp_payselectioncreatefromorder](functional-guide/process/process-sbp_payselectioncreatefromorder.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

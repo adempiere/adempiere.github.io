@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Expense Invoice (Alpha)](functional-guide/window/window-expense-invoice-alpha.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Migration Scripts](functional-guide/window/window-migration-scripts.md)
-```

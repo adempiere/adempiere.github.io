@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Rule](functional-guide/window/window-rule.md)
-```

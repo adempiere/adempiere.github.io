@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Work Shift](functional-guide/window/window-work-shift.md)
-```

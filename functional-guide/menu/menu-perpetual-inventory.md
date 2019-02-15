@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Perpetual Inventory](functional-guide/window/window-perpetual-inventory.md)
-```

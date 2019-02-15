@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Field Definition](functional-guide/window/window-field-definition.md)
-```

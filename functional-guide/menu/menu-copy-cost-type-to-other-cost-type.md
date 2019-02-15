@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Copy Cost Type to other Cost Type](functional-guide/process/process-pp_copy-cost-type-to-cost-type.md)
-```

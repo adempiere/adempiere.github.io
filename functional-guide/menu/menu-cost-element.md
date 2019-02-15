@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Cost Element](functional-guide/window/window-cost-element.md)
-```

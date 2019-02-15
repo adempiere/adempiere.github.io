@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Spare parts](functional-guide/window/window-spare-parts.md)
-```

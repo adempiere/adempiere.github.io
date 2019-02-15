@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Test Export Model](functional-guide/process/process-exp_format-testexportmodel.md)
-```

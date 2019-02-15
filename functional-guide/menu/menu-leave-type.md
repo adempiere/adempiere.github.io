@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Leave Type](functional-guide/window/window-leave-type.md)
-```

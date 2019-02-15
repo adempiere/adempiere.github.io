@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Search Definition](functional-guide/window/window-search-definition.md)
-```

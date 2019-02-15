@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Generate Cost Transaction](functional-guide/process/process-m_costdetail-generate-cost-transaction.md)
-```

@@ -5,9 +5,7 @@ In Out Create From
 
 Create From Order / RMA / Invoice in a Receipt
 
-```
 [functional-guide/process/process-sbp_inoutcreatefrom](functional-guide/process/process-sbp_inoutcreatefrom.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

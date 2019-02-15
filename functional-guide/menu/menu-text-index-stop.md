@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Text Index Stop](functional-guide/window/window-text-index-stop.md)
-```

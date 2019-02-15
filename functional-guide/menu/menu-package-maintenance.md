@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Package Maintenance](functional-guide/window/window-package-maintenance.md)
-```

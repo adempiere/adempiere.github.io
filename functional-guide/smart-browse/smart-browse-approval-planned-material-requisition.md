@@ -17,13 +17,9 @@ It is possible to convert a Material Requisition in  a Manufacturing Order , cha
 It is possible to convert a Material Requisition in a Distribution Order, changing the Order Type, The Business Partner , Warehouse in Transit, Shipper ,  Locator source , Locator Target  parameters. These parameters are shown to define the Distribution Order information.
 
 
-```
 [functional-guidewindowwindow-requisition](functional-guidewindowwindow-requisition.md)
-```
 
-```
 [functional-guide/process/process-mrp_requisition_approval](functional-guide/process/process-mrp_requisition_approval.md)
-```
 
 Fields
 ## Fields

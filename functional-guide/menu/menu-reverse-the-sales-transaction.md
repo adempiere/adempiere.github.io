@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Reverse The Sales Transaction](functional-guide/process/process-c_pos-reversethesalestransaction.md)
-```

@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Deliver Assets](functional-guide/process/process-asset_delivery.md)
-```

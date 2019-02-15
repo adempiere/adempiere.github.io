@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Export Format](functional-guide/window/window-export-format.md)
-```

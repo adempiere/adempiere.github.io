@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Tax Rate](functional-guide/window/window-tax-rate.md)
-```

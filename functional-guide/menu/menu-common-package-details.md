@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Common Package Details](functional-guide/window/window-common-package-details.md)
-```

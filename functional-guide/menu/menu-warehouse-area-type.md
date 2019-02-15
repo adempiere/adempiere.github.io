@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Warehouse Area Type](functional-guide/window/window-warehouse-area-type.md)
-```

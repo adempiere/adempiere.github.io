@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Performance Color Schema](functional-guide/window/window-performance-color-schema.md)
-```

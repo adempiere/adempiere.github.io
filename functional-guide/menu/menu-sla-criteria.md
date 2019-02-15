@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [SLA Criteria](functional-guide/window/window-sla-criteria.md)
-```

@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Web Service Definition](functional-guide/window/window-web-service-definition.md)
-```

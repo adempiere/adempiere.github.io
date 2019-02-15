@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Import Product BOM](functional-guide/window/window-import-product-bom.md)
-```

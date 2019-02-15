@@ -10,13 +10,9 @@ Help
 
 For a deposit can be created is need a bank statement in cash
 
-```
 [functional-guidewindowwindow-cash](functional-guidewindowwindow-cash.md)
-```
 
-```
 [functional-guide/process/process-sbpdepositfromcash](functional-guide/process/process-sbpdepositfromcash.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

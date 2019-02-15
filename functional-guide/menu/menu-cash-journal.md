@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Cash Journal](functional-guide/window/window-cash-journal.md)
-```

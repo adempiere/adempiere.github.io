@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Business Partner Organization](functional-guide/process/process-orgownership-bpartner.md)
-```

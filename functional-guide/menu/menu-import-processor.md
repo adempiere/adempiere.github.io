@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Import Processor](functional-guide/window/window-import-processor.md)
-```

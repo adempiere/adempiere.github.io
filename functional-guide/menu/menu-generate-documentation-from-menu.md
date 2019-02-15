@@ -17,6 +17,4 @@ Menu Type
 **Process**
 
 
-```
 [Generate Documentation from Menu](functional-guide/process/process-generatedocsfrommenu.md)
-```

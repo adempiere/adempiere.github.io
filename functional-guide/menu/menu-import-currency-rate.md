@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Import Currency Rate](functional-guide/window/window-import-currency-rate.md)
-```

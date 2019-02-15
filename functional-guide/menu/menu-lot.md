@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Lot](functional-guide/window/window-lot.md)
-```

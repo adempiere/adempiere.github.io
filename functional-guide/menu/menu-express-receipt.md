@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Express Receipt](functional-guide/window/window-express-receipt.md)
-```

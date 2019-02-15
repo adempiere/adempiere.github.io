@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [BOM Change Notice](functional-guide/window/window-bom-change-notice.md)
-```

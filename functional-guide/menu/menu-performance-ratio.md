@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Performance Ratio](functional-guide/window/window-performance-ratio.md)
-```

@@ -4,13 +4,9 @@ Activities Progress Control
 
 
 
-```
 [functional-guidewindowwindow-manufacturing-order](functional-guidewindowwindow-manufacturing-order.md)
-```
 
-```
 [functional-guide/process/process-pp_activities-progress-control](functional-guide/process/process-pp_activities-progress-control.md)
-```
 
 Fields
 ## Fields

@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Alert Processor](functional-guide/window/window-alert-processor.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Product Costs](functional-guide/window/window-product-costs.md)
-```

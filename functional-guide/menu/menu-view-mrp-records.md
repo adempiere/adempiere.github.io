@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [View MRP Records](functional-guide/window/window-view-mrp-records.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Project Info](functional-guide/window/window-project-info.md)
-```

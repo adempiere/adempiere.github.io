@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Product Planning Data](functional-guide/window/window-product-planning-data.md)
-```

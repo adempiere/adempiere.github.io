@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Web POS Terminal](functional-guide/window/window-web-pos-terminal.md)
-```

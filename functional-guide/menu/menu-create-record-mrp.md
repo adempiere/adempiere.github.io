@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Create Record MRP](functional-guide/process/process-pp_create-record-mrp.md)
-```

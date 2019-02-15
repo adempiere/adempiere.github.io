@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Request Group](functional-guide/window/window-request-group.md)
-```

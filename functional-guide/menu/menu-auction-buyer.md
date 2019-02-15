@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Auction Buyer](functional-guide/window/window-auction-buyer.md)
-```

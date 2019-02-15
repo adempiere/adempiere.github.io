@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Employee Relation](functional-guide/window/window-employee-relation.md)
-```

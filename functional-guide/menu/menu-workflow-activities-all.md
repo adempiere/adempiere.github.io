@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Workflow Activities (all)](functional-guide/window/window-workflow-activities-all.md)
-```

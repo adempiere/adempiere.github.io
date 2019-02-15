@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Project Reporting](functional-guide/window/window-project-reporting.md)
-```

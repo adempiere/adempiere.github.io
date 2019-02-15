@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Shipper and Vehicle](functional-guide/window/window-shipper-and-vehicle.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Recalculate Cube](functional-guide/process/process-factacctsummary.md)
-```

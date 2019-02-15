@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Distribution Order](functional-guide/window/window-distribution-order.md)
-```

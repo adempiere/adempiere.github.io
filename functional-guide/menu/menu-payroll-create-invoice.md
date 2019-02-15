@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Payroll Create Invoice](functional-guide/process/process-hr_create-invoice.md)
-```

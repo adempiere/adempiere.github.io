@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Accounting Fact Balances](functional-guide/window/window-accounting-fact-balances.md)
-```

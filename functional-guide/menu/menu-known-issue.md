@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Known Issue](functional-guide/window/window-known-issue.md)
-```

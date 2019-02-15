@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Order Source](functional-guide/window/window-order-source.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Performance Measure](functional-guide/window/window-performance-measure.md)
-```

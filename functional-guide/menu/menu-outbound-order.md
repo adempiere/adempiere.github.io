@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Outbound Order](functional-guide/window/window-outbound-order.md)
-```

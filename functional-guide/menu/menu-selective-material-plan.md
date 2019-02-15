@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Selective Material Plan](functional-guide/process/process-mrp_selective-material-plan.md)
-```

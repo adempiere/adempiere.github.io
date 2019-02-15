@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Transport Unit Type](functional-guide/window/window-transport-unit-type.md)
-```

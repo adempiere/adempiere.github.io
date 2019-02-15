@@ -20,6 +20,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [EDI Transaction](functional-guide/window/window-edi-transaction.md)
-```

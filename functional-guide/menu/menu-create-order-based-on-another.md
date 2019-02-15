@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Create Order based on another](functional-guide/process/process-c_pos-createorderbasedonanother.md)
-```

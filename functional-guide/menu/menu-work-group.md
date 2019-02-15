@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Work Group](functional-guide/window/window-work-group.md)
-```

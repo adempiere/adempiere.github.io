@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Inventory Move](functional-guide/window/window-inventory-move.md)
-```

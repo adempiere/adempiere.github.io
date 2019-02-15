@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Tax Type](functional-guide/window/window-tax-type.md)
-```

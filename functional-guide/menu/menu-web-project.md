@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Web Project](functional-guide/window/window-web-project.md)
-```

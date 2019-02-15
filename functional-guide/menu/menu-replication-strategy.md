@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Replication Strategy](functional-guide/window/window-replication-strategy.md)
-```

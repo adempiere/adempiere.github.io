@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Export Surrogate Key To Migration](functional-guide/process/process-exportsurrogatekeytomigration.md)
-```

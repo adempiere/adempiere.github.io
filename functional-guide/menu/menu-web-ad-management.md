@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Web Ad Management](functional-guide/window/window-web-ad-management.md)
-```

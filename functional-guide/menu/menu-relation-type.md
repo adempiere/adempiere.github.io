@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Relation Type](functional-guide/window/window-relation-type.md)
-```

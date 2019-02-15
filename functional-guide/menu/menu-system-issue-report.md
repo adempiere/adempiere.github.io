@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [System Issue Report](functional-guide/window/window-system-issue-report.md)
-```

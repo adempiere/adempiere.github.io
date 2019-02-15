@@ -1036,10 +1036,10 @@ Process
 
 - [Export Surrogate Key To Migration](process-exportsurrogatekeytomigration.md)
 
-- [Generate Documentation from Menu](process-generatedocsfrommenu.md)
-
 - [Apply migration](process-ad_migration-apply.md)
 
 - [Import migration from XML](process-ad_migration-import.md)
 
 - [Role Access Update](process-ad_role_accessupdate.md)
+
+- [Generate Documentation from Menu](process-generatedocsfrommenu.md)

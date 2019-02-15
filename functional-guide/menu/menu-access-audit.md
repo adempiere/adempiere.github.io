@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Access Audit](functional-guide/window/window-access-audit.md)
-```

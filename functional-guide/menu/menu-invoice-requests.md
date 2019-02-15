@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Invoice Requests](functional-guide/process/process-r_requestinvoice.md)
-```

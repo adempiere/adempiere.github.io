@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Project Status Category](functional-guide/window/window-project-status-category.md)
-```

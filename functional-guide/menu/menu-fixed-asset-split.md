@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Fixed Asset Split](functional-guide/window/window-fixed-asset-split.md)
-```

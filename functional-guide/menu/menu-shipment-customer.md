@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Shipment (Customer)](functional-guide/window/window-shipment-customer.md)
-```

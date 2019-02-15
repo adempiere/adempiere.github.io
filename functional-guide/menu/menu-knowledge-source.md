@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Knowledge Source](functional-guide/window/window-knowledge-source.md)
-```

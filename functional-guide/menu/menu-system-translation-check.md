@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [System Translation Check](functional-guide/window/window-system-translation-check.md)
-```

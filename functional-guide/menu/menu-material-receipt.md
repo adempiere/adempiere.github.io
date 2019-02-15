@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Material Receipt](functional-guide/window/window-material-receipt.md)
-```

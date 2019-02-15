@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Tax Declaration](functional-guide/window/window-tax-declaration.md)
-```

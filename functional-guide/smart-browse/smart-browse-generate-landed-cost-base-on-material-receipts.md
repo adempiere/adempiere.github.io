@@ -10,13 +10,9 @@ Help
 
 This browser allows to display receipts
 
-```
 [functional-guidewindowwindow-material-receipt](functional-guidewindowwindow-material-receipt.md)
-```
 
-```
 [functional-guide/process/process-c_landedcost-receipts](functional-guide/process/process-c_landedcost-receipts.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

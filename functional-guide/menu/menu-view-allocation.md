@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [View Allocation](functional-guide/window/window-view-allocation.md)
-```

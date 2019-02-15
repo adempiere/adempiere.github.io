@@ -4,13 +4,9 @@ Generate Shipment from Order Lines
 
 
 
-```
 [functional-guidewindowwindow-sales-order](functional-guidewindowwindow-sales-order.md)
-```
 
-```
 [functional-guide/process/process-sb_inoutgeneratefromorderline](functional-guide/process/process-sb_inoutgeneratefromorderline.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

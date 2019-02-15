@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Forecast](functional-guide/window/window-forecast.md)
-```

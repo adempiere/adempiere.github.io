@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Performance Benchmark](functional-guide/window/window-performance-benchmark.md)
-```

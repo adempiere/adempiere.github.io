@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Activity (ABC)](functional-guide/window/window-activity-abc.md)
-```

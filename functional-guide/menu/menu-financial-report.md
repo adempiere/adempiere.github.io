@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Financial Report](functional-guide/window/window-financial-report.md)
-```

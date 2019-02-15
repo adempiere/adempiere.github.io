@@ -5,13 +5,9 @@ Salas Order to Picking
 
 This Smart Browse allow select the Sales Order to generate an Outbound Order.
 
-```
 [functional-guidewindowwindow-sales-order](functional-guidewindowwindow-sales-order.md)
-```
 
-```
 [functional-guide/process/process-wm_inoutbound-generate](functional-guide/process/process-wm_inoutbound-generate.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

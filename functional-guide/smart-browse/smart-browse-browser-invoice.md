@@ -5,9 +5,7 @@ Browser Invoice
 
 Smart Browser allows for a selection to be processed
 
-```
 [functional-guide/process/process-c_invoice-selection](functional-guide/process/process-c_invoice-selection.md)
-```
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

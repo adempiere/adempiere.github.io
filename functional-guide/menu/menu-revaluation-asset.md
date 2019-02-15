@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Revaluation Asset](functional-guide/window/window-revaluation-asset.md)
-```

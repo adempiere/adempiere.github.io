@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Request Status](functional-guide/window/window-request-status.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [RfQ](functional-guide/window/window-rfq.md)
-```

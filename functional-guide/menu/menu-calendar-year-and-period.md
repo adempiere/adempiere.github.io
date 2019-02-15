@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Calendar Year and Period](functional-guide/window/window-calendar-year-and-period.md)
-```

@@ -17,6 +17,4 @@ Menu Type
 **Process**
 
 
-```
 [C_Invoce Calculate Tax](functional-guide/process/process-c_invoce-calculate-tax.md)
-```

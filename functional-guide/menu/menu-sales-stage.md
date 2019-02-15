@@ -17,6 +17,4 @@ Menu Type
 **Window**
 
 
-```
 [Sales Stage](functional-guide/window/window-sales-stage.md)
-```

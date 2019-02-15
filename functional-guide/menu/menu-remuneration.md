@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Remuneration](functional-guide/window/window-remuneration.md)
-```

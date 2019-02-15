@@ -20,6 +20,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Production Order Batch](functional-guide/window/window-production-order-batch.md)
-```

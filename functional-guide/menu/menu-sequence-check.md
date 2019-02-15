@@ -18,6 +18,4 @@ Menu Type
 **Process**
 
 
-```
 [Sequence Check](functional-guide/process/process-ad_sequence_check.md)
-```

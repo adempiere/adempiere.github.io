@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Job Type](functional-guide/window/window-job-type.md)
-```

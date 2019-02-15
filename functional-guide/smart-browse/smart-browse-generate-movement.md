@@ -5,13 +5,9 @@ Generate Movement
 
 Generate Movement from Distribution Order
 
-```
 [functional-guidewindowwindow-distribution-order](functional-guidewindowwindow-distribution-order.md)
-```
 
-```
 [functional-guide/process/process-m_movement-generate-movement](functional-guide/process/process-m_movement-generate-movement.md)
-```
 
 ```
 Allows auto select rows of a browser

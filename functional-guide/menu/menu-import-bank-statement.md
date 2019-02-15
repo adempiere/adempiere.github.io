@@ -21,6 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-```
 [Import Bank Statement](functional-guide/window/window-import-bank-statement.md)
-```

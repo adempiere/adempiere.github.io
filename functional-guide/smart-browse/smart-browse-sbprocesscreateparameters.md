@@ -5,9 +5,7 @@ Create Parameters
 
 Create the Process Parameters from other process or from a Columns of Report View
 
-```
 [functional-guide/process/process-copyfromprocess](functional-guide/process/process-copyfromprocess.md)
-```
 
 ```
 Flag to indicate if is collapsible by default

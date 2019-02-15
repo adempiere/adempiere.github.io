@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Skill Type](functional-guide/window/window-skill-type.md)
-```

@@ -18,6 +18,4 @@ Menu Type
 **Window**
 
 
-```
 [Import Product ASI](functional-guide/window/window-import-product-asi.md)
-```
