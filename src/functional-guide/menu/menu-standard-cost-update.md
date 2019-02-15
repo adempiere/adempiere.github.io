@@ -1,0 +1,23 @@
+
+Standard Cost Update
+# Standard Cost Update
+
+
+Set standard and future cost price
+
+Menu Path
+## Menu Path
+
+
+
+- Standard Cost Update
+
+Menu Type
+### Menu Type
+
+**Process**
+
+
+:::tip
+[Standard Cost Update](functional-guide/process/process-m_cost_update.md)
+:::

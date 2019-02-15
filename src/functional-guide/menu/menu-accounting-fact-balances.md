@@ -1,0 +1,26 @@
+
+Accounting Fact Balances
+# Accounting Fact Balances
+
+
+Query Accounting Daily Balances
+
+Menu Path
+## Menu Path
+
+
+
+- Accounting Fact Balances
+
+Menu Type
+### Menu Type
+
+**Window**
+
+:::tip
+The Sales Transaction checkbox indicates if this item is a Sales Transaction.
+:::
+
+:::tip
+[Accounting Fact Balances](functional-guide/window/window-accounting-fact-balances.md)
+:::

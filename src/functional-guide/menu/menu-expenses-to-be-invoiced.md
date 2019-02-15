@@ -1,0 +1,26 @@
+
+Expenses (to be invoiced)
+# Expenses (to be invoiced)
+
+
+View expenses and charges not invoiced to customers
+
+Menu Path
+## Menu Path
+
+
+
+- Expenses (to be invoiced)
+
+Menu Type
+### Menu Type
+
+**Window**
+
+:::tip
+The Sales Transaction checkbox indicates if this item is a Sales Transaction.
+:::
+
+:::tip
+[Expenses (to be invoiced)](functional-guide/window/window-expenses-to-be-invoiced.md)
+:::

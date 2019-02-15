@@ -1,0 +1,23 @@
+
+Job Type
+# Job Type
+
+
+Maintain Job Type Window is used to define the Job Type details relatd to a Job Posting
+
+Menu Path
+## Menu Path
+
+
+
+- Job Type
+
+Menu Type
+### Menu Type
+
+**Window**
+
+
+:::tip
+[Job Type](functional-guide/window/window-job-type.md)
+:::
