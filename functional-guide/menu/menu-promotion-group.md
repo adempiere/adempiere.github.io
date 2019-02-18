@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Promotion Group](../../window-promotion-group.md)
+[Promotion Group](../../functional-guide/window/window-promotion-group.md)

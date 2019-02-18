@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Contract](../../window-payroll-contract.md)
+[Payroll Contract](../../functional-guide/window/window-payroll-contract.md)

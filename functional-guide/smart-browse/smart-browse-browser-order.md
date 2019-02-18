@@ -5,7 +5,7 @@ Browser Order
 
 Smart Browser allows for a selection to be processed
 
-[Purchase Order Selection](../../process-c_order-selection.md)
+[Purchase Order Selection](../../functional-guide/window/process-c_order-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

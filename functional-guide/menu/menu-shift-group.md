@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Shift Group](../../window-shift-group.md)
+[Shift Group](../../functional-guide/window/window-shift-group.md)

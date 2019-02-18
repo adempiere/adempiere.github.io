@@ -10,7 +10,7 @@ Help
 
 In this Smart Browser, it is possible to update the request data of a Project
 
-[Request (all)](../../window-request-all.md)
+[Request (all)](../../functional-guide/window/window-request-all.md)
 
 ```
 The Updatable checkbox indicates if a field can be updated by the user.

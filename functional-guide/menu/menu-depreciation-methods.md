@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Depreciation Methods](../../window-depreciation-methods.md)
+[Depreciation Methods](../../functional-guide/window/window-depreciation-methods.md)

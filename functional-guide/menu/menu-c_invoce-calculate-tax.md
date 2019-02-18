@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[C_Invoce Calculate Tax](../../process-c_invoce-calculate-tax.md)
+[C_Invoce Calculate Tax](../../functional-guide/window/process-c_invoce-calculate-tax.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Matched Invoices](../../window-matched-invoices.md)
+[Matched Invoices](../../functional-guide/window/window-matched-invoices.md)

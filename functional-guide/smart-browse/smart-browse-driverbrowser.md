@@ -5,9 +5,9 @@ Driver Browser
 
 Define Driver Browser
 
-[Driver](../../window-driver.md)
+[Driver](../../functional-guide/window/window-driver.md)
 
-[Driver Selection](../../process-dd_driver-selection.md)
+[Driver Selection](../../functional-guide/window/process-dd_driver-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

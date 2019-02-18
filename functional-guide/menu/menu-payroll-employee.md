@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Employee](../../window-payroll-employee.md)
+[Payroll Employee](../../functional-guide/window/window-payroll-employee.md)

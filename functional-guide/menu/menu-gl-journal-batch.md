@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[GL Journal Batch](../../window-gl-journal-batch.md)
+[GL Journal Batch](../../functional-guide/window/window-gl-journal-batch.md)

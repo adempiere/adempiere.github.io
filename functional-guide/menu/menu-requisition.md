@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Requisition](../../window-requisition.md)
+[Requisition](../../functional-guide/window/window-requisition.md)

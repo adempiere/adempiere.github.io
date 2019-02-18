@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Order Batch Process](../../process-c_order-batchprocess.md)
+[Order Batch Process](../../functional-guide/window/process-c_order-batchprocess.md)

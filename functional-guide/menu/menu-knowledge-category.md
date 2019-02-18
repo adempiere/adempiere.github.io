@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Knowledge Category](../../window-knowledge-category.md)
+[Knowledge Category](../../functional-guide/window/window-knowledge-category.md)

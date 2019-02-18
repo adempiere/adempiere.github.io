@@ -4,7 +4,7 @@ Activities Progress Monitor
 
 
 
-[Manufacturing Order](../../window-manufacturing-order.md)
+[Manufacturing Order](../../functional-guide/window/window-manufacturing-order.md)
 
 Fields
 ## Fields

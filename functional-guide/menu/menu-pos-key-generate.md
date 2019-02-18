@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[POS Key Generate](../../process-c_poskeygenerate.md)
+[POS Key Generate](../../functional-guide/window/process-c_poskeygenerate.md)

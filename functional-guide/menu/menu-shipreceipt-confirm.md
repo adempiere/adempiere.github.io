@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Ship/Receipt Confirm](../../window-shipreceipt-confirm.md)
+[Ship/Receipt Confirm](../../functional-guide/window/window-shipreceipt-confirm.md)

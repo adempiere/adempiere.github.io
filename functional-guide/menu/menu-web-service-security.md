@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Web Service Security](../../window-web-service-security.md)
+[Web Service Security](../../functional-guide/window/window-web-service-security.md)

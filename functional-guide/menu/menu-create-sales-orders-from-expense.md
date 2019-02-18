@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create Sales Orders from Expense](../../process-s_expensesorder.md)
+[Create Sales Orders from Expense](../../functional-guide/window/process-s_expensesorder.md)

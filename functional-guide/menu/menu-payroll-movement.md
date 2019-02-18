@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Movement](../../window-payroll-movement.md)
+[Payroll Movement](../../functional-guide/window/window-payroll-movement.md)

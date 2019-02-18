@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Text Index](../../window-text-index.md)
+[Text Index](../../functional-guide/window/window-text-index.md)

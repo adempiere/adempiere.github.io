@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Physical Inventory](../../window-physical-inventory.md)
+[Physical Inventory](../../functional-guide/window/window-physical-inventory.md)

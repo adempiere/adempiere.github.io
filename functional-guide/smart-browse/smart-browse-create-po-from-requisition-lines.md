@@ -10,9 +10,9 @@ Help
 
 Create Purchase orders from Purchase Requisitions Lines.
 
-[Requisition](../../window-requisition.md)
+[Requisition](../../functional-guide/window/window-requisition.md)
 
-[Create PO from Requisition Lines](../../process-m_requisition_create_po_from_requisition.md)
+[Create PO from Requisition Lines](../../functional-guide/window/process-m_requisition_create_po_from_requisition.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

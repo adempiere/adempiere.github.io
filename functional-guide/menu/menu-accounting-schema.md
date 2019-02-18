@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Accounting Schema](../../window-accounting-schema.md)
+[Accounting Schema](../../functional-guide/window/window-accounting-schema.md)

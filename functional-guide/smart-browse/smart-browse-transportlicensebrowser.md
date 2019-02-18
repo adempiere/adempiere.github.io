@@ -4,9 +4,9 @@ Transport License Browser
 
 
 
-[Transport License](../../window-transport-license.md)
+[Transport License](../../functional-guide/window/window-transport-license.md)
 
-[Transport License Selection](../../process-dd_transportlicense-selection.md)
+[Transport License Selection](../../functional-guide/window/process-dd_transportlicense-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

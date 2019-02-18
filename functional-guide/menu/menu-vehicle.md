@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Vehicle](../../window-vehicle.md)
+[Vehicle](../../functional-guide/window/window-vehicle.md)

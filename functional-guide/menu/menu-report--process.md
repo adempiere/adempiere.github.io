@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Report & Process](../../window-report--process.md)
+[Report & Process](../../functional-guide/window/window-report--process.md)

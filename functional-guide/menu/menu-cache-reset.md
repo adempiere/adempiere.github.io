@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Cache Reset](../../process-cache-reset.md)
+[Cache Reset](../../functional-guide/window/process-cache-reset.md)

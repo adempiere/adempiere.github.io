@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create Element](../../process-pp_cost_element.md)
+[Create Element](../../functional-guide/window/process-pp_cost_element.md)

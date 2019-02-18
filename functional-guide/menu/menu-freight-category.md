@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Freight Category](../../window-freight-category.md)
+[Freight Category](../../functional-guide/window/window-freight-category.md)

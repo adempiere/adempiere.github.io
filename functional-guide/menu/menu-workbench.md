@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Workbench](../../window-workbench.md)
+[Workbench](../../functional-guide/window/window-workbench.md)

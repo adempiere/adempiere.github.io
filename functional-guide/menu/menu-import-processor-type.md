@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Import Processor Type](../../window-import-processor-type.md)
+[Import Processor Type](../../functional-guide/window/window-import-processor-type.md)

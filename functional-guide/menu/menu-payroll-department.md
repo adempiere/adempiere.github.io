@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Department](../../window-payroll-department.md)
+[Payroll Department](../../functional-guide/window/window-payroll-department.md)

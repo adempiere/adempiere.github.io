@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Manufacturing Resource](../../window-manufacturing-resource.md)
+[Manufacturing Resource](../../functional-guide/window/window-manufacturing-resource.md)

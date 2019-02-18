@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cashbook](../../window-cashbook.md)
+[Cashbook](../../functional-guide/window/window-cashbook.md)

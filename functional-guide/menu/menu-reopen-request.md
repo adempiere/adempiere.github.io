@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Reopen Request](../../process-r_request_reopen.md)
+[Reopen Request](../../functional-guide/window/process-r_request_reopen.md)

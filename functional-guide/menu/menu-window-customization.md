@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Window Customization](../../window-window-customization.md)
+[Window Customization](../../functional-guide/window/window-window-customization.md)

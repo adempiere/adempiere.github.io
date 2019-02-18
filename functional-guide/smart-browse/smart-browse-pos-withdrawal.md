@@ -5,7 +5,7 @@ POS Withdrawal
 
 This Smart Browser allows withdrawal by tender type
 
-[POS Withdrawal](../../process-c_pos-withdrawal.md)
+[POS Withdrawal](../../functional-guide/window/process-c_pos-withdrawal.md)
 
 ```
 Allows auto select rows of a browser

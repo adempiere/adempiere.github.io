@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Reopen Order](../../process-c_order-open.md)
+[Reopen Order](../../functional-guide/window/process-c_order-open.md)

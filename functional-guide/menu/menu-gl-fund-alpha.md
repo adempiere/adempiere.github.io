@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[GL Fund (Alpha)](../../window-gl-fund-alpha.md)
+[GL Fund (Alpha)](../../functional-guide/window/window-gl-fund-alpha.md)

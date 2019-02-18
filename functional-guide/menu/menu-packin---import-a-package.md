@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[PackIn - Import a package](../../window-packin---import-a-package.md)
+[PackIn - Import a package](../../functional-guide/window/window-packin---import-a-package.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Print Dunning Letters](../../process-c_dunningprint.md)
+[Print Dunning Letters](../../functional-guide/window/process-c_dunningprint.md)

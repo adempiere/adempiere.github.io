@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Vendor Details](../../window-vendor-details.md)
+[Vendor Details](../../functional-guide/window/window-vendor-details.md)

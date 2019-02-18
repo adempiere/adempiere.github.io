@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Driver](../../window-driver.md)
+[Driver](../../functional-guide/window/window-driver.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Move Confirmation](../../window-move-confirmation.md)
+[Move Confirmation](../../functional-guide/window/window-move-confirmation.md)

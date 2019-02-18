@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Invoice Schedule](../../window-invoice-schedule.md)
+[Invoice Schedule](../../functional-guide/window/window-invoice-schedule.md)

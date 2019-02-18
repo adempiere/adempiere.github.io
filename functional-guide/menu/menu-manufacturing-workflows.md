@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Manufacturing Workflows](../../window-manufacturing-workflows.md)
+[Manufacturing Workflows](../../functional-guide/window/window-manufacturing-workflows.md)

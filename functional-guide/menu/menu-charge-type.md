@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Charge Type](../../window-charge-type.md)
+[Charge Type](../../functional-guide/window/window-charge-type.md)

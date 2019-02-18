@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Vendor RMA](../../window-vendor-rma.md)
+[Vendor RMA](../../functional-guide/window/window-vendor-rma.md)

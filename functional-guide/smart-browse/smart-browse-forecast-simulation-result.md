@@ -10,7 +10,7 @@ Help
 
 The goal of this query is to validate that the results are considered in the company plans.
 
-[Forecast Simulation](../../window-forecast-simulation.md)
+[Forecast Simulation](../../functional-guide/window/window-forecast-simulation.md)
 
 ```
 Flag to indicate if is collapsible by default

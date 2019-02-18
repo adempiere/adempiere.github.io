@@ -14,7 +14,7 @@ This browser allows to show the action messages created by the Materials Plan pr
 
 To visualize the message detail you can click the zoom button. 
 
-[MRP Notice](../../window-mrp-notice.md)
+[MRP Notice](../../functional-guide/window/window-mrp-notice.md)
 
 Fields
 ## Fields

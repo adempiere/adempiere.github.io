@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Asset Transfers](../../window-asset-transfers.md)
+[Asset Transfers](../../functional-guide/window/window-asset-transfers.md)

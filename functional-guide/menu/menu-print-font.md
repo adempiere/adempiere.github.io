@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Print Font](../../window-print-font.md)
+[Print Font](../../functional-guide/window/window-print-font.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Sales History](../../window-import-sales-history.md)
+[Import Sales History](../../functional-guide/window/window-import-sales-history.md)

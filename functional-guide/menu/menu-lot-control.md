@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Lot Control](../../window-lot-control.md)
+[Lot Control](../../functional-guide/window/window-lot-control.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Invoice Requests](../../process-r_requestinvoice.md)
+[Invoice Requests](../../functional-guide/window/process-r_requestinvoice.md)

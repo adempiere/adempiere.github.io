@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Sales Rep Dashboard](../../window-sales-rep-dashboard.md)
+[Sales Rep Dashboard](../../functional-guide/window/window-sales-rep-dashboard.md)

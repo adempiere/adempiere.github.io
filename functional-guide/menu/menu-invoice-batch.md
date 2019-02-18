@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Invoice Batch](../../window-invoice-batch.md)
+[Invoice Batch](../../functional-guide/window/window-invoice-batch.md)

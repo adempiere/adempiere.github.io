@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Synchronize Terminology](../../process-ad_synchronize.md)
+[Synchronize Terminology](../../functional-guide/window/process-ad_synchronize.md)

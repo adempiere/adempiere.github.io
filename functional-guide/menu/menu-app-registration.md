@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[App Registration](../../window-app-registration.md)
+[App Registration](../../functional-guide/window/window-app-registration.md)

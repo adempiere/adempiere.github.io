@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Post Depreciation Entry](../../window-post-depreciation-entry.md)
+[Post Depreciation Entry](../../functional-guide/window/window-post-depreciation-entry.md)

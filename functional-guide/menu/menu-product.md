@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Product](../../window-product.md)
+[Product](../../functional-guide/window/window-product.md)

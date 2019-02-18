@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Relation Type](../../window-relation-type.md)
+[Relation Type](../../functional-guide/window/window-relation-type.md)

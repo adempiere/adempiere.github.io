@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Project](../../window-import-project.md)
+[Import Project](../../functional-guide/window/window-import-project.md)

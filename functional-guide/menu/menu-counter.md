@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Counter](../../window-counter.md)
+[Counter](../../functional-guide/window/window-counter.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Degree](../../window-degree.md)
+[Degree](../../functional-guide/window/window-degree.md)

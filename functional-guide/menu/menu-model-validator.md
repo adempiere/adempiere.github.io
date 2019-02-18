@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Model Validator](../../window-model-validator.md)
+[Model Validator](../../functional-guide/window/window-model-validator.md)

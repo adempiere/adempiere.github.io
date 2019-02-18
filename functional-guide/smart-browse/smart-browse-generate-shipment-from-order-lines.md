@@ -4,9 +4,9 @@ Generate Shipment from Order Lines
 
 
 
-[Sales Order](../../window-sales-order.md)
+[Sales Order](../../functional-guide/window/window-sales-order.md)
 
-[SB_InOutGenerateFromOrderLine](../../process-sb_inoutgeneratefromorderline.md)
+[SB_InOutGenerateFromOrderLine](../../functional-guide/window/process-sb_inoutgeneratefromorderline.md)
 
 ```
 Flag to indicate if is collapsible by default

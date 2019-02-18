@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Project Class](../../window-project-class.md)
+[Project Class](../../functional-guide/window/window-project-class.md)

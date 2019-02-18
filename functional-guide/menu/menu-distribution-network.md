@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Distribution Network](../../window-distribution-network.md)
+[Distribution Network](../../functional-guide/window/window-distribution-network.md)

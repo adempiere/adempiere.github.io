@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[HouseKeeping](../../process-housekeepingpara.md)
+[HouseKeeping](../../functional-guide/window/process-housekeepingpara.md)

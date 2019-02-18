@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Workflow to Client](../../process-ad_wf_toclient.md)
+[Workflow to Client](../../functional-guide/window/process-ad_wf_toclient.md)

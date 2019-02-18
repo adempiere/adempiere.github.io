@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Asset Change Account](../../window-asset-change-account.md)
+[Asset Change Account](../../functional-guide/window/window-asset-change-account.md)

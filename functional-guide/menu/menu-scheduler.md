@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Scheduler](../../window-scheduler.md)
+[Scheduler](../../functional-guide/window/window-scheduler.md)

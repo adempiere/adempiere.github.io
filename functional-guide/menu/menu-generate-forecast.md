@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Forecast](../../process-m_forecast-generate-forecast.md)
+[Generate Forecast](../../functional-guide/window/process-m_forecast-generate-forecast.md)

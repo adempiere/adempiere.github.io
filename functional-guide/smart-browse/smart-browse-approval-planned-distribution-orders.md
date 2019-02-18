@@ -16,9 +16,9 @@ It is possible to change a Distribution Order into  a Manufacturing  Order, by u
 
 It is possible to change a Manufacturing Order into a Material Requisition by using the Order Type and Business Partner parameters. These  parameters are shown to define the Material Requisition information.
 
-[Distribution Order](../../window-distribution-order.md)
+[Distribution Order](../../functional-guide/window/window-distribution-order.md)
 
-[Distribution Order Approval](../../process-mrp_distribution_order_approval.md)
+[Distribution Order Approval](../../functional-guide/window/process-mrp_distribution_order_approval.md)
 
 Fields
 ## Fields

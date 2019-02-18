@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Job Application](../../window-job-application.md)
+[Job Application](../../functional-guide/window/window-job-application.md)

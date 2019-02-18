@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Registration](../../window-registration.md)
+[Registration](../../functional-guide/window/window-registration.md)

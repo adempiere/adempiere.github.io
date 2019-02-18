@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Report View](../../window-report-view.md)
+[Report View](../../functional-guide/window/window-report-view.md)

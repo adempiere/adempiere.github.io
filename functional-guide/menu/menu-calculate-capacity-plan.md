@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Calculate Capacity Plan](../../process-pp_calculate-capacity-plan.md)
+[Calculate Capacity Plan](../../functional-guide/window/process-pp_calculate-capacity-plan.md)

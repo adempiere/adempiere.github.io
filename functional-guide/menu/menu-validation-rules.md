@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Validation Rules](../../window-validation-rules.md)
+[Validation Rules](../../functional-guide/window/window-validation-rules.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Transport License](../../window-transport-license.md)
+[Transport License](../../functional-guide/window/window-transport-license.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Parts and BOMs](../../window-parts-and-boms.md)
+[Parts and BOMs](../../functional-guide/window/window-parts-and-boms.md)

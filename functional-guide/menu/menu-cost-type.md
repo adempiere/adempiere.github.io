@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cost Type](../../window-cost-type.md)
+[Cost Type](../../functional-guide/window/window-cost-type.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Frozen/UnFrozen Cost](../../process-pp_cost-frozenunfrozen.md)
+[Frozen/UnFrozen Cost](../../functional-guide/window/process-pp_cost-frozenunfrozen.md)

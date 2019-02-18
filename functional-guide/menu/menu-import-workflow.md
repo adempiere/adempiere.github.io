@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Workflow](../../window-import-workflow.md)
+[Import Workflow](../../functional-guide/window/window-import-workflow.md)

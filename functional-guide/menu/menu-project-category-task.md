@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Project Category Task](../../window-project-category-task.md)
+[Project Category Task](../../functional-guide/window/window-project-category-task.md)

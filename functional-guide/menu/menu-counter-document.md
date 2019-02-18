@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Counter Document](../../window-counter-document.md)
+[Counter Document](../../functional-guide/window/window-counter-document.md)

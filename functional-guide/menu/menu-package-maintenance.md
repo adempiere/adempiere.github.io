@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Package Maintenance](../../window-package-maintenance.md)
+[Package Maintenance](../../functional-guide/window/window-package-maintenance.md)

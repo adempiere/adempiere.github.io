@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Greeting](../../window-greeting.md)
+[Greeting](../../functional-guide/window/window-greeting.md)

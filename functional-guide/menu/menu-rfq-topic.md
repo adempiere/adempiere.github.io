@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[RfQ Topic](../../window-rfq-topic.md)
+[RfQ Topic](../../functional-guide/window/window-rfq-topic.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cost Collector](../../window-cost-collector.md)
+[Cost Collector](../../functional-guide/window/window-cost-collector.md)

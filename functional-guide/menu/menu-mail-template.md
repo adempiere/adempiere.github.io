@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Mail Template](../../window-mail-template.md)
+[Mail Template](../../functional-guide/window/window-mail-template.md)

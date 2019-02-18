@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Serial No Control](../../window-serial-no-control.md)
+[Serial No Control](../../functional-guide/window/window-serial-no-control.md)

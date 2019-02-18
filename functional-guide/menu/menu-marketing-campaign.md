@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Marketing Campaign](../../window-marketing-campaign.md)
+[Marketing Campaign](../../functional-guide/window/window-marketing-campaign.md)

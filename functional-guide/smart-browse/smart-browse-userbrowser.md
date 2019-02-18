@@ -5,9 +5,9 @@ User Browser
 
 Smart Browser allows for a selection to be processed
 
-[User](../../window-user.md)
+[User](../../functional-guide/window/window-user.md)
 
-[Contacts Selection](../../process-ad_user-selection.md)
+[Contacts Selection](../../functional-guide/window/process-ad_user-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

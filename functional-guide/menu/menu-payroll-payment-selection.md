@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Payment Selection](../../window-payroll-payment-selection.md)
+[Payroll Payment Selection](../../functional-guide/window/window-payroll-payment-selection.md)

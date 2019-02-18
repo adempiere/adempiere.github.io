@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Quality Specifications](../../window-quality-specifications.md)
+[Quality Specifications](../../functional-guide/window/window-quality-specifications.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Media Item](../../window-media-item.md)
+[Media Item](../../functional-guide/window/window-media-item.md)

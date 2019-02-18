@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Payroll Processing](../../process-hr_payrollprocessing.md)
+[Payroll Processing](../../functional-guide/window/process-hr_payrollprocessing.md)

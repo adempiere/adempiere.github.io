@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Leave Type](../../window-leave-type.md)
+[Leave Type](../../functional-guide/window/window-leave-type.md)

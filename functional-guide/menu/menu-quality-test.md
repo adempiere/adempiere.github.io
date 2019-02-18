@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Quality Test](../../window-quality-test.md)
+[Quality Test](../../functional-guide/window/window-quality-test.md)

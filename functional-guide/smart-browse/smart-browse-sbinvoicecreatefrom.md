@@ -5,7 +5,7 @@ Invoice Create From
 
 Create From Order / RMA / Invoice / Receipt in a Invoice
 
-[Invoice Create From](../../process-sbp_invoicecreatefrom.md)
+[Invoice Create From](../../functional-guide/window/process-sbp_invoicecreatefrom.md)
 
 ```
 Flag to indicate if is collapsible by default

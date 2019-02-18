@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Enable Native Sequence](../../process-ad_native_sequence_enable.md)
+[Enable Native Sequence](../../functional-guide/window/process-ad_native_sequence_enable.md)

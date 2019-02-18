@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Bill of Materials & Formula](../../window-bill-of-materials--formula-.md)
+[Bill of Materials & Formula](../../functional-guide/window/window-bill-of-materials--formula-.md)

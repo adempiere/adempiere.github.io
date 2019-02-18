@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Inbound/Outbound Definition](../../window-inboundoutbound-definition.md)
+[Inbound/Outbound Definition](../../functional-guide/window/window-inboundoutbound-definition.md)

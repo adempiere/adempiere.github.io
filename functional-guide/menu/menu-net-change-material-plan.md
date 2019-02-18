@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Net Change Material Plan](../../process-mrp_net_change-material-plan.md)
+[Net Change Material Plan](../../functional-guide/window/process-mrp_net_change-material-plan.md)

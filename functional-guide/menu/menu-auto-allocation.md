@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Auto Allocation](../../process-c_allocation_auto.md)
+[Auto Allocation](../../functional-guide/window/process-c_allocation_auto.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Request Resolution](../../window-request-resolution.md)
+[Request Resolution](../../functional-guide/window/window-request-resolution.md)

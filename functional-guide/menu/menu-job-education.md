@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Job Education](../../window-job-education.md)
+[Job Education](../../functional-guide/window/window-job-education.md)

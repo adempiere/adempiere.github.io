@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web POS Properties](../../window-web-pos-properties.md)
+[Web POS Properties](../../functional-guide/window/window-web-pos-properties.md)

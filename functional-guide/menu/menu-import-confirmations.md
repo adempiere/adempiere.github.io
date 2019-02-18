@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Confirmations](../../window-import-confirmations.md)
+[Import Confirmations](../../functional-guide/window/window-import-confirmations.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Expenses (to be invoiced)](../../window-expenses-to-be-invoiced.md)
+[Expenses (to be invoiced)](../../functional-guide/window/window-expenses-to-be-invoiced.md)

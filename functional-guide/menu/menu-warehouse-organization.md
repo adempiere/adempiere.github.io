@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Warehouse Organization](../../process-orgownership-warehouse.md)
+[Warehouse Organization](../../functional-guide/window/process-orgownership-warehouse.md)

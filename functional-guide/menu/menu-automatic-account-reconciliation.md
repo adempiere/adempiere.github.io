@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Automatic account reconciliation](../../process-fact_reconciliation_auto.md)
+[Automatic account reconciliation](../../functional-guide/window/process-fact_reconciliation_auto.md)

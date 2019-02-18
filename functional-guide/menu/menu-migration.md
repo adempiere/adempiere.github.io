@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Migration](../../window-migration.md)
+[Migration](../../functional-guide/window/window-migration.md)

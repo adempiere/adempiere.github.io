@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Contact](../../window-contact.md)
+[Contact](../../functional-guide/window/window-contact.md)

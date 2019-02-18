@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Budget Movement](../../window-budget-movement.md)
+[Budget Movement](../../functional-guide/window/window-budget-movement.md)

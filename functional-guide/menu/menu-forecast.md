@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Forecast](../../window-forecast.md)
+[Forecast](../../functional-guide/window/window-forecast.md)

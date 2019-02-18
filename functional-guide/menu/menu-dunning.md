@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Dunning](../../window-dunning.md)
+[Dunning](../../functional-guide/window/window-dunning.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Copy Price to Standard Cost](../../process-pp_copy-price-to-standard-cost.md)
+[Copy Price to Standard Cost](../../functional-guide/window/process-pp_copy-price-to-standard-cost.md)

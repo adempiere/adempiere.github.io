@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Change Audit](../../window-change-audit.md)
+[Change Audit](../../functional-guide/window/window-change-audit.md)

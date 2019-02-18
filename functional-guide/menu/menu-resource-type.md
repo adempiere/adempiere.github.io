@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Resource Type](../../window-resource-type.md)
+[Resource Type](../../functional-guide/window/window-resource-type.md)

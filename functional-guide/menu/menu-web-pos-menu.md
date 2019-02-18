@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web POS Menu](../../window-web-pos-menu.md)
+[Web POS Menu](../../functional-guide/window/window-web-pos-menu.md)

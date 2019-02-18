@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[App Support](../../window-app-support.md)
+[App Support](../../functional-guide/window/window-app-support.md)

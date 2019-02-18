@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Asset Revaluation Index](../../window-asset-revaluation-index.md)
+[Asset Revaluation Index](../../functional-guide/window/window-asset-revaluation-index.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Discount Schema](../../window-discount-schema.md)
+[Discount Schema](../../functional-guide/window/window-discount-schema.md)

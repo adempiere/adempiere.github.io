@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Account Combination](../../window-account-combination.md)
+[Account Combination](../../functional-guide/window/window-account-combination.md)

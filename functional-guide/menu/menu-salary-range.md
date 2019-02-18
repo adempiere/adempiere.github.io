@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Salary Range](../../window-salary-range.md)
+[Salary Range](../../functional-guide/window/window-salary-range.md)

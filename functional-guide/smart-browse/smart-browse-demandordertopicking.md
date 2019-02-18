@@ -5,9 +5,9 @@ Demand Order to Picking
 
 This Smart Browse allow select the Demand Order to generate an Outbound Order.
 
-[MRP Demands View](../../window-mrp-demands-view.md)
+[MRP Demands View](../../functional-guide/window/window-mrp-demands-view.md)
 
-[Generare Outbound Order](../../process-wm_inoutbound-generate.md)
+[Generare Outbound Order](../../functional-guide/window/process-wm_inoutbound-generate.md)
 
 ```
 Flag to indicate if is collapsible by default

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Commission Definition](../../window-commission-definition.md)
+[Commission Definition](../../functional-guide/window/window-commission-definition.md)

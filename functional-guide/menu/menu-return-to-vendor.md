@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Return to Vendor](../../window-return-to-vendor.md)
+[Return to Vendor](../../functional-guide/window/window-return-to-vendor.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Asset Disposal2](../../window-asset-disposal2.md)
+[Asset Disposal2](../../functional-guide/window/window-asset-disposal2.md)

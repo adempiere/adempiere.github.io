@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Withholding](../../window-withholding.md)
+[Withholding](../../functional-guide/window/window-withholding.md)

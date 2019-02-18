@@ -4,9 +4,9 @@ Generate Invoice from Order Line
 
 
 
-[Sales Order](../../window-sales-order.md)
+[Sales Order](../../functional-guide/window/window-sales-order.md)
 
-[SB_InvoiceGenerateFromOrderLine](../../process-sb_invoicegeneratefromorderline.md)
+[SB_InvoiceGenerateFromOrderLine](../../functional-guide/window/process-sb_invoicegeneratefromorderline.md)
 
 ```
 Flag to indicate if is collapsible by default

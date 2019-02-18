@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Inbound/Outbound Strategy](../../window-inboundoutbound-strategy.md)
+[Inbound/Outbound Strategy](../../functional-guide/window/window-inboundoutbound-strategy.md)

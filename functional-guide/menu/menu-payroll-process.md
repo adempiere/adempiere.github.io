@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Process](../../window-payroll-process.md)
+[Payroll Process](../../functional-guide/window/window-payroll-process.md)

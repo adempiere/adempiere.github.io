@@ -10,9 +10,9 @@ Help
 
 For a deposit can be created is need a bank statement in cash
 
-[Cash](../../window-cash.md)
+[Cash](../../functional-guide/window/window-cash.md)
 
-[Deposit From Cash Process](../../process-sbpdepositfromcash.md)
+[Deposit From Cash Process](../../functional-guide/window/process-sbpdepositfromcash.md)
 
 ```
 Flag to indicate if is collapsible by default

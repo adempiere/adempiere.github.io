@@ -10,9 +10,9 @@ Help
 
 This process generates that Distribution Order to pick,   based on the warehouse rules
 
-[Outbound Order](../../window-outbound-order.md)
+[Outbound Order](../../functional-guide/window/window-outbound-order.md)
 
-[Release & Print Outbound Order](../../process-wm_inoutbound-print--release-picking.md)
+[Release & Print Outbound Order](../../functional-guide/window/process-wm_inoutbound-print--release-picking.md)
 
 ```
 Flag to indicate if is collapsible by default

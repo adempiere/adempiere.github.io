@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Document Sequence](../../window-document-sequence.md)
+[Document Sequence](../../functional-guide/window/window-document-sequence.md)

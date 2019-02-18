@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[POS Key Layout](../../window-pos-key-layout.md)
+[POS Key Layout](../../functional-guide/window/window-pos-key-layout.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Print & Release Order](../../process-pp_print--release-order.md)
+[Print & Release Order](../../functional-guide/window/process-pp_print--release-order.md)

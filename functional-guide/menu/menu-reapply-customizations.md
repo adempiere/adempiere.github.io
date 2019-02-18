@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Reapply Customizations](../../process-ad_changelog_custom.md)
+[Reapply Customizations](../../functional-guide/window/process-ad_changelog_custom.md)

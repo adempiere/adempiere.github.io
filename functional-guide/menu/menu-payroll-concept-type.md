@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Concept Type](../../window-payroll-concept-type.md)
+[Payroll Concept Type](../../functional-guide/window/window-payroll-concept-type.md)

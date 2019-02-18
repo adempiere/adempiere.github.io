@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Subscription Type](../../window-subscription-type.md)
+[Subscription Type](../../functional-guide/window/window-subscription-type.md)

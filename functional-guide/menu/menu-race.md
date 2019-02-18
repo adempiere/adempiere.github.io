@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Race](../../window-race.md)
+[Race](../../functional-guide/window/window-race.md)

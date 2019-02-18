@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Internal Use Inventory](../../window-internal-use-inventory.md)
+[Internal Use Inventory](../../functional-guide/window/window-internal-use-inventory.md)

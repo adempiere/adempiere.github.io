@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cash Flow](../../window-cash-flow.md)
+[Cash Flow](../../functional-guide/window/window-cash-flow.md)

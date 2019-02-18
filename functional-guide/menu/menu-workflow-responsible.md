@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Workflow Responsible](../../window-workflow-responsible.md)
+[Workflow Responsible](../../functional-guide/window/window-workflow-responsible.md)

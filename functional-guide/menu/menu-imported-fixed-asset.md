@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Imported Fixed Asset](../../window-imported-fixed-asset.md)
+[Imported Fixed Asset](../../functional-guide/window/window-imported-fixed-asset.md)

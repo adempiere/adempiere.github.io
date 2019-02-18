@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Build Depreciation Forecast](../../window-build-depreciation-forecast.md)
+[Build Depreciation Forecast](../../functional-guide/window/window-build-depreciation-forecast.md)

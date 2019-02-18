@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Print Paper](../../window-print-paper.md)
+[Print Paper](../../functional-guide/window/window-print-paper.md)

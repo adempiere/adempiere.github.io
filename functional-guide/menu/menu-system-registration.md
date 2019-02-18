@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[System Registration](../../window-system-registration.md)
+[System Registration](../../functional-guide/window/window-system-registration.md)

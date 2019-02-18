@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Job](../../window-payroll-job.md)
+[Payroll Job](../../functional-guide/window/window-payroll-job.md)

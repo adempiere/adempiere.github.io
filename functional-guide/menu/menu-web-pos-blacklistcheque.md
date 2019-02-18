@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web POS BlackListCheque](../../window-web-pos-blacklistcheque.md)
+[Web POS BlackListCheque](../../functional-guide/window/window-web-pos-blacklistcheque.md)

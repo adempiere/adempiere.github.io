@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Business Partner](../../window-business-partner.md)
+[Business Partner](../../functional-guide/window/window-business-partner.md)

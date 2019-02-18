@@ -5,7 +5,7 @@ Fixed Asset Balance Browser
 
 Smart Browser shows the information  about the balance, depreciation and remaining amounts for each Fixed Asset
 
-[Asset](../../window-asset.md)
+[Asset](../../functional-guide/window/window-asset.md)
 
 ```
 Flag to indicate if is collapsible by default

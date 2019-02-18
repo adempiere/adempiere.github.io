@@ -12,7 +12,7 @@ This browse allows to display supplies, to be able to track each supply of every
 
 To know how demands is satisfied , it is possible to select and press the zoom icon to display the MRP Supplies View, with supply details and their demands.
 
-[MRP Supplies View](../../window-mrp-supplies-view.md)
+[MRP Supplies View](../../functional-guide/window/window-mrp-supplies-view.md)
 
 Fields
 ## Fields

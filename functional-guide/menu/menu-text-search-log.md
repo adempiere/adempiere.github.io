@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Text Search Log](../../window-text-search-log.md)
+[Text Search Log](../../functional-guide/window/window-text-search-log.md)

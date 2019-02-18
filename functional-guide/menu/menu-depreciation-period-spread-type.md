@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Depreciation Period Spread Type](../../window-depreciation-period-spread-type.md)
+[Depreciation Period Spread Type](../../functional-guide/window/window-depreciation-period-spread-type.md)

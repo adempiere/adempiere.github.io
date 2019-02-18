@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Mutiple Components Change](../../process-pp_mutiple-components-change.md)
+[Mutiple Components Change](../../functional-guide/window/process-pp_mutiple-components-change.md)

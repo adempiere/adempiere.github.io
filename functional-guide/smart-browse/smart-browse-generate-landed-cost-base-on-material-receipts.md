@@ -10,9 +10,9 @@ Help
 
 This browser allows to display receipts
 
-[Material Receipt](../../window-material-receipt.md)
+[Material Receipt](../../functional-guide/window/window-material-receipt.md)
 
-[Landed Cost Generate to based on Receipts](../../process-c_landedcost-receipts.md)
+[Landed Cost Generate to based on Receipts](../../functional-guide/window/process-c_landedcost-receipts.md)
 
 ```
 Flag to indicate if is collapsible by default

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Clean Up Garden World](../../process-cleanupgardenworld.md)
+[Clean Up Garden World](../../functional-guide/window/process-cleanupgardenworld.md)

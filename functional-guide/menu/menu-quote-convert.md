@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Quote convert](../../process-c_order-quotecopy.md)
+[Quote convert](../../functional-guide/window/process-c_order-quotecopy.md)

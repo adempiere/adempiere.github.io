@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Career Level](../../window-career-level.md)
+[Career Level](../../functional-guide/window/window-career-level.md)

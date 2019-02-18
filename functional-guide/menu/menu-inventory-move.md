@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Inventory Move](../../window-inventory-move.md)
+[Inventory Move](../../functional-guide/window/window-inventory-move.md)

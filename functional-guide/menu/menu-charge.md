@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Charge](../../window-charge.md)
+[Charge](../../functional-guide/window/window-charge.md)

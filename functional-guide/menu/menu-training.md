@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Training](../../window-training.md)
+[Training](../../functional-guide/window/window-training.md)

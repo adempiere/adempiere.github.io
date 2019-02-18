@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[My Employee](../../window-my-employee.md)
+[My Employee](../../functional-guide/window/window-my-employee.md)

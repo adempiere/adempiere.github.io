@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[MRP Notice](../../window-mrp-notice.md)
+[MRP Notice](../../functional-guide/window/window-mrp-notice.md)

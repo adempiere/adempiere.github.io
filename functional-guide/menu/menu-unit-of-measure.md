@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Unit of Measure](../../window-unit-of-measure.md)
+[Unit of Measure](../../functional-guide/window/window-unit-of-measure.md)

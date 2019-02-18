@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Lead](../../window-lead.md)
+[Lead](../../functional-guide/window/window-lead.md)

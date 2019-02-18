@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Verify BOM Structure](../../process-m_product_bom_verify.md)
+[Verify BOM Structure](../../functional-guide/window/process-m_product_bom_verify.md)

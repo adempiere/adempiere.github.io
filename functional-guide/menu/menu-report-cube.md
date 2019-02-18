@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Report Cube](../../window-report-cube.md)
+[Report Cube](../../functional-guide/window/window-report-cube.md)

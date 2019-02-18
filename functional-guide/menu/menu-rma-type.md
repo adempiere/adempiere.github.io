@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[RMA Type](../../window-rma-type.md)
+[RMA Type](../../functional-guide/window/window-rma-type.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Price List](../../window-price-list.md)
+[Price List](../../functional-guide/window/window-price-list.md)

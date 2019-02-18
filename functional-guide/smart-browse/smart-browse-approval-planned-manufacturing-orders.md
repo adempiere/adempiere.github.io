@@ -15,9 +15,9 @@ It is possible to convert a Manufacturing Order into a Material Requisition  by 
 It is possible to convert a Manufacturing Order into a  Distribution Order by using the Order Type, Business Partner , Warehouse in Transit, Shipper, Source Locator and Target  Locator  parameters. These parameters are shown to define the Distribution Order information.
 
 
-[Manufacturing Order](../../window-manufacturing-order.md)
+[Manufacturing Order](../../functional-guide/window/window-manufacturing-order.md)
 
-[Manufacturing Order Approval](../../process-mrp_manufacturing_order_approval.md)
+[Manufacturing Order Approval](../../functional-guide/window/process-mrp_manufacturing_order_approval.md)
 
 Fields
 ## Fields

@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Asset Funding Mode](../../window-asset-funding-mode.md)
+[Asset Funding Mode](../../functional-guide/window/window-asset-funding-mode.md)
