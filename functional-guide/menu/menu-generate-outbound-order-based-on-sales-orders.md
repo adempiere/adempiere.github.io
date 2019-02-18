@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Salas Order to Picking](../../functional-guide/smart-browse/smart-browse-salas-order-to-picking.md)

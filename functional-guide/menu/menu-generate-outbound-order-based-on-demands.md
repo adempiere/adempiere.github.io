@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Demand Order to Picking](../../functional-guide/smart-browse/smart-browse-demand-order-to-picking.md)

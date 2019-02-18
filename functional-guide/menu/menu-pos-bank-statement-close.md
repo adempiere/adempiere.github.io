@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[POS Bank Statement Close](../../functional-guide/smart-browse/smart-browse-pos-bank-statement-close.md)

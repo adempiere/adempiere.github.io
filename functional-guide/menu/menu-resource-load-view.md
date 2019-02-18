@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Resource Load View](../../functional-guide/form/form-resource-load-view.md)

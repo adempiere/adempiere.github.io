@@ -20,3 +20,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Generate Invoices (manual)](../../functional-guide/form/form-generate-invoices-manual.md)

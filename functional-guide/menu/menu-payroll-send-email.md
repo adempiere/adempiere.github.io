@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Payroll Send EMail](../../functional-guide/window/process-hr_payroll-send-email.md)
+[Payroll Send EMail](../../functional-guide/process/process-hr_payroll-send-email.md)

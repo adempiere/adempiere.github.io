@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Outbound Order to Release](../../functional-guide/smart-browse/smart-browse-outbound-order-to-release.md)

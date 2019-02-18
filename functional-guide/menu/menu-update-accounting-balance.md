@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Update Accounting Balance](../../functional-guide/window/process-balance_update.md)
+[Update Accounting Balance](../../functional-guide/process/process-balance_update.md)

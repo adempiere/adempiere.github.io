@@ -16,3 +16,5 @@ Menu Type
 
 **Form**
 
+
+[Delete Entities](../../functional-guide/form/form-delete-entities.md)

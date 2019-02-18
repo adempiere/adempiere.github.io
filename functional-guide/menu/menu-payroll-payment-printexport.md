@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Payroll Payment Print/Export](../../functional-guide/form/form-payroll-payment-printexport.md)

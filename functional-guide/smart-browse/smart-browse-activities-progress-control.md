@@ -6,7 +6,7 @@ Activities Progress Control
 
 [Manufacturing Order](../../functional-guide/window/window-manufacturing-order.md)
 
-[Activities Progress Control](../../functional-guide/window/process-pp_activities-progress-control.md)
+[Activities Progress Control](../../functional-guide/process/process-pp_activities-progress-control.md)
 
 Fields
 ## Fields

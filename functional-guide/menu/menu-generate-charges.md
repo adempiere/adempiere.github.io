@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Generate Charges](../../functional-guide/form/form-generate-charges.md)

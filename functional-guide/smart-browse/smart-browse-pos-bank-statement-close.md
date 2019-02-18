@@ -7,7 +7,7 @@ This Smart Browser allows to close the statement for POS Terminal
 
 [Payment](../../functional-guide/window/window-payment.md)
 
-[POS Bank Statement Close](../../functional-guide/window/process-c_pos-bank-statement-close.md)
+[POS Bank Statement Close](../../functional-guide/process/process-c_pos-bank-statement-close.md)
 
 ```
 Show totals for the column  of amount type.

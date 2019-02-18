@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Material Receipt Distribution Order](../../functional-guide/smart-browse/smart-browse-material-receipt-distribution-order.md)

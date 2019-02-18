@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Approval  Planned Distribution Orders](../../functional-guide/smart-browse/smart-browse-approval--planned-distribution-orders.md)

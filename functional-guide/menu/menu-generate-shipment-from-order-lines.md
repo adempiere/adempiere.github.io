@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Generate Shipment from Order Lines](../../functional-guide/smart-browse/smart-browse-generate-shipment-from-order-lines.md)

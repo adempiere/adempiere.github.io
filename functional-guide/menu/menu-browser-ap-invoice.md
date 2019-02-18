@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Browser Invoice](../../functional-guide/smart-browse/smart-browse-browser-invoice.md)

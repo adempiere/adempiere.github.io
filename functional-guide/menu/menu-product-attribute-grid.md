@@ -20,3 +20,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Product Attribute Grid](../../functional-guide/form/form-product-attribute-grid.md)

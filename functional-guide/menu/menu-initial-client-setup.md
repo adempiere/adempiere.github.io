@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Initial Client Setup](../../functional-guide/form/form-initial-client-setup.md)

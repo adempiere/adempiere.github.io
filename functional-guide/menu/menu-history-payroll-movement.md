@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[History Payroll Movement](../../functional-guide/smart-browse/smart-browse-history-payroll-movement.md)

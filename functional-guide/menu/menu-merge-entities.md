@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Merge Entities](../../functional-guide/form/form-merge-entities.md)

@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[Immediate Bank Transfer](../../functional-guide/window/process-immediatebanktransfer.md)
+[Immediate Bank Transfer](../../functional-guide/process/process-immediatebanktransfer.md)

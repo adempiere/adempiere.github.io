@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Generate Invoices](../../functional-guide/window/process-c_invoice_generate.md)
+[Generate Invoices](../../functional-guide/process/process-c_invoice_generate.md)

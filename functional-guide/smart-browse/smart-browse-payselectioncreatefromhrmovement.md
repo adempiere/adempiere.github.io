@@ -7,7 +7,7 @@ Create Payment Selection lines from HR Movements selected
 
 [Payroll Movement](../../functional-guide/window/window-payroll-movement.md)
 
-[Create from HR Movement](../../functional-guide/window/process-sbp_payselectioncreatefromhrmovement.md)
+[Create from HR Movement](../../functional-guide/process/process-sbp_payselectioncreatefromhrmovement.md)
 
 ```
 Flag to indicate if is collapsible by default

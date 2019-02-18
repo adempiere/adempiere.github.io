@@ -19,3 +19,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Generate Invoice from Order Line](../../functional-guide/smart-browse/smart-browse-generate-invoice-from-order-line.md)

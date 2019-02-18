@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Browser Order](../../functional-guide/smart-browse/smart-browse-browser-order.md)

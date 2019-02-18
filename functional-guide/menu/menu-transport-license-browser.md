@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Transport License Browser](../../functional-guide/smart-browse/smart-browse-transport-license-browser.md)

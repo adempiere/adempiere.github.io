@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[BOM & Formula Info](../../functional-guide/form/form-bom--formula-info.md)

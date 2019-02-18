@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[Request EMail Processor](../../functional-guide/window/process-request-email-processor.md)
+[Request EMail Processor](../../functional-guide/process/process-request-email-processor.md)

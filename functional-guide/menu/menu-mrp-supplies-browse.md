@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[MRP Supplies Browse](../../functional-guide/smart-browse/smart-browse-mrp-supplies-browse.md)

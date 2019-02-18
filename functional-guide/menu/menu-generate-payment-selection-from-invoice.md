@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Generate Payment Selection (From Invoice)](../../functional-guide/smart-browse/smart-browse-generate-payment-selection-from-invoice.md)

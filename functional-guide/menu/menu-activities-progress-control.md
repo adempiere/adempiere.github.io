@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Activities Progress Control](../../functional-guide/smart-browse/smart-browse-activities-progress-control.md)

@@ -12,7 +12,7 @@ This browser allows to display demands to schedule
 
 [MRP Demands View](../../functional-guide/window/window-mrp-demands-view.md)
 
-[Demands and Supplies to schedule](../../functional-guide/window/process-mrp_schedule.md)
+[Demands and Supplies to schedule](../../functional-guide/process/process-mrp_schedule.md)
 
 Fields
 ## Fields

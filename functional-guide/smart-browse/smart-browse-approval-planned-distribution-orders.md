@@ -18,7 +18,7 @@ It is possible to change a Manufacturing Order into a Material Requisition by us
 
 [Distribution Order](../../functional-guide/window/window-distribution-order.md)
 
-[Distribution Order Approval](../../functional-guide/window/process-mrp_distribution_order_approval.md)
+[Distribution Order Approval](../../functional-guide/process/process-mrp_distribution_order_approval.md)
 
 Fields
 ## Fields

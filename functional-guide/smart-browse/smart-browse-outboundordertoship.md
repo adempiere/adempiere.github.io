@@ -7,7 +7,7 @@ This Smart Browse allow select the Outbound Order Lines ready to be to ship.
 
 [Outbound Order](../../functional-guide/window/window-outbound-order.md)
 
-[Generate Shipments from Outbound Order](../../functional-guide/window/process-wm_inoutbound-generate-shipment.md)
+[Generate Shipments from Outbound Order](../../functional-guide/process/process-wm_inoutbound-generate-shipment.md)
 
 Fields
 ## Fields

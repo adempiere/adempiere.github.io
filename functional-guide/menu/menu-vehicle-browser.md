@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Vehicle Browser](../../functional-guide/smart-browse/smart-browse-vehicle-browser.md)

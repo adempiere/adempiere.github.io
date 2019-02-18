@@ -20,3 +20,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Payment Allocation](../../functional-guide/form/form-payment-allocation.md)

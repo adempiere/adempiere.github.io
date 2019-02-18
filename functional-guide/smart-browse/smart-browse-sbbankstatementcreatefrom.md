@@ -6,7 +6,7 @@ Bank Statement Create From
 
 [Payment](../../functional-guide/window/window-payment.md)
 
-[Create From Statement (Process)](../../functional-guide/window/process-sbp_createfromstatement.md)
+[Create From Statement (Process)](../../functional-guide/process/process-sbp_createfromstatement.md)
 
 ```
 Flag to indicate if is collapsible by default

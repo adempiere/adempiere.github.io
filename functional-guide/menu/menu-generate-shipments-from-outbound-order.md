@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Outbound Order Lines to Ship](../../functional-guide/smart-browse/smart-browse-outbound-order-lines-to-ship.md)

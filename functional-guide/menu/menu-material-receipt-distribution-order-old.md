@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Material Receipt Distribution Order](../../functional-guide/form/form-material-receipt-distribution-order.md)

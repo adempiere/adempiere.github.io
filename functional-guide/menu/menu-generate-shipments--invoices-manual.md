@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Generate Shipments & Invoices (manual)](../../functional-guide/form/form-generate-shipments--invoices-manual.md)

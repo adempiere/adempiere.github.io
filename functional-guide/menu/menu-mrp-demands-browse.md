@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[MRP Demands Browse](../../functional-guide/smart-browse/smart-browse-mrp-demands-browse.md)

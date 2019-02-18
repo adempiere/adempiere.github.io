@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Synchronize Doc Translation](../../functional-guide/window/process-translationdocsync.md)
+[Synchronize Doc Translation](../../functional-guide/process/process-translationdocsync.md)

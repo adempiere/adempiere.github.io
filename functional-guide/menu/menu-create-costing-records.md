@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create Costing Records](../../functional-guide/window/process-m_cost-create.md)
+[Create Costing Records](../../functional-guide/process/process-m_cost-create.md)

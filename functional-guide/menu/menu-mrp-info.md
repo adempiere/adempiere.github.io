@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[MRP Info](../../functional-guide/form/form-mrp-info.md)

@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Generate Shipments (manual)](../../functional-guide/form/form-generate-shipments-manual.md)

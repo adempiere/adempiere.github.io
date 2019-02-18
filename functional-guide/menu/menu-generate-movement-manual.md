@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Generate Movement](../../functional-guide/smart-browse/smart-browse-generate-movement.md)

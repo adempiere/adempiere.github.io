@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Transport Unit Browser](../../functional-guide/smart-browse/smart-browse-transport-unit-browser.md)

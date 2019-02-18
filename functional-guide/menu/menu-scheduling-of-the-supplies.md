@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Scheduling of the Supplies](../../functional-guide/smart-browse/smart-browse-scheduling-of-the-supplies.md)

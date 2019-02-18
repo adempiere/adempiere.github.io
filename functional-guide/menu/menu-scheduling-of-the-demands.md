@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Scheduling of the Demands](../../functional-guide/smart-browse/smart-browse-scheduling-of-the-demands.md)

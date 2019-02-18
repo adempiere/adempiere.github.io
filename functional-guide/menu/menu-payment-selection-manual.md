@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Payment Selection (manual)](../../functional-guide/form/form-payment-selection-manual.md)

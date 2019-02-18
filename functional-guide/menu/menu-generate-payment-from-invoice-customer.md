@@ -19,3 +19,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Generate Payment (From Invoice Customer)](../../functional-guide/smart-browse/smart-browse-generate-payment-from-invoice-customer.md)

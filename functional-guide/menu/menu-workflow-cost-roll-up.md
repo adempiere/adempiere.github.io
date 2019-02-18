@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Workflow Cost Roll-Up](../../functional-guide/window/process-pp_workflow-cost-roll-up.md)
+[Workflow Cost Roll-Up](../../functional-guide/process/process-pp_workflow-cost-roll-up.md)

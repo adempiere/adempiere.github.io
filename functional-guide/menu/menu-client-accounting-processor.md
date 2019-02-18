@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Client Accounting Processor](../../functional-guide/window/process-client_acct_processor.md)
+[Client Accounting Processor](../../functional-guide/process/process-client_acct_processor.md)

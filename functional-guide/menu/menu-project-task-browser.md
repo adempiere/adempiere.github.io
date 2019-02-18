@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Project Task Browser](../../functional-guide/smart-browse/smart-browse-project-task-browser.md)

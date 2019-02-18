@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[FA_ProjectCreateAsset](../../functional-guide/window/process-fa_projectcreateasset.md)
+[FA_ProjectCreateAsset](../../functional-guide/process/process-fa_projectcreateasset.md)

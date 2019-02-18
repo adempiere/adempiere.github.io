@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Fixed Asset Split Browser](../../functional-guide/smart-browse/smart-browse-fixed-asset-split-browser.md)

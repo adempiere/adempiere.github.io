@@ -6,7 +6,7 @@ Create ProductEntries In PriceList
 
 [Product](../../functional-guide/window/window-product.md)
 
-[CreateProductEntriesInPriceList](../../functional-guide/window/process-createproductentriesinpricelistprocess.md)
+[CreateProductEntriesInPriceList](../../functional-guide/process/process-createproductentriesinpricelistprocess.md)
 
 Fields
 ## Fields

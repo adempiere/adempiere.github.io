@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Copy Role](../../functional-guide/window/process-copyrole.md)
+[Copy Role](../../functional-guide/process/process-copyrole.md)

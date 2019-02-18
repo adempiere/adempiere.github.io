@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Approval Planned Material Requisition](../../functional-guide/smart-browse/smart-browse-approval-planned-material-requisition.md)

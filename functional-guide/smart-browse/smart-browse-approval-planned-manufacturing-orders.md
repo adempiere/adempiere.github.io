@@ -17,7 +17,7 @@ It is possible to convert a Manufacturing Order into a  Distribution Order by us
 
 [Manufacturing Order](../../functional-guide/window/window-manufacturing-order.md)
 
-[Manufacturing Order Approval](../../functional-guide/window/process-mrp_manufacturing_order_approval.md)
+[Manufacturing Order Approval](../../functional-guide/process/process-mrp_manufacturing_order_approval.md)
 
 Fields
 ## Fields

@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Payment Print/Export](../../functional-guide/form/form-payment-printexport.md)

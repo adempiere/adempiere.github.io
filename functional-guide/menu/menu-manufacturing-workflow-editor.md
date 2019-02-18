@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Manufacturing Workflow Editor](../../functional-guide/form/form-manufacturing-workflow-editor.md)

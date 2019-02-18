@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Product Configuration BOM](../../functional-guide/form/form-product-configuration-bom.md)

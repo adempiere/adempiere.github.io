@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Outbound Order Lines Based on Demands to Delivery](../../functional-guide/smart-browse/smart-browse-outbound-order-lines-based-on-demands-to-delivery.md)

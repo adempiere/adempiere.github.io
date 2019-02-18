@@ -7,7 +7,7 @@ Create Payment Selection lines from Invoices selected
 
 [Invoice (Vendor)](../../functional-guide/window/window-invoice-vendor.md)
 
-[Create from Invoice](../../functional-guide/window/process-sbp_payselectioncreatefrominvoice.md)
+[Create from Invoice](../../functional-guide/process/process-sbp_payselectioncreatefrominvoice.md)
 
 ```
 Flag to indicate if is collapsible by default

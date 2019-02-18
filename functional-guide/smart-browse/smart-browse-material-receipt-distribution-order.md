@@ -12,7 +12,7 @@ Allows receipt of producto of Distribution Order
 
 [Distribution Order](../../functional-guide/window/window-distribution-order.md)
 
-[Movement Material Receipt from Distribution Order](../../functional-guide/window/process-m_movement-material-receipt.md)
+[Movement Material Receipt from Distribution Order](../../functional-guide/process/process-m_movement-material-receipt.md)
 
 ```
 Allows auto select rows of a browser

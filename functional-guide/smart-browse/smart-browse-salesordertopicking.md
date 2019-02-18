@@ -7,7 +7,7 @@ This Smart Browse allow select the Sales Order to generate an Outbound Order.
 
 [Sales Order](../../functional-guide/window/window-sales-order.md)
 
-[Generare Outbound Order](../../functional-guide/window/process-wm_inoutbound-generate.md)
+[Generare Outbound Order](../../functional-guide/process/process-wm_inoutbound-generate.md)
 
 ```
 Flag to indicate if is collapsible by default

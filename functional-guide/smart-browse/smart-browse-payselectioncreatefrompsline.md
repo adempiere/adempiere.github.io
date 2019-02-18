@@ -7,7 +7,7 @@ Create Payment Selection lines from Payment Request selected
 
 [Payment Selection](../../functional-guide/window/window-payment-selection.md)
 
-[Create from Payment Selection](../../functional-guide/window/process-sbp_payselectioncreatefrompayselection.md)
+[Create from Payment Selection](../../functional-guide/process/process-sbp_payselectioncreatefrompayselection.md)
 
 ```
 Flag to indicate if is collapsible by default

@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Fixed Asset Balance Browser](../../functional-guide/smart-browse/smart-browse-fixed-asset-balance-browser.md)

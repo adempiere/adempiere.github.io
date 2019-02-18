@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Project Request Browser](../../functional-guide/smart-browse/smart-browse-project-request-browser.md)

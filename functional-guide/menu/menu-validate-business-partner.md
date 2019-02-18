@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Validate Business Partner](../../functional-guide/window/process-c_bpartner-validate.md)
+[Validate Business Partner](../../functional-guide/process/process-c_bpartner-validate.md)

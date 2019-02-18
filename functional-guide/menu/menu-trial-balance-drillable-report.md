@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Trial Balance Drillable Report](../../functional-guide/form/form-trial-balance-drillable-report.md)

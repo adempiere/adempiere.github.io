@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Translation Import/Export](../../functional-guide/form/form-translation-importexport.md)

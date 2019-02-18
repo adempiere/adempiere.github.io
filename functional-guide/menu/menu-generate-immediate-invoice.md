@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Immediate Invoice](../../functional-guide/window/process-c_pos-generate-immediate-invoice.md)
+[Generate Immediate Invoice](../../functional-guide/process/process-c_pos-generate-immediate-invoice.md)

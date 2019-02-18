@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Browser Requisition to Create PO from Requisition Lines](../../functional-guide/smart-browse/smart-browse-browser-requisition-to-create-po-from-requisition-lines.md)

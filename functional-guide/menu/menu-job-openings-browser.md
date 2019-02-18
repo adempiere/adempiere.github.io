@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Job Openins Browser](../../functional-guide/smart-browse/smart-browse-job-openins-browser.md)

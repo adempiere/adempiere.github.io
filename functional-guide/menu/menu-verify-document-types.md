@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Verify Document Types](../../functional-guide/window/process-c_documenttype-verify.md)
+[Verify Document Types](../../functional-guide/process/process-c_documenttype-verify.md)

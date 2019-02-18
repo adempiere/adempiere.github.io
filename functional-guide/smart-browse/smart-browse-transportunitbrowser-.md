@@ -7,7 +7,7 @@ Defines Transport Unit Browser
 
 [Transport Unit](../../functional-guide/window/window-transport-unit.md)
 
-[Transport Unit Selection](../../functional-guide/window/process-dd_transportunit-selection.md)
+[Transport Unit Selection](../../functional-guide/process/process-dd_transportunit-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

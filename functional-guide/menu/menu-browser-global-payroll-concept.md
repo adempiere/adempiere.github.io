@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Browser Global Concept Payroll](../../functional-guide/smart-browse/smart-browse-browser-global-concept-payroll.md)

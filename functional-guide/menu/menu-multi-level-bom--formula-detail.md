@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Multi Level BOM & Formula Detail](../../functional-guide/window/process-pp_multi-level-bom--formula.md)
+[Multi Level BOM & Formula Detail](../../functional-guide/process/process-pp_multi-level-bom--formula.md)

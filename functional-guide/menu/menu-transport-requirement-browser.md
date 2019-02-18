@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Transport Requirement Browser](../../functional-guide/smart-browse/smart-browse-transport-requirement-browser.md)

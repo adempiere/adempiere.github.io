@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[Setup Web POS](../../functional-guide/window/process-setup-web-pos.md)
+[Setup Web POS](../../functional-guide/process/process-setup-web-pos.md)

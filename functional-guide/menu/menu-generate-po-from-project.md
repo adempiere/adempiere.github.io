@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate PO from Project](../../functional-guide/window/process-c_project_generatepo.md)
+[Generate PO from Project](../../functional-guide/process/process-c_project_generatepo.md)

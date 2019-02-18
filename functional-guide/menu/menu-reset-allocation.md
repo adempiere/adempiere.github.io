@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Reset Allocation](../../functional-guide/window/process-c_allocation_reset.md)
+[Reset Allocation](../../functional-guide/process/process-c_allocation_reset.md)

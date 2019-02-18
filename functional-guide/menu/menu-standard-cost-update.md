@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Standard Cost Update](../../functional-guide/window/process-m_cost_update.md)
+[Standard Cost Update](../../functional-guide/process/process-m_cost_update.md)

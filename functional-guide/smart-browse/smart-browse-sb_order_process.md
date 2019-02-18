@@ -6,7 +6,7 @@ Process Orders of selection
 
 [Sales Order](../../functional-guide/window/window-sales-order.md)
 
-[SB_C_Order_Process](../../functional-guide/window/process-sb_c_order_process.md)
+[SB_C_Order_Process](../../functional-guide/process/process-sb_c_order_process.md)
 
 ```
 Flag to indicate if is collapsible by default

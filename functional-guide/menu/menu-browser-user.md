@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[User Browser](../../functional-guide/smart-browse/smart-browse-user-browser.md)

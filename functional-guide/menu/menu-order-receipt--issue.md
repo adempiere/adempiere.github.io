@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Order Receipt & Issue](../../functional-guide/form/form-order-receipt--issue.md)

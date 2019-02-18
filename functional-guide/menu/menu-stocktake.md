@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[Stocktake](../../functional-guide/form/form-stocktake.md)

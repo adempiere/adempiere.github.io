@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Reset Accounting](../../functional-guide/window/process-fact_acct_reset-delete.md)
+[Reset Accounting](../../functional-guide/process/process-fact_acct_reset-delete.md)

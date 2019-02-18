@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create PO from Requisition](../../functional-guide/window/process-m_requisition_pocreate.md)
+[Create PO from Requisition](../../functional-guide/process/process-m_requisition_pocreate.md)

@@ -20,3 +20,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Browser Invoice](../../functional-guide/smart-browse/smart-browse-browser-invoice.md)

@@ -19,7 +19,7 @@ It is possible to convert a Material Requisition in a Distribution Order, changi
 
 [Requisition](../../functional-guide/window/window-requisition.md)
 
-[Requisition Approval](../../functional-guide/window/process-mrp_requisition_approval.md)
+[Requisition Approval](../../functional-guide/process/process-mrp_requisition_approval.md)
 
 Fields
 ## Fields

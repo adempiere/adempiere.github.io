@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Approval Planned Manufacturing Orders](../../functional-guide/smart-browse/smart-browse-approval-planned-manufacturing-orders.md)

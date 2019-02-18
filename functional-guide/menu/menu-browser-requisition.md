@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Browser Requisition](../../functional-guide/smart-browse/smart-browse-browser-requisition.md)

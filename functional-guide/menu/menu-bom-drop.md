@@ -17,3 +17,5 @@ Menu Type
 
 **Form**
 
+
+[BOM Drop](../../functional-guide/form/form-bom-drop.md)

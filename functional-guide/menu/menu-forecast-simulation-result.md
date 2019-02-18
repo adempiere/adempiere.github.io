@@ -17,3 +17,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Forecast Simulation Result](../../functional-guide/smart-browse/smart-browse-forecast-simulation-result.md)

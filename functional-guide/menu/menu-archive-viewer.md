@@ -20,3 +20,5 @@ Menu Type
 ```
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
+
+[Archive Viewer](../../functional-guide/form/form-archive-viewer.md)

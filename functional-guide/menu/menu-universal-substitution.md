@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Universal substitution](../../functional-guide/window/process-m_product_bom-substitute.md)
+[Universal substitution](../../functional-guide/process/process-m_product_bom-substitute.md)

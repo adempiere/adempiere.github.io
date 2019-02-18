@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[Deposit from Cash](../../functional-guide/smart-browse/smart-browse-deposit-from-cash.md)

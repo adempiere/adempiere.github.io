@@ -16,3 +16,5 @@ Menu Type
 
 **Smart Browse**
 
+
+[POS Withdrawal](../../functional-guide/smart-browse/smart-browse-pos-withdrawal.md)
