@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Withholding (1099)](functional-guide/window/window-withholding-1099.md)
+[Withholding (1099)](../../window-withholding-1099.md)

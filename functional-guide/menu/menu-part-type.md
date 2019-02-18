@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Part Type](functional-guide/window/window-part-type.md)
+[Part Type](../../window-part-type.md)

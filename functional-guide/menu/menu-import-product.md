@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Product](functional-guide/window/window-import-product.md)
+[Import Product](../../window-import-product.md)

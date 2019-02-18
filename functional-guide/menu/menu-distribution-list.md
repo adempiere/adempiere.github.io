@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Distribution List](functional-guide/window/window-distribution-list.md)
+[Distribution List](../../window-distribution-list.md)

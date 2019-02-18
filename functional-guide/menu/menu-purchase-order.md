@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Purchase Order](functional-guide/window/window-purchase-order.md)
+[Purchase Order](../../window-purchase-order.md)

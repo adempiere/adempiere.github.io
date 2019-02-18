@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Issue Project](functional-guide/window/window-issue-project.md)
+[Issue Project](../../window-issue-project.md)

@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Marketing Campaign](functional-guide/window/window-marketing-campaign.md)
+[Marketing Campaign](../../window-marketing-campaign.md)

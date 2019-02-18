@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Transport Compatibility Group](functional-guide/window/window-transport-compatibility-group.md)
+[Transport Compatibility Group](../../window-transport-compatibility-group.md)

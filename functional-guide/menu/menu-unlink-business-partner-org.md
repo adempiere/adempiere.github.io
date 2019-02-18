@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[UnLink Business Partner Org](functional-guide/process/process-c_bpartner-org-unlink.md)
+[UnLink Business Partner Org](../../process-c_bpartner-org-unlink.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Forecast Definition](functional-guide/window/window-forecast-definition.md)
+[Forecast Definition](../../window-forecast-definition.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web Broadcast Server](functional-guide/window/window-web-broadcast-server.md)
+[Web Broadcast Server](../../window-web-broadcast-server.md)

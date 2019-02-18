@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Performance Goal](functional-guide/window/window-performance-goal.md)
+[Performance Goal](../../window-performance-goal.md)

@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Planned Manufacturing Order](functional-guide/window/window-planned-manufacturing-order.md)
+[Planned Manufacturing Order](../../window-planned-manufacturing-order.md)

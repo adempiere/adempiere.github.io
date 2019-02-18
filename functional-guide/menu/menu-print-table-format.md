@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Print Table Format](functional-guide/window/window-print-table-format.md)
+[Print Table Format](../../window-print-table-format.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Commission Group](functional-guide/window/window-commission-group.md)
+[Commission Group](../../window-commission-group.md)

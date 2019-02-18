@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[Rebuild Index](functional-guide/process/process-k_index_rerun.md)
+[Rebuild Index](../../process-k_index_rerun.md)

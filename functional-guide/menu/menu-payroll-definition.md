@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payroll Definition](functional-guide/window/window-payroll-definition.md)
+[Payroll Definition](../../window-payroll-definition.md)

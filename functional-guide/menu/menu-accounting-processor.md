@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Accounting Processor](functional-guide/window/window-accounting-processor.md)
+[Accounting Processor](../../window-accounting-processor.md)

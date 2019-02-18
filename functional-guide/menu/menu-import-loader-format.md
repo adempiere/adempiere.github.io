@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Loader Format](functional-guide/window/window-import-loader-format.md)
+[Import Loader Format](../../window-import-loader-format.md)

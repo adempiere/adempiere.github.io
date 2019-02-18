@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Transport Compartment](functional-guide/window/window-transport-compartment.md)
+[Transport Compartment](../../window-transport-compartment.md)

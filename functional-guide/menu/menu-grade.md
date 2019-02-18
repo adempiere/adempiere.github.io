@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Grade](functional-guide/window/window-grade.md)
+[Grade](../../window-grade.md)

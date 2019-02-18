@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Replenish Plan Report](functional-guide/process/process-replenishplan.md)
+[Replenish Plan Report](../../process-replenishplan.md)

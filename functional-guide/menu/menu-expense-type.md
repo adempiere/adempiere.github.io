@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Expense Type](functional-guide/window/window-expense-type.md)
+[Expense Type](../../window-expense-type.md)

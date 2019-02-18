@@ -5,7 +5,7 @@ History Payroll Movement
 
 This browser show the employee history movements for a payroll process  
 
-[functional-guidewindowwindow-payroll-movement](functional-guidewindowwindow-payroll-movement.md)
+[Payroll Movement](../../window-payroll-movement.md)
 
 Fields
 ## Fields

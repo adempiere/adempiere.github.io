@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Accounting Dimensions](functional-guide/window/window-accounting-dimensions.md)
+[Accounting Dimensions](../../window-accounting-dimensions.md)

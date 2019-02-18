@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Budget](functional-guide/window/window-import-budget.md)
+[Import Budget](../../window-import-budget.md)

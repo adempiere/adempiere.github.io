@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Send Mail Text](functional-guide/process/process-r_mailtext-send.md)
+[Send Mail Text](../../process-r_mailtext-send.md)

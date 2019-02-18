@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Language](functional-guide/window/window-language.md)
+[Language](../../window-language.md)

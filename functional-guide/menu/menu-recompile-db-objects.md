@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Recompile DB Objects](functional-guide/process/process-dba_recompile.md)
+[Recompile DB Objects](../../process-dba_recompile.md)

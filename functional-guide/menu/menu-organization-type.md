@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Organization Type](functional-guide/window/window-organization-type.md)
+[Organization Type](../../window-organization-type.md)

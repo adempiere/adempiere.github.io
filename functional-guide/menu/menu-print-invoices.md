@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Print Invoices](functional-guide/process/process-c_invoice_print.md)
+[Print Invoices](../../process-c_invoice_print.md)

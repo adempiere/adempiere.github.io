@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web Access](functional-guide/window/window-web-access.md)
+[Web Access](../../window-web-access.md)

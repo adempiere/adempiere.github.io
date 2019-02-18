@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Replication](functional-guide/window/window-replication.md)
+[Replication](../../window-replication.md)

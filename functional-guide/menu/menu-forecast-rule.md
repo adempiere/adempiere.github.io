@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Forecast Rule](functional-guide/window/window-forecast-rule.md)
+[Forecast Rule](../../window-forecast-rule.md)

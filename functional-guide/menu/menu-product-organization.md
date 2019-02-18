@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Product Organization](functional-guide/process/process-orgownership-product.md)
+[Product Organization](../../process-orgownership-product.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Bank](functional-guide/window/window-bank.md)
+[Bank](../../window-bank.md)

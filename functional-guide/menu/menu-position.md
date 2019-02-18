@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Position](functional-guide/window/window-position.md)
+[Position](../../window-position.md)

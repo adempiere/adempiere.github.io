@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Expenses (not reimbursed)](functional-guide/window/window-expenses-not-reimbursed.md)
+[Expenses (not reimbursed)](../../window-expenses-not-reimbursed.md)

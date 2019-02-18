@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Report Column Set](functional-guide/window/window-report-column-set.md)
+[Report Column Set](../../window-report-column-set.md)

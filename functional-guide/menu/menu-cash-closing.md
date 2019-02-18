@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cash Closing](functional-guide/window/window-cash-closing.md)
+[Cash Closing](../../window-cash-closing.md)

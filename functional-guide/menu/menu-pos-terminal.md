@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[POS Terminal](functional-guide/window/window-pos-terminal.md)
+[POS Terminal](../../window-pos-terminal.md)

@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Dashboard Content Edit](functional-guide/window/window-dashboard-content-edit.md)
+[Dashboard Content Edit](../../window-dashboard-content-edit.md)

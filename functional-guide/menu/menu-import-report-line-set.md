@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Import Report Line Set](functional-guide/window/window-import-report-line-set.md)
+[Import Report Line Set](../../window-import-report-line-set.md)

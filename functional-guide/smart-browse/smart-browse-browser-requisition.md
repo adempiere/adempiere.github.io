@@ -5,7 +5,7 @@ Browser Requisition
 
 Smart Browser allows for a selection to be processed
 
-[functional-guidewindowwindow-requisition](functional-guidewindowwindow-requisition.md)
+[Requisition](../../window-requisition.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Shipper](functional-guide/window/window-shipper.md)
+[Shipper](../../window-shipper.md)

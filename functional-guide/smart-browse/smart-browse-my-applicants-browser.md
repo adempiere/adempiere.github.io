@@ -5,7 +5,7 @@ My Applicants Browser
 
 Displays the detail of My Applicants
 
-[functional-guidewindowwindow-job-application](functional-guidewindowwindow-job-application.md)
+[Job Application](../../window-job-application.md)
 
 Fields
 ## Fields

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Currency Rate](functional-guide/window/window-currency-rate.md)
+[Currency Rate](../../window-currency-rate.md)

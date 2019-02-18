@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Document Status Indicator](functional-guide/window/window-document-status-indicator.md)
+[Document Status Indicator](../../window-document-status-indicator.md)

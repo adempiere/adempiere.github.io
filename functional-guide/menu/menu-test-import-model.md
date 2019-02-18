@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Test Import Model](functional-guide/process/process-exp_format-testimportmodel.md)
+[Test Import Model](../../process-exp_format-testimportmodel.md)

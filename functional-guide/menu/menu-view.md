@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[View](functional-guide/window/window-view.md)
+[View](../../window-view.md)

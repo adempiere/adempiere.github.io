@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[LDAP Server](functional-guide/window/window-ldap-server.md)
+[LDAP Server](../../window-ldap-server.md)

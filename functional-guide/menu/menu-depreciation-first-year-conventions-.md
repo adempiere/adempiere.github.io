@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Depreciation First Year Conventions](functional-guide/window/window-depreciation-first-year-conventions-.md)
+[Depreciation First Year Conventions](../../window-depreciation-first-year-conventions-.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Country Region and City](functional-guide/window/window-country-region-and-city.md)
+[Country Region and City](../../window-country-region-and-city.md)

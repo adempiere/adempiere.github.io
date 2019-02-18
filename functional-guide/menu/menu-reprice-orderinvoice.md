@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[RePrice Order/Invoice](functional-guide/process/process-c_order-reprice.md)
+[RePrice Order/Invoice](../../process-c_order-reprice.md)

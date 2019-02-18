@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create AP Expense Invoices](functional-guide/process/process-s_expenseapinvoice.md)
+[Create AP Expense Invoices](../../process-s_expenseapinvoice.md)

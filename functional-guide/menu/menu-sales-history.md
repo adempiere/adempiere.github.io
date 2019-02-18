@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Sales History](functional-guide/window/window-sales-history.md)
+[Sales History](../../window-sales-history.md)

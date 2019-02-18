@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create Dunning Run](functional-guide/process/process-c_dunningrun_create.md)
+[Create Dunning Run](../../process-c_dunningrun_create.md)

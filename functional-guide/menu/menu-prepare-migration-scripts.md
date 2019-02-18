@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Prepare Migration Scripts](functional-guide/process/process-preparemigrationscripts.md)
+[Prepare Migration Scripts](../../process-preparemigrationscripts.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Request](functional-guide/process/process-r_generate-request.md)
+[Generate Request](../../process-r_generate-request.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[GL Category](functional-guide/window/window-gl-category.md)
+[GL Category](../../window-gl-category.md)

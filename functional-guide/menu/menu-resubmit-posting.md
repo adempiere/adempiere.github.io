@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Resubmit Posting](functional-guide/process/process-fact_acct_reset.md)
+[Resubmit Posting](../../process-fact_acct_reset.md)

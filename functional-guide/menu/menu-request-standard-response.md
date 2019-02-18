@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Request Standard Response](functional-guide/window/window-request-standard-response.md)
+[Request Standard Response](../../window-request-standard-response.md)

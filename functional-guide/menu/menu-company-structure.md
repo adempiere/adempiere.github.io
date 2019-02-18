@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Company Structure](functional-guide/window/window-company-structure.md)
+[Company Structure](../../window-company-structure.md)

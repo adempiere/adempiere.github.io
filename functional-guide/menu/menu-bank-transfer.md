@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Bank Transfer](functional-guide/process/process-c_bankstatement-banktransfer.md)
+[Bank Transfer](../../process-c_bankstatement-banktransfer.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Entity Type](functional-guide/window/window-entity-type.md)
+[Entity Type](../../window-entity-type.md)

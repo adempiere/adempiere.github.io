@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Transport Requirement Type](functional-guide/window/window-transport-requirement-type.md)
+[Transport Requirement Type](../../window-transport-requirement-type.md)

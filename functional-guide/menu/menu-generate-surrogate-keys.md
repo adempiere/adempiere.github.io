@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Surrogate Keys](functional-guide/process/process-ad_table-generate-surrogate-keys.md)
+[Generate Surrogate Keys](../../process-ad_table-generate-surrogate-keys.md)

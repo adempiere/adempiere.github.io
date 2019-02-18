@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Employee Attribute](functional-guide/window/window-import-employee-attribute.md)
+[Import Employee Attribute](../../window-import-employee-attribute.md)

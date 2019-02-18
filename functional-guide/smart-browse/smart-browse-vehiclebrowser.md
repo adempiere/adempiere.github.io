@@ -5,9 +5,9 @@ Vehicle Browser
 
 Defines Vehicle Browser
 
-[functional-guidewindowwindow-vehicle](functional-guidewindowwindow-vehicle.md)
+[Vehicle](../../window-vehicle.md)
 
-[functional-guide/process/process-dd_vehicle-selection](functional-guide/process/process-dd_vehicle-selection.md)
+[Vehicle Selection](../../process-dd_vehicle-selection.md)
 
 ```
 The Records Deletable checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag

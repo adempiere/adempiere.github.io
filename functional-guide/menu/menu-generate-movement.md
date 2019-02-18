@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Movement](functional-guide/process/process-m_generate-movement.md)
+[Generate Movement](../../process-m_generate-movement.md)

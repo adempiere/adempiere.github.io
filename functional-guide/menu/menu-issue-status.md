@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Issue Status](functional-guide/window/window-issue-status.md)
+[Issue Status](../../window-issue-status.md)

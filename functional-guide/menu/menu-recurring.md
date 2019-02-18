@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Recurring](functional-guide/window/window-recurring.md)
+[Recurring](../../window-recurring.md)

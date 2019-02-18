@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Project Category](functional-guide/window/window-project-category.md)
+[Project Category](../../window-project-category.md)

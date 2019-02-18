@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Employee Data](functional-guide/window/window-import-employee-data.md)
+[Import Employee Data](../../window-import-employee-data.md)

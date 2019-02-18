@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Manufacturing Order Cost](functional-guide/process/process-pp_order-generateordercost.md)
+[Generate Manufacturing Order Cost](../../process-pp_order-generateordercost.md)

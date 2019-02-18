@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Issue Recommendation](functional-guide/window/window-issue-recommendation.md)
+[Issue Recommendation](../../window-issue-recommendation.md)

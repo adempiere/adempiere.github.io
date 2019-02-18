@@ -10,9 +10,9 @@ Help
 
 This browser allows to display demands to schedule
 
-[functional-guidewindowwindow-mrp-demands-view](functional-guidewindowwindow-mrp-demands-view.md)
+[MRP Demands View](../../window-mrp-demands-view.md)
 
-[functional-guide/process/process-mrp_schedule](functional-guide/process/process-mrp_schedule.md)
+[Demands and Supplies to schedule](../../process-mrp_schedule.md)
 
 Fields
 ## Fields

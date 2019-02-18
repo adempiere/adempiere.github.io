@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Component Check](functional-guide/process/process-pp_component-check.md)
+[Component Check](../../process-pp_component-check.md)

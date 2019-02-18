@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Tax Rate Parent](functional-guide/window/window-tax-rate-parent.md)
+[Tax Rate Parent](../../window-tax-rate-parent.md)

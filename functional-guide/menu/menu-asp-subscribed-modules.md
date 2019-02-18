@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[ASP Subscribed Modules](functional-guide/window/window-asp-subscribed-modules.md)
+[ASP Subscribed Modules](../../window-asp-subscribed-modules.md)

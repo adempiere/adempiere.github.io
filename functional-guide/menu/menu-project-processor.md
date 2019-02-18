@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Project Processor](functional-guide/window/window-project-processor.md)
+[Project Processor](../../window-project-processor.md)

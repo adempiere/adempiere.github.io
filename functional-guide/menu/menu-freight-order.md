@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Freight Order](functional-guide/window/window-freight-order.md)
+[Freight Order](../../window-freight-order.md)

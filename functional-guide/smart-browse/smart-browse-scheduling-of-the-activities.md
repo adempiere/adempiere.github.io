@@ -5,9 +5,9 @@ Scheduling of the Activities
 
 Browser for schedule the start and end dates of the activities of manufacturing orders
 
-[functional-guidewindowwindow-activity-control-report](functional-guidewindowwindow-activity-control-report.md)
+[Activity Control Report](../../window-activity-control-report.md)
 
-[functional-guide/process/process-pp_scheduling-activities](functional-guide/process/process-pp_scheduling-activities.md)
+[Manufacturing Scheduling Activities](../../process-pp_scheduling-activities.md)
 
 Fields
 ## Fields

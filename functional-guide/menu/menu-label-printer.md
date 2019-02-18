@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Label Printer](functional-guide/window/window-label-printer.md)
+[Label Printer](../../window-label-printer.md)

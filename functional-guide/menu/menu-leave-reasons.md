@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Leave Reasons](functional-guide/window/window-leave-reasons.md)
+[Leave Reasons](../../window-leave-reasons.md)

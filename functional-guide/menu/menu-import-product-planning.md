@@ -17,4 +17,4 @@ Menu Type
 **Window**
 
 
-[Import Product Planning](functional-guide/window/window-import-product-planning.md)
+[Import Product Planning](../../window-import-product-planning.md)

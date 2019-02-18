@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Calculate Distribution Plan](functional-guide/process/process-drp_calculate-distribution-plan.md)
+[Calculate Distribution Plan](../../process-drp_calculate-distribution-plan.md)

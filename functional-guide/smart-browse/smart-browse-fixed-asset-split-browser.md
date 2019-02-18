@@ -10,9 +10,9 @@ Help
 
 In this Smart Browser, it is possible to split a Fixed Assets
 
-[functional-guidewindowwindow-asset](functional-guidewindowwindow-asset.md)
+[Asset](../../window-asset.md)
 
-[functional-guide/process/process-a_aseet_split-process](functional-guide/process/process-a_aseet_split-process.md)
+[Fixed Asset Split Process](../../process-a_aseet_split-process.md)
 
 ```
 Show totals for the column  of amount type.

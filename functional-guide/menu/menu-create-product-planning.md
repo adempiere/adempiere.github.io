@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Create Product Planning](functional-guide/process/process-pp_product_planning.md)
+[Create Product Planning](../../process-pp_product_planning.md)

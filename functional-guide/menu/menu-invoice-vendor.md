@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Invoice (Vendor)](functional-guide/window/window-invoice-vendor.md)
+[Invoice (Vendor)](../../window-invoice-vendor.md)

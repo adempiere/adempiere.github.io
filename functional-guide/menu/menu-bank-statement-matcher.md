@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Bank Statement Matcher](functional-guide/window/window-bank-statement-matcher.md)
+[Bank Statement Matcher](../../window-bank-statement-matcher.md)

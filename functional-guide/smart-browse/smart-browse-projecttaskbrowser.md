@@ -10,7 +10,7 @@ Help
 
 In this Smart Browser, it is possible to update the status of a phase or tasks, updating progress or deadline of the task.
 
-[functional-guidewindowwindow-project](functional-guidewindowwindow-project.md)
+[Project](../../window-project.md)
 
 ```
 The Updatable checkbox indicates if a field can be updated by the user.

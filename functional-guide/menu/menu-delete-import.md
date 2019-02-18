@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Delete Import](functional-guide/process/process-import_delete.md)
+[Delete Import](../../process-import_delete.md)

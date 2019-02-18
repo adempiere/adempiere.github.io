@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Customer RMA](functional-guide/window/window-customer-rma.md)
+[Customer RMA](../../window-customer-rma.md)

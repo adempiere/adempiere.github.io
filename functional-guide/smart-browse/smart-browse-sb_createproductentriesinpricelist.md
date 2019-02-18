@@ -4,9 +4,9 @@ Create ProductEntries In PriceList
 
 
 
-[functional-guidewindowwindow-product](functional-guidewindowwindow-product.md)
+[Product](../../window-product.md)
 
-[functional-guide/process/process-createproductentriesinpricelistprocess](functional-guide/process/process-createproductentriesinpricelistprocess.md)
+[CreateProductEntriesInPriceList](../../process-createproductentriesinpricelistprocess.md)
 
 Fields
 ## Fields

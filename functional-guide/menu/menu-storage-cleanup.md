@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Storage Cleanup](functional-guide/process/process-m_storagecleanup.md)
+[Storage Cleanup](../../process-m_storagecleanup.md)

@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Role Access Update](functional-guide/process/process-ad_role_accessupdate.md)
+[Role Access Update](../../process-ad_role_accessupdate.md)

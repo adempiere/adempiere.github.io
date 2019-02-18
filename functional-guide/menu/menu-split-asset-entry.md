@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Split Asset Entry](functional-guide/window/window-split-asset-entry.md)
+[Split Asset Entry](../../window-split-asset-entry.md)

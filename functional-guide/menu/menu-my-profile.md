@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[My Profile](functional-guide/window/window-my-profile.md)
+[My Profile](../../window-my-profile.md)

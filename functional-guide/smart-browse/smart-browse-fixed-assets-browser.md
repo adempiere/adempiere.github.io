@@ -10,7 +10,7 @@ Help
 
 In this Smart Browser, it is possible to review the status of a Fixed Assets
 
-[functional-guidewindowwindow-asset](functional-guidewindowwindow-asset.md)
+[Asset](../../window-asset.md)
 
 ```
 Show totals for the column  of amount type.

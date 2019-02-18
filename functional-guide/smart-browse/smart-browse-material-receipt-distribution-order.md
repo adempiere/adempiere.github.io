@@ -10,9 +10,9 @@ Help
 
 Allows receipt of producto of Distribution Order
 
-[functional-guidewindowwindow-distribution-order](functional-guidewindowwindow-distribution-order.md)
+[Distribution Order](../../window-distribution-order.md)
 
-[functional-guide/process/process-m_movement-material-receipt](functional-guide/process/process-m_movement-material-receipt.md)
+[Movement Material Receipt from Distribution Order](../../process-m_movement-material-receipt.md)
 
 ```
 Allows auto select rows of a browser

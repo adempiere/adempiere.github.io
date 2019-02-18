@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Export Format Generator](functional-guide/process/process-exp_format-generator.md)
+[Export Format Generator](../../process-exp_format-generator.md)

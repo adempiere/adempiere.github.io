@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Attribute](functional-guide/window/window-attribute.md)
+[Attribute](../../window-attribute.md)

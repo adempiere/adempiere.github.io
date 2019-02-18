@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Role Data Access](functional-guide/window/window-role-data-access.md)
+[Role Data Access](../../window-role-data-access.md)

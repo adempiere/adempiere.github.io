@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Reset Password](functional-guide/process/process-ad_user_password.md)
+[Reset Password](../../process-ad_user_password.md)

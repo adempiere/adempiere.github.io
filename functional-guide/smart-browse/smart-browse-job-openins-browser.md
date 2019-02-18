@@ -5,7 +5,7 @@ Job Openins Browser
 
 Displays the detail of Job Openins
 
-[functional-guidewindowwindow-job-openings](functional-guidewindowwindow-job-openings.md)
+[Job Openings](../../window-job-openings.md)
 
 Fields
 ## Fields

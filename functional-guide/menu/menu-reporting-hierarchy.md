@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Reporting Hierarchy](functional-guide/window/window-reporting-hierarchy.md)
+[Reporting Hierarchy](../../window-reporting-hierarchy.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[GL Journal](functional-guide/window/window-gl-journal.md)
+[GL Journal](../../window-gl-journal.md)

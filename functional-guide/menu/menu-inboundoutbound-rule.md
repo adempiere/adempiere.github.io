@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Inbound/Outbound Rule](functional-guide/window/window-inboundoutbound-rule.md)
+[Inbound/Outbound Rule](../../window-inboundoutbound-rule.md)

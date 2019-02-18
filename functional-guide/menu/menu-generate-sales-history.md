@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Generate Sales History](functional-guide/process/process-c_saleshistory_generate.md)
+[Generate Sales History](../../process-c_saleshistory_generate.md)

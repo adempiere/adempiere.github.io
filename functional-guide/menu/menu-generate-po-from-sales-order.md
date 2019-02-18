@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Generate PO from Sales Order](functional-guide/process/process-c_order-po_create.md)
+[Generate PO from Sales Order](../../process-c_order-po_create.md)

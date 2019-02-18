@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Web Store](functional-guide/window/window-web-store.md)
+[Web Store](../../window-web-store.md)

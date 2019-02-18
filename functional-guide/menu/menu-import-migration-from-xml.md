@@ -18,4 +18,4 @@ Menu Type
 **Process**
 
 
-[Import migration from XML](functional-guide/process/process-ad_migration-import.md)
+[Import migration from XML](../../process-ad_migration-import.md)

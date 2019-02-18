@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Request Category](functional-guide/window/window-request-category.md)
+[Request Category](../../window-request-category.md)

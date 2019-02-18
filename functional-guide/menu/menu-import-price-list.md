@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Price List](functional-guide/window/window-import-price-list.md)
+[Import Price List](../../window-import-price-list.md)

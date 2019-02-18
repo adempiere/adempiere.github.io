@@ -17,4 +17,4 @@ Menu Type
 **Process**
 
 
-[Initial Client Setup Process](functional-guide/process/process-initialclientsetup.md)
+[Initial Client Setup Process](../../process-initialclientsetup.md)

@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Import Inventory](functional-guide/window/window-import-inventory.md)
+[Import Inventory](../../window-import-inventory.md)

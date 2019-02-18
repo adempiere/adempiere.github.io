@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Smart Browse](functional-guide/window/window-smart-browse.md)
+[Smart Browse](../../window-smart-browse.md)

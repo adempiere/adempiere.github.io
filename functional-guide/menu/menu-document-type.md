@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Document Type](functional-guide/window/window-document-type.md)
+[Document Type](../../window-document-type.md)

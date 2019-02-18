@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Process Audit](functional-guide/window/window-process-audit.md)
+[Process Audit](../../window-process-audit.md)

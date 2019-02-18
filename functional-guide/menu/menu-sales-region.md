@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Sales Region](functional-guide/window/window-sales-region.md)
+[Sales Region](../../window-sales-region.md)

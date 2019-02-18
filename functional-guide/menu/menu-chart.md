@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Chart](functional-guide/window/window-chart.md)
+[Chart](../../window-chart.md)

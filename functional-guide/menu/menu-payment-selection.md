@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Payment Selection](functional-guide/window/window-payment-selection.md)
+[Payment Selection](../../window-payment-selection.md)

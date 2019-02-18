@@ -5,9 +5,9 @@ Transport Requirement Browser
 
 Transport Requirement Browser
 
-[functional-guidewindowwindow-transport-requirement](functional-guidewindowwindow-transport-requirement.md)
+[Transport Requirement](../../window-transport-requirement.md)
 
-[functional-guide/process/process-dd_transportrequirement-selection](functional-guide/process/process-dd_transportrequirement-selection.md)
+[Transport Requirement Selection](../../process-dd_transportrequirement-selection.md)
 
 ```
 Allows auto select rows of a browser

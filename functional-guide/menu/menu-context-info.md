@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Context Info](functional-guide/window/window-context-info.md)
+[Context Info](../../window-context-info.md)

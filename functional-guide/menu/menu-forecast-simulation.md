@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Forecast Simulation](functional-guide/window/window-forecast-simulation.md)
+[Forecast Simulation](../../window-forecast-simulation.md)

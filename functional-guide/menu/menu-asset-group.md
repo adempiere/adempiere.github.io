@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Asset Group](functional-guide/window/window-asset-group.md)
+[Asset Group](../../window-asset-group.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Salary Structure](functional-guide/window/window-salary-structure.md)
+[Salary Structure](../../window-salary-structure.md)

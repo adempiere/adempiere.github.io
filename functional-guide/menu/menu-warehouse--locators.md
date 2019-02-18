@@ -21,4 +21,4 @@ Menu Type
 The Sales Transaction checkbox indicates if this item is a Sales Transaction.
 ```
 
-[Warehouse & Locators](functional-guide/window/window-warehouse--locators.md)
+[Warehouse & Locators](../../window-warehouse--locators.md)

@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Import Forecast](functional-guide/window/window-import-forecast.md)
+[Import Forecast](../../window-import-forecast.md)

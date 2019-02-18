@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Cash](functional-guide/window/window-cash.md)
+[Cash](../../window-cash.md)

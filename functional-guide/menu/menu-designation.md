@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Designation](functional-guide/window/window-designation.md)
+[Designation](../../window-designation.md)

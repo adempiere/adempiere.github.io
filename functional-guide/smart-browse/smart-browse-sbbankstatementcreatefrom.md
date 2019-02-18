@@ -4,9 +4,9 @@ Bank Statement Create From
 
 
 
-[functional-guidewindowwindow-payment](functional-guidewindowwindow-payment.md)
+[Payment](../../window-payment.md)
 
-[functional-guide/process/process-sbp_createfromstatement](functional-guide/process/process-sbp_createfromstatement.md)
+[Create From Statement (Process)](../../process-sbp_createfromstatement.md)
 
 ```
 Flag to indicate if is collapsible by default

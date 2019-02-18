@@ -18,4 +18,4 @@ Menu Type
 **Window**
 
 
-[Sales Rep Info](functional-guide/window/window-sales-rep-info.md)
+[Sales Rep Info](../../window-sales-rep-info.md)
